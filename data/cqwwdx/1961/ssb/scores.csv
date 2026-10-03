@@ -1,0 +1,579 @@
+entry_id,station_callsign_source,station_callsign,location_code_source,category_source,dxcc_entity_source,overlay_category_source,score_source,score,qso_count,cq_zones,cq_countries,wpx_prefixes,multipliers,operating_hours_source,operating_hours,late_entry,award_eligibility,eligibility_basis,operator_list_complete,operators_json,category_world_rank_official,category_world_rank_calculated,category_in_dxcc_rank_official,category_in_dxcc_rank_calculated,overlay_world_rank_official,overlay_world_rank_calculated,overlay_in_dxcc_rank_official,overlay_in_dxcc_rank_calculated,metrics_json
+cqww-dx:1961:ssb:4S7YL:e6624ad866c87b16,4S7YL,4S7YL,4S,SO HIGH ALL,,,"19,285",19285,103,35,60,,,-,,false,eligible,official_final_score_row,true,[],,99,,,,,,,{}
+cqww-dx:1961:ssb:4X4DK:7595200eb05dbc6b,4X4DK,4X4DK,4X,SO HIGH 40M,,,"22,410",22410,147,12,42,,,-,,false,eligible,official_final_score_row,true,[],,1,,,,,,,{}
+cqww-dx:1961:ssb:4X4MJ:c816349f76e7bf95,4X4MJ,4X4MJ,4X,SO HIGH ALL,,,"19,825",19825,105,18,47,,,-,,false,eligible,official_final_score_row,true,[],,98,,,,,,,{}
+cqww-dx:1961:ssb:4X4OC:c816349f76e7bf95,4X4OC,4X4OC,4X,SO HIGH ALL,,,"244,016",244016,429,61,155,,,-,,false,eligible,official_final_score_row,true,[],,9,,,,,,,{}
+cqww-dx:1961:ssb:5A3CAD:22f92bfd7bb721ec,5A3CAD,5A3CAD,5A,MULTI-SINGLE HIGH,,,"338,100",338100,670,47,128,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""5A3CAD"",""callsign"":""5A3CAD""},{""source"":""5A3CAE"",""callsign"":""5A3CAE""}]",,2,,,,,,,{}
+cqww-dx:1961:ssb:5A3TY:9acee7fc503921ea,5A3TY,5A3TY,5A,SO HIGH ALL,,,"189,826",189826,372,53,129,,,-,,false,eligible,official_final_score_row,true,[],,11,,,,,,,{}
+cqww-dx:1961:ssb:5N2JKO:2f97a1a334b5f7ca,5N2JKO,5N2JKO,5N,SO HIGH ALL,,,"302,220",302220,485,65,165,,,-,,false,eligible,official_final_score_row,true,[],,4,,,,,,,{}
+cqww-dx:1961:ssb:5N2RSB:d5980d9de5aa9ff1,5N2RSB,5N2RSB,5N,SO HIGH 15M,,,"23,170",23170,130,18,52,,,-,,false,eligible,official_final_score_row,true,[],,9,,,,,,,{}
+cqww-dx:1961:ssb:5N2SMW:e0e6581cdd79e347,5N2SMW,5N2SMW,5N,SO HIGH 20M,,,"5,136",5136,46,17,31,,,-,,false,eligible,official_final_score_row,true,[],,89,,,,,,,{}
+cqww-dx:1961:ssb:5R8AD:da4b6014e997e296,5R8AD,5R8AD,5R,SO HIGH 15M,,,"3,108",3108,43,14,23,,,-,,false,eligible,official_final_score_row,true,[],,52,,,,,,,{}
+cqww-dx:1961:ssb:9G1YL:2c51146babc91a00,9G1YL,9G1YL,9G,SO HIGH 15M,,,"51,000",51000,213,21,64,,,-,,false,eligible,official_final_score_row,true,[],,2,,,,,,,{}
+cqww-dx:1961:ssb:AP2MR:12f6e3fc96d44f40,AP2MR,AP2MR,AP,SO HIGH 15M,,,"34,240",34240,189,24,56,,,-,,false,eligible,official_final_score_row,true,[],,5,,,,,,,{}
+cqww-dx:1961:ssb:BV1US:8bcc94663d3ce412,BV1US,BV1US,BV,MULTI-SINGLE HIGH,,,"62,532",62532,323,29,52,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""W5OUT"",""callsign"":""W5OUT""},{""source"":""K0YXU"",""callsign"":""K0YXU""},{""source"":""W0DRO"",""callsign"":""W0DRO""}]",,18,,,,,,,{}
+cqww-dx:1961:ssb:CE3CQ:076d28bcb17cb69a,CE3CQ,CE3CQ,CE,SO HIGH 15M,,,"3,540",3540,48,14,16,,,-,,false,eligible,official_final_score_row,true,[],,51,,,,,,,{}
+cqww-dx:1961:ssb:CE3VU:8d786b5f4e5c44ee,CE3VU,CE3VU,CE,SO HIGH 20M,,,"74,844",74844,291,30,54,,,-,,false,eligible,official_final_score_row,true,[],,11,,,,,,,{}
+cqww-dx:1961:ssb:CN8BB:fadcd0f7a61c1e0d,CN8BB,CN8BB,CN,SO HIGH ALL,,,"11,322",11322,80,17,34,,,-,,false,eligible,official_final_score_row,true,[],,127,,,,,,,{}
+cqww-dx:1961:ssb:CN8EU:fadcd0f7a61c1e0d,CN8EU,CN8EU,CN,SO HIGH ALL,,,"105,588",105588,306,36,90,,,-,,false,eligible,official_final_score_row,true,[],,21,,,,,,,{}
+cqww-dx:1961:ssb:CO2CT:a4a4f24b45a0af2e,CO2CT,CO2CT,CM,SO HIGH ALL,,,"27,432",27432,146,43,65,,,-,,false,eligible,official_final_score_row,true,[],,74,,,,,,,{}
+cqww-dx:1961:ssb:CO8RA:5a712ecf71c4ad2e,CO8RA,CO8RA,CM,MULTI-SINGLE HIGH,,,"56,875",56875,285,49,76,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""ROD"",""callsign"":""ROD""},{""source"":""RAY"",""callsign"":""RAY""}]",,20,,,,,,,{}
+cqww-dx:1961:ssb:CR6CA:d928782d02960478,CR6CA,CR6CA,D2,SO HIGH 20M,,,"60,350",60350,292,25,46,,,-,,false,eligible,official_final_score_row,true,[],,15,,,,,,,{}
+cqww-dx:1961:ssb:CR7CI:604d9c17f0485a6f,CR7CI,CR7CI,C9,SO HIGH ALL,,,"3,737",3737,41,13,24,,,-,,false,eligible,official_final_score_row,true,[],,160,,,,,,,{}
+cqww-dx:1961:ssb:CT1EY:c52f9d2c527924dc,CT1EY,CT1EY,CT,MULTI-SINGLE HIGH,,,"200,169",200169,588,57,150,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CT1EY"",""callsign"":""CT1EY""},{""source"":""CT1YE"",""callsign"":""CT1YE""}]",,5,,,,,,,{}
+cqww-dx:1961:ssb:CT1FM:362e8e8c6bd70b19,CT1FM,CT1FM,CT,SO HIGH 15M,,,"14,625",14625,106,18,47,,,-,,false,eligible,official_final_score_row,true,[],,19,,,,,,,{}
+cqww-dx:1961:ssb:CT1HX:d8dbcc088ec06c44,CT1HX,CT1HX,CT,SO HIGH ALL,,,"10,578",10578,70,27,55,,,-,,false,eligible,official_final_score_row,true,[],,129,,,,,,,{}
+cqww-dx:1961:ssb:CT1IC:362e8e8c6bd70b19,CT1IC,CT1IC,CT,SO HIGH 15M,,,"13,322",13322,110,16,45,,,-,,false,eligible,official_final_score_row,true,[],,25,,,,,,,{}
+cqww-dx:1961:ssb:CT1KF:d8dbcc088ec06c44,CT1KF,CT1KF,CT,SO HIGH ALL,,,"39,680",39680,248,31,73,,,-,,false,eligible,official_final_score_row,true,[],,55,,,,,,,{}
+cqww-dx:1961:ssb:CT1PK:362e8e8c6bd70b19,CT1PK,CT1PK,CT,SO HIGH 15M,,,"13,481",13481,110,17,44,,,-,,false,eligible,official_final_score_row,true,[],,24,,,,,,,{}
+cqww-dx:1961:ssb:CT1QF:362e8e8c6bd70b19,CT1QF,CT1QF,CT,SO HIGH 15M,,,"21,024",21024,147,18,54,,,-,,false,eligible,official_final_score_row,true,[],,12,,,,,,,{}
+cqww-dx:1961:ssb:CX1OR:b3328c00cf1d9ec4,CX1OR,CX1OR,CX,SO HIGH ALL,,,620,620,13,10,10,,,-,,false,eligible,official_final_score_row,true,[],,191,,,,,,,{}
+cqww-dx:1961:ssb:CX2CO:b3328c00cf1d9ec4,CX2CO,CX2CO,CX,SO HIGH ALL,,,"876,304",876304,1070,88,198,,,-,,false,eligible,official_final_score_row,true,[],,1,,,,,,,{}
+cqww-dx:1961:ssb:CX6AR:b3328c00cf1d9ec4,CX6AR,CX6AR,CX,SO HIGH ALL,,,"20,079",20079,113,29,40,,,-,,false,eligible,official_final_score_row,true,[],,94,,,,,,,{}
+cqww-dx:1961:ssb:CX9AW:b3328c00cf1d9ec4,CX9AW,CX9AW,CX,SO HIGH ALL,,,"2,886",2886,38,19,20,,,-,,false,eligible,official_final_score_row,true,[],,170,,,,,,,{}
+cqww-dx:1961:ssb:DJ1BZ:2e080b87c2273a2f,DJ1BZ,DJ1BZ,DL,SO HIGH 20M,,,"145,452",145452,473,32,92,,,-,,false,eligible,official_final_score_row,true,[],,2,,,,,,,{}
+cqww-dx:1961:ssb:DJ1LP:6ac3cc398363fe1d,DJ1LP,DJ1LP,DL,SO HIGH 10M,,,"4,956",4956,51,14,28,,,-,,false,eligible,official_final_score_row,true,[],,11,,,,,,,{}
+cqww-dx:1961:ssb:DJ1PN:8fb7c10fb8115a72,DJ1PN,DJ1PN,DL,SO HIGH ALL,,,"4,235",4235,49,14,41,,,-,,false,eligible,official_final_score_row,true,[],,157,,,,,,,{}
+cqww-dx:1961:ssb:DJ1ZG:76bb54f22867f3f9,DJ1ZG,DJ1ZG,DL,SO HIGH 15M,,,"14,490",14490,92,19,50,,,-,,false,eligible,official_final_score_row,true,[],,20,,,,,,,{}
+cqww-dx:1961:ssb:DJ2AA:8fb7c10fb8115a72,DJ2AA,DJ2AA,DL,SO HIGH ALL,,,"64,032",64032,224,38,136,,,-,,false,eligible,official_final_score_row,true,[],,36,,,,,,,{}
+cqww-dx:1961:ssb:DJ2UU:8fb7c10fb8115a72,DJ2UU,DJ2UU,DL,SO HIGH ALL,,,"8,892",8892,109,15,63,,,-,,false,eligible,official_final_score_row,true,[],,135,,,,,,,{}
+cqww-dx:1961:ssb:DJ2YA:8fb7c10fb8115a72,DJ2YA,DJ2YA,DL,SO HIGH ALL,,,"61,451",61451,297,33,130,,,-,,false,eligible,official_final_score_row,true,[],,38,,,,,,,{}
+cqww-dx:1961:ssb:DJ2YS:2e080b87c2273a2f,DJ2YS,DJ2YS,DL,SO HIGH 20M,,,"3,444",3444,63,10,32,,,-,,false,eligible,official_final_score_row,true,[],,102,,,,,,,{}
+cqww-dx:1961:ssb:DJ3CP:2e080b87c2273a2f,DJ3CP,DJ3CP,DL,SO HIGH 20M,,,"17,544",17544,112,20,66,,,-,,false,eligible,official_final_score_row,true,[],,57,,,,,,,{}
+cqww-dx:1961:ssb:DJ3KR:2e080b87c2273a2f,DJ3KR,DJ3KR,DL,SO HIGH 20M,,,"62,016",62016,262,32,82,,,-,,false,eligible,official_final_score_row,true,[],,13,,,,,,,{}
+cqww-dx:1961:ssb:DJ3OU:dbf18362bdba2b25,DJ3OU,DJ3OU,DL,MULTI-MULTI,,,"220,818",220818,480,61,186,,,-,,false,eligible,official_final_score_row,false,"[{""source"":""DJ9OU"",""callsign"":""DJ9OU""},{""source"":""DL1HC"",""callsign"":""DL1HC""},{""source"":""DJ3YV"",""callsign"":""DJ3YV""},{""source"":""DJ4OT"",""callsign"":""DJ4OT""},{""source"":""DL6NK"",""callsign"":""DL6NK""},{""source"":""DJ6WI"",""callsign"":""DJ6WI""}]",,2,,,,,,,{}
+cqww-dx:1961:ssb:DJ3VM:5ebad6192c31c47a,DJ3VM,DJ3VM,DL,MULTI-SINGLE HIGH,,,"233,412",233412,484,60,152,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""DJ3VM"",""callsign"":""DJ3VM""},{""source"":""DJ1BP"",""callsign"":""DJ1BP""},{""source"":""DL1CR"",""callsign"":""DL1CR""},{""source"":""DL3AO"",""callsign"":""DL3AO""},{""source"":""DJ3JZ"",""callsign"":""DJ3JZ""},{""source"":""DJ4LI"",""callsign"":""DJ4LI""}]",,4,,,,,,,{}
+cqww-dx:1961:ssb:DJ5BVA:8fb7c10fb8115a72,DJ5BVA,DJ5BVA,DL,SO HIGH ALL,,,"33,411",33411,222,26,103,,,-,,false,eligible,official_final_score_row,true,[],,66,,,,,,,{}
+cqww-dx:1961:ssb:DJ6BI:2e080b87c2273a2f,DJ6BI,DJ6BI,DL,SO HIGH 20M,,,"1,767",1767,49,6,25,,,-,,false,eligible,official_final_score_row,true,[],,118,,,,,,,{}
+cqww-dx:1961:ssb:DJ7CL:8fb7c10fb8115a72,DJ7CL,DJ7CL,DL,SO HIGH ALL,,,"36,125",36125,188,31,94,,,-,,false,eligible,official_final_score_row,true,[],,60,,,,,,,{}
+cqww-dx:1961:ssb:DL0OS:5ebad6192c31c47a,DL0OS,DL0OS,DL,MULTI-SINGLE HIGH,,,"69,078",69078,260,48,126,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""DL2BL"",""callsign"":""DL2BL""},{""source"":""DJ2HH"",""callsign"":""DJ2HH""},{""source"":""DJ4OZ"",""callsign"":""DJ4OZ""},{""source"":""DJ4PE"",""callsign"":""DJ4PE""}]",,15,,,,,,,{}
+cqww-dx:1961:ssb:DL1FK:8fb7c10fb8115a72,DL1FK,DL1FK,DL,SO HIGH ALL,,,"84,337",84337,285,38,83,,,-,,false,eligible,official_final_score_row,true,[],,30,,,,,,,{}
+cqww-dx:1961:ssb:DL1JW:8fb7c10fb8115a72,DL1JW,DL1JW,DL,SO HIGH ALL,,,"64,944",64944,233,52,124,,,-,,false,eligible,official_final_score_row,true,[],,34,,,,,,,{}
+cqww-dx:1961:ssb:DL1NT:76bb54f22867f3f9,DL1NT,DL1NT,DL,SO HIGH 15M,,,520,520,15,7,13,,,-,,false,eligible,official_final_score_row,true,[],,75,,,,,,,{}
+cqww-dx:1961:ssb:DL3DC:8fb7c10fb8115a72,DL3DC,DL3DC,DL,SO HIGH ALL,,,"4,120",4120,56,12,28,,,-,,false,eligible,official_final_score_row,true,[],,158,,,,,,,{}
+cqww-dx:1961:ssb:DL3DW:8fb7c10fb8115a72,DL3DW,DL3DW,DL,SO HIGH ALL,,,"27,248",27248,116,39,92,,,-,,false,eligible,official_final_score_row,true,[],,75,,,,,,,{}
+cqww-dx:1961:ssb:DL3TJ:76bb54f22867f3f9,DL3TJ,DL3TJ,DL,SO HIGH 15M,,,"35,200",35200,175,23,77,,,-,,false,eligible,official_final_score_row,true,[],,4,,,,,,,{}
+cqww-dx:1961:ssb:DL4FKT:dbf18362bdba2b25,DL4FKT,DL4FKT,DL,MULTI-MULTI,,,"58,286",58286,303,33,118,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""DL1TA"",""callsign"":""DL1TA""},{""source"":""DL4UC"",""callsign"":""DL4UC""},{""source"":""DL4IU"",""callsign"":""DL4IU""},{""source"":""DL5AC"",""callsign"":""DL5AC""},{""source"":""DL5BM"",""callsign"":""DL5BM""}]",,4,,,,,,,{}
+cqww-dx:1961:ssb:DL4FX:5ebad6192c31c47a,DL4FX,DL4FX,DL,MULTI-SINGLE HIGH,,,"66,444",66444,246,44,103,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""DL4FX"",""callsign"":""DL4FX""},{""source"":""DL4FC"",""callsign"":""DL4FC""}]",,17,,,,,,,{}
+cqww-dx:1961:ssb:DL4NQ:2e080b87c2273a2f,DL4NQ,DL4NQ,DL,SO HIGH 20M,,,"35,244",35244,185,28,61,,,-,,false,eligible,official_final_score_row,true,[],,32,,,,,,,{}
+cqww-dx:1961:ssb:DL4PB:1318d5135e629463,DL4PB,DL4PB,DL,SO HIGH 40M,,,"2,190",2190,73,5,25,,,-,,false,eligible,official_final_score_row,true,[],,4,,,,,,,{}
+cqww-dx:1961:ssb:DL5BK:2e080b87c2273a2f,DL5BK,DL5BK,DL,SO HIGH 20M,,,"35,784",35784,204,26,58,,,-,,false,eligible,official_final_score_row,true,[],,30,,,,,,,{}
+cqww-dx:1961:ssb:DL5BR:5ebad6192c31c47a,DL5BR,DL5BR,DL,MULTI-SINGLE HIGH,,,"67,320",67320,268,37,99,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,16,,,,,,,{}
+cqww-dx:1961:ssb:DL5EI:2e080b87c2273a2f,DL5EI,DL5EI,DL,SO HIGH 20M,,,"3,293",3293,83,9,28,,,-,,false,eligible,official_final_score_row,true,[],,104,,,,,,,{}
+cqww-dx:1961:ssb:DL5GP:2e080b87c2273a2f,DL5GP,DL5GP,DL,SO HIGH 20M,,,"1,286",1286,41,7,22,,,-,,false,eligible,official_final_score_row,true,[],,125,,,,,,,{}
+cqww-dx:1961:ssb:DL5HI:2e080b87c2273a2f,DL5HI,DL5HI,DL,SO HIGH 20M,,,"114,121",114121,469,29,90,,,-,,false,eligible,official_final_score_row,true,[],,3,,,,,,,{}
+cqww-dx:1961:ssb:DL5IX:8fb7c10fb8115a72,DL5IX,DL5IX,DL,SO HIGH ALL,,,"7,936",7936,68,20,44,,,-,,false,eligible,official_final_score_row,true,[],,138,,,,,,,{}
+cqww-dx:1961:ssb:DL6EY:2e080b87c2273a2f,DL6EY,DL6EY,DL,SO HIGH 20M,,,"2,886",2886,44,11,28,,,-,,false,eligible,official_final_score_row,true,[],,107,,,,,,,{}
+cqww-dx:1961:ssb:DL7BQ:8fb7c10fb8115a72,DL7BQ,DL7BQ,DL,SO HIGH ALL,,,"15,035",15035,97,27,70,,,-,,false,eligible,official_final_score_row,true,[],,111,,,,,,,{}
+cqww-dx:1961:ssb:DL7EN:8fb7c10fb8115a72,DL7EN,DL7EN,DL,SO HIGH ALL,,,"10,720",10720,76,26,54,,,-,,false,eligible,official_final_score_row,true,[],,128,,,,,,,{}
+cqww-dx:1961:ssb:DL7HU:2e080b87c2273a2f,DL7HU,DL7HU,DL,SO HIGH 20M,,,"25,925",25925,170,24,61,,,-,,false,eligible,official_final_score_row,true,[],,44,,,,,,,{}
+cqww-dx:1961:ssb:DL9YC:2e080b87c2273a2f,DL9YC,DL9YC,DL,SO HIGH 20M,,,"1,092",1092,28,8,18,,,-,,false,eligible,official_final_score_row,true,[],,130,,,,,,,{}
+cqww-dx:1961:ssb:DM2BEL:8fb7c10fb8115a72,DM2BEL,DM2BEL,DL,SO HIGH ALL,,,"4,667",4667,83,15,44,,,-,,false,eligible,official_final_score_row,true,[],,155,,,,,,,{}
+cqww-dx:1961:ssb:DM3XL:1f98e5aac85d901c,DM3XL,DM3XL,DL,SO HIGH 80M,,,45,45,9,2,3,,,-,,false,eligible,official_final_score_row,true,[],,7,,,,,,,{}
+cqww-dx:1961:ssb:EA0AB:703c8a0813e814a9,EA0AB,EA0AB,3C,SO HIGH 15M,,,"4,329",4329,51,13,26,,,-,,false,eligible,official_final_score_row,true,[],,47,,,,,,,{}
+cqww-dx:1961:ssb:EA2CK:e159761d6fe84d8a,EA2CK,EA2CK,EA,SO HIGH 15M,,,"13,923",13923,114,18,45,,,-,,false,eligible,official_final_score_row,true,[],,22,,,,,,,{}
+cqww-dx:1961:ssb:EA2EL:c8c3ff7932832487,EA2EL,EA2EL,EA,SO HIGH ALL,,,"28,672",28672,152,30,82,,,-,,false,eligible,official_final_score_row,true,[],,73,,,,,,,{}
+cqww-dx:1961:ssb:EA3LA:e159761d6fe84d8a,EA3LA,EA3LA,EA,SO HIGH 15M,,,"8,322",8322,89,13,44,,,-,,false,eligible,official_final_score_row,true,[],,36,,,,,,,{}
+cqww-dx:1961:ssb:EA3NA:c8c3ff7932832487,EA3NA,EA3NA,EA,SO HIGH ALL,,,"6,936",6936,60,23,45,,,-,,false,eligible,official_final_score_row,true,[],,142,,,,,,,{}
+cqww-dx:1961:ssb:EA4GR:c8c3ff7932832487,EA4GR,EA4GR,EA,SO HIGH ALL,,,"61,420",61420,238,46,102,,,-,,false,eligible,official_final_score_row,true,[],,39,,,,,,,{}
+cqww-dx:1961:ssb:EA7IT:c8c3ff7932832487,EA7IT,EA7IT,EA,SO HIGH ALL,,,"3,569",3569,72,13,30,,,-,,false,eligible,official_final_score_row,true,[],,162,,,,,,,{}
+cqww-dx:1961:ssb:EA8CN:03162f7a5fe703c9,EA8CN,EA8CN,EA8,SO HIGH ALL,,,"3,300",3300,38,11,19,,,-,,false,eligible,official_final_score_row,true,[],,163,,,,,,,{}
+cqww-dx:1961:ssb:EI8P:da51b17f1f429930,EI8P,EI8P,EI,SO HIGH 20M,,,"18,963",18963,180,17,46,,,-,,false,eligible,official_final_score_row,true,[],,54,,,,,,,{}
+cqww-dx:1961:ssb:EL1C:e3a2a4b551c87db7,EL1C,EL1C,EL,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:EP2AG:e26519e2dee3404e,EP2AG,EP2AG,EP,SO HIGH 20M,,,"43,056",43056,197,27,65,,,-,,false,eligible,official_final_score_row,true,[],,27,,,,,,,{}
+cqww-dx:1961:ssb:EP2AT:81080b2f7534d90a,EP2AT,EP2AT,EP,SO HIGH ALL,,,"43,788",43788,201,26,56,,,-,,false,eligible,official_final_score_row,true,[],,48,,,,,,,{}
+cqww-dx:1961:ssb:EP2BB:81080b2f7534d90a,EP2BB,EP2BB,EP,SO HIGH ALL,,,"3,285",3285,34,18,27,,,-,,false,eligible,official_final_score_row,true,[],,164,,,,,,,{}
+cqww-dx:1961:ssb:EP2BE:854703917653e2e6,EP2BE,EP2BE,EP,SO HIGH 15M,,,"20,445",20445,102,28,59,,,-,,false,eligible,official_final_score_row,true,[],,13,,,,,,,{}
+cqww-dx:1961:ssb:ET3RS:f35efedc0b58c4fd,ET3RS,ET3RS,ET,MULTI-SINGLE HIGH,,,"137,768",137768,353,39,97,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""ET3RS"",""callsign"":""ET3RS""},{""source"":""OD5CT"",""callsign"":""OD5CT""},{""source"":""YN1EP"",""callsign"":""YN1EP""}]",,8,,,,,,,{}
+cqww-dx:1961:ssb:F2QH:f97d134a14fab5f1,F2QH,F2QH,F,SO HIGH ALL,,,"3,120",3120,68,10,30,,,-,,false,eligible,official_final_score_row,true,[],,168,,,,,,,{}
+cqww-dx:1961:ssb:F2RO:61497c195acff5be,F2RO,F2RO,F,SO HIGH 20M,,,851,851,29,6,17,,,-,,false,eligible,official_final_score_row,true,[],,133,,,,,,,{}
+cqww-dx:1961:ssb:F2YT:74338fd965196f38,F2YT,F2YT,F,SO HIGH 80M,,,"2,357",2357,89,4,23,,,-,,false,eligible,official_final_score_row,true,[],,4,,,,,,,{}
+cqww-dx:1961:ssb:F3OX:f97d134a14fab5f1,F3OX,F3OX,F,SO HIGH ALL,,,"25,602",25602,166,33,69,,,-,,false,eligible,official_final_score_row,true,[],,78,,,,,,,{}
+cqww-dx:1961:ssb:F3PK:f97d134a14fab5f1,F3PK,F3PK,F,SO HIGH ALL,,,"12,118",12118,104,24,59,,,-,,false,eligible,official_final_score_row,true,[],,122,,,,,,,{}
+cqww-dx:1961:ssb:F7HM:61497c195acff5be,F7HM,F7HM,F,SO HIGH 20M,,,"37,233",37233,281,18,45,,,-,,false,eligible,official_final_score_row,true,[],,28,,,,,,,{}
+cqww-dx:1961:ssb:F8TM:f97d134a14fab5f1,F8TM,F8TM,F,SO HIGH ALL,,,240,240,11,6,10,,,-,,false,eligible,official_final_score_row,true,[],,200,,,,,,,{}
+cqww-dx:1961:ssb:F8WE:f97d134a14fab5f1,F8WE,F8WE,F,SO HIGH ALL,,,"35,211",35211,245,29,92,,,-,,false,eligible,official_final_score_row,true,[],,62,,,,,,,{}
+cqww-dx:1961:ssb:F8XP:f15918cecd8af21f,F8XP,F8XP,F,SO HIGH 15M,,,"4,704",4704,60,13,36,,,-,,false,eligible,official_final_score_row,true,[],,46,,,,,,,{}
+cqww-dx:1961:ssb:F9LO:61497c195acff5be,F9LO,F9LO,F,SO HIGH 20M,,,532,532,28,3,16,,,-,,false,eligible,official_final_score_row,true,[],,140,,,,,,,{}
+cqww-dx:1961:ssb:G2AJB:9e26b52e97bc3428,G2AJB,G2AJB,G,SO HIGH 20M,,,"1,872",1872,43,9,27,,,-,,false,eligible,official_final_score_row,true,[],,117,,,,,,,{}
+cqww-dx:1961:ssb:G3DKR:e294a932db300559,G3DKR,G3DKR,G,SO HIGH ALL,,,"15,698",15698,109,28,66,,,-,,false,eligible,official_final_score_row,true,[],,109,,,,,,,{}
+cqww-dx:1961:ssb:G3FXB:21fa67e1b90f0c62,G3FXB,G3FXB,G,SO HIGH 15M,,,"50,648",50648,228,22,82,,,-,,false,eligible,official_final_score_row,true,[],,3,,,,,,,{}
+cqww-dx:1961:ssb:G3JUL:d604383ebb4b30a7,G3JUL,G3JUL,G,SO HIGH 40M,,,"2,666",2666,81,6,25,,,-,,false,eligible,official_final_score_row,true,[],,3,,,,,,,{}
+cqww-dx:1961:ssb:G3KXA:9e26b52e97bc3428,G3KXA,G3KXA,G,SO HIGH 20M,,,"71,500",71500,318,28,72,,,-,,false,eligible,official_final_score_row,true,[],,12,,,,,,,{}
+cqww-dx:1961:ssb:G3LNG:e294a932db300559,G3LNG,G3LNG,G,SO HIGH ALL,,,"17,856",17856,163,24,69,,,-,,false,eligible,official_final_score_row,true,[],,104,,,,,,,{}
+cqww-dx:1961:ssb:G3MEA:9e26b52e97bc3428,G3MEA,G3MEA,G,SO HIGH 20M,,,"19,170",19170,140,19,52,,,-,,false,eligible,official_final_score_row,true,[],,53,,,,,,,{}
+cqww-dx:1961:ssb:G3MWZ:e294a932db300559,G3MWZ,G3MWZ,G,SO HIGH ALL,,,504,504,26,4,14,,,-,,false,eligible,official_final_score_row,true,[],,194,,,,,,,{}
+cqww-dx:1961:ssb:G3NFV:e294a932db300559,G3NFV,G3NFV,G,SO HIGH ALL,,,"30,284",30284,134,40,94,,,-,,false,eligible,official_final_score_row,true,[],,71,,,,,,,{}
+cqww-dx:1961:ssb:G3NGZ:a3e505297c4552b0,G3NGZ,G3NGZ,G,MULTI-SINGLE HIGH,,,"46,200",46200,260,33,107,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""G2FZK"",""callsign"":""G2FZK""},{""source"":""G3KTC"",""callsign"":""G3KTC""}]",,23,,,,,,,{}
+cqww-dx:1961:ssb:G3NNT:9e26b52e97bc3428,G3NNT,G3NNT,G,SO HIGH 20M,,,"108,968",108968,520,27,79,,,-,,false,eligible,official_final_score_row,true,[],,4,,,,,,,{}
+cqww-dx:1961:ssb:G3OHM:a3e505297c4552b0,G3OHM,G3OHM,G,MULTI-SINGLE HIGH,,,"22,236",22236,169,28,74,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""RADIO"",""callsign"":""RADIO""},{""source"":""SOCIETY"",""callsign"":""SOCIETY""}]",,32,,,,,,,{}
+cqww-dx:1961:ssb:GI3CDF:8126d2fe5907464f,GI3CDF,GI3CDF,GI,MULTI-SINGLE HIGH,,,"133,450",133450,434,46,111,,,-,,false,eligible,official_final_score_row,false,"[{""source"":""GI3CVH"",""callsign"":""GI3CVH""},{""source"":""GI3FJA"",""callsign"":""GI3FJA""},{""source"":""GI3GSB"",""callsign"":""GI3GSB""},{""source"":""GI3ILV"",""callsign"":""GI3ILV""},{""source"":""GI3JGZ"",""callsign"":""GI3JGZ""}]",,9,,,,,,,{}
+cqww-dx:1961:ssb:GI3JIM:c5f7bfbe48c7857d,GI3JIM,GI3JIM,GI,SO HIGH ALL,,,"54,536",54536,295,37,99,,,-,,false,eligible,official_final_score_row,true,[],,42,,,,,,,{}
+cqww-dx:1961:ssb:GI4RY:98e9b256f453e784,GI4RY,GI4RY,GI,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:GM3BCL:48fd530effc4344b,GM3BCL,GM3BCL,GM,SO HIGH ALL,,,"21,780",21780,200,20,70,,,-,,false,eligible,official_final_score_row,true,[],,90,,,,,,,{}
+cqww-dx:1961:ssb:GM3JDR:d290937250d03fb6,GM3JDR,GM3JDR,GM,SO HIGH 20M,,,"27,972",27972,253,20,54,,,-,,false,eligible,official_final_score_row,true,[],,39,,,,,,,{}
+cqww-dx:1961:ssb:GM3NQB:d290937250d03fb6,GM3NQB,GM3NQB,GM,SO HIGH 20M,,,"2,700",2700,109,3,22,,,-,,false,eligible,official_final_score_row,true,[],,112,,,,,,,{}
+cqww-dx:1961:ssb:GW3CDP:1673c18fae2c007e,GW3CDP,GW3CDP,GW,SO HIGH ALL,,,"22,936",22936,192,21,73,,,-,,false,eligible,official_final_score_row,true,[],,86,,,,,,,{}
+cqww-dx:1961:ssb:HA1KSA:9ab002980de34ff7,HA1KSA,HA1KSA,HA,MULTI-SINGLE HIGH,,,"33,170",33170,230,24,83,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,28,,,,,,,{}
+cqww-dx:1961:ssb:HA5DG:3269eff3047561f0,HA5DG,HA5DG,HA,SO HIGH ALL,,,"1,716",1716,41,16,28,,,-,,false,eligible,official_final_score_row,true,[],,176,,,,,,,{}
+cqww-dx:1961:ssb:HA9KOB:3269eff3047561f0,HA9KOB,HA9KOB,HA,SO HIGH ALL,,,"9,328",9328,150,14,39,,,-,,false,eligible,official_final_score_row,true,[],,133,,,,,,,{}
+cqww-dx:1961:ssb:HA9OZ:3269eff3047561f0,HA9OZ,HA9OZ,HA,SO HIGH ALL,,,"59,164",59164,311,34,110,,,-,,false,eligible,official_final_score_row,true,[],,41,,,,,,,{}
+cqww-dx:1961:ssb:HB9DX:4e52e305570f113c,HB9DX,HB9DX,HB,SO HIGH 15M,,,"1,920",1920,29,10,22,,,-,,false,eligible,official_final_score_row,true,[],,58,,,,,,,{}
+cqww-dx:1961:ssb:HB9KO:4e52e305570f113c,HB9KO,HB9KO,HB,SO HIGH 15M,,,"14,003",14003,101,16,51,,,-,,false,eligible,official_final_score_row,true,[],,21,,,,,,,{}
+cqww-dx:1961:ssb:HB9UD:b9377b9bff575fd5,HB9UD,HB9UD,HB,SO HIGH ALL,,,"6,496",6496,89,15,43,,,-,,false,eligible,official_final_score_row,true,[],,146,,,,,,,{}
+cqww-dx:1961:ssb:HC1AGI:41da073a06cacd19,HC1AGI,HC1AGI,HC,SO HIGH ALL,,,"290,928",290928,755,56,76,,,-,,false,eligible,official_final_score_row,true,[],,5,,,,,,,{}
+cqww-dx:1961:ssb:HH2ML:e1ce45d850c3b344,HH2ML,HH2ML,HH,SO HIGH 20M,,,"2,450",2450,67,9,16,,,-,,false,eligible,official_final_score_row,true,[],,113,,,,,,,{}
+cqww-dx:1961:ssb:HK2YO:bae821b80c4663f9,HK2YO,HK2YO,HK,SO HIGH ALL,,,"25,051",25051,171,21,26,,,-,,false,eligible,official_final_score_row,true,[],,80,,,,,,,{}
+cqww-dx:1961:ssb:HK3JK:bae821b80c4663f9,HK3JK,HK3JK,HK,SO HIGH ALL,,,"95,352",95352,292,42,74,,,-,,false,eligible,official_final_score_row,true,[],,23,,,,,,,{}
+cqww-dx:1961:ssb:HK3LX:bae821b80c4663f9,HK3LX,HK3LX,HK,SO HIGH ALL,,,"186,961",186961,389,58,105,,,-,,false,eligible,official_final_score_row,true,[],,12,,,,,,,{}
+cqww-dx:1961:ssb:HK3RQ:bae821b80c4663f9,HK3RQ,HK3RQ,HK,SO HIGH ALL,,,"14,948",14948,76,32,42,,,-,,false,eligible,official_final_score_row,true,[],,113,,,,,,,{}
+cqww-dx:1961:ssb:HK4EB:bae821b80c4663f9,HK4EB,HK4EB,HK,SO HIGH ALL,,,"130,500",130500,330,52,93,,,-,,false,eligible,official_final_score_row,true,[],,16,,,,,,,{}
+cqww-dx:1961:ssb:HM1AP:05fc8309cbe2dc4f,HM1AP,HM1AP,HL,SO HIGH ALL,,,216,216,24,3,6,,,-,,false,eligible,official_final_score_row,true,[],,203,,,,,,,{}
+cqww-dx:1961:ssb:HM4AQ:e38ead996efcdf2a,HM4AQ,HM4AQ,HL,SO HIGH 20M,,,"17,596",17596,156,21,32,,,-,,false,eligible,official_final_score_row,true,[],,56,,,,,,,{}
+cqww-dx:1961:ssb:HP1AC:c83f9f97646853c6,HP1AC,HP1AC,HP,SO HIGH ALL,,,"2,340",2340,39,16,20,,,-,,false,eligible,official_final_score_row,true,[],,174,,,,,,,{}
+cqww-dx:1961:ssb:HS1B:8f544cee0d1c68d4,HS1B,HS1B,HS,SO HIGH ALL,,,"18,128",18128,122,32,56,,,-,,false,eligible,official_final_score_row,true,[],,102,,,,,,,{}
+cqww-dx:1961:ssb:HS1K:b24e27541a361879,HS1K,HS1K,HS,SO HIGH 20M,,,"3,946",3946,56,17,25,,,-,,false,eligible,official_final_score_row,true,[],,99,,,,,,,{}
+cqww-dx:1961:ssb:HV1CN:161efb83551007cf,HV1CN,HV1CN,HV,MULTI-SINGLE HIGH,,,"169,708",169708,646,40,93,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""I1CNS"",""callsign"":""I1CNS""},{""source"":""W2BBV"",""callsign"":""W2BBV""},{""source"":""W2BIB"",""callsign"":""W2BIB""}]",,7,,,,,,,{}
+cqww-dx:1961:ssb:I1AIM:62b6ea089ffa90f2,I1AIM,I1AIM,I,SO HIGH 80M,,,"7,560",7560,205,5,31,,,-,,false,eligible,official_final_score_row,true,[],,1,,,,,,,{}
+cqww-dx:1961:ssb:I1CMA:f98a116f13e98d70,I1CMA,I1CMA,I,SO HIGH 15M,,,"9,145",9145,68,15,44,,,-,,false,eligible,official_final_score_row,true,[],,32,,,,,,,{}
+cqww-dx:1961:ssb:I1CSP:b84cf5dd4d493f14,I1CSP,I1CSP,I,SO HIGH ALL,,,"22,310",22310,192,29,68,,,-,,false,eligible,official_final_score_row,true,[],,89,,,,,,,{}
+cqww-dx:1961:ssb:I1KQ:144325766439c38b,I1KQ,I1KQ,I,MULTI-MULTI,,,"40,608",40608,182,36,105,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""I1KQ"",""callsign"":""I1KQ""},{""source"":""I1DH"",""callsign"":""I1DH""},{""source"":""I1SF"",""callsign"":""I1SF""}]",,5,,,,,,,{}
+cqww-dx:1961:ssb:I1PHN:b84cf5dd4d493f14,I1PHN,I1PHN,I,SO HIGH ALL,,,"5,734",5734,81,14,44,,,-,,false,eligible,official_final_score_row,true,[],,150,,,,,,,{}
+cqww-dx:1961:ssb:I1ZLW:f98a116f13e98d70,I1ZLW,I1ZLW,I,SO HIGH 15M,,,"27,405",27405,161,22,65,,,-,,false,eligible,official_final_score_row,true,[],,8,,,,,,,{}
+cqww-dx:1961:ssb:I1ZRW:b84cf5dd4d493f14,I1ZRW,I1ZRW,I,SO HIGH ALL,,,"1,102",1102,35,8,21,,,-,,false,eligible,official_final_score_row,true,[],,184,,,,,,,{}
+cqww-dx:1961:ssb:IT1TAI:dead0e5cece403ba,IT1TAI,IT1TAI,IT9,SO HIGH ALL,,,"6,825",6825,86,15,50,,,-,,false,eligible,official_final_score_row,true,[],,143,,,,,,,{}
+cqww-dx:1961:ssb:IT1ZDA:dead0e5cece403ba,IT1ZDA,IT1ZDA,IT9,SO HIGH ALL,,,"73,313",73313,306,40,127,,,-,,false,eligible,official_final_score_row,true,[],,31,,,,,,,{}
+cqww-dx:1961:ssb:JA1AJA:9f4417438d13c169,JA1AJA,JA1AJA,JA1,SO HIGH 20M,,,416,416,16,7,9,,,-,,false,eligible,official_final_score_row,true,[],,143,,,,,,,{}
+cqww-dx:1961:ssb:JA1ALX:6f0cea33cd03de92,JA1ALX,JA1ALX,JA1,SO HIGH ALL,,,350,350,15,6,8,,,-,,false,eligible,official_final_score_row,true,[],,196,,,,,,,{}
+cqww-dx:1961:ssb:JA1ANA:9f4417438d13c169,JA1ANA,JA1ANA,JA1,SO HIGH 20M,,,713,713,13,10,13,,,-,,false,eligible,official_final_score_row,true,[],,136,,,,,,,{}
+cqww-dx:1961:ssb:JA1AS:9f4417438d13c169,JA1AS,JA1AS,JA1,SO HIGH 20M,,,252,252,13,5,7,,,-,,false,eligible,official_final_score_row,true,[],,149,,,,,,,{}
+cqww-dx:1961:ssb:JA1BK:6f0cea33cd03de92,JA1BK,JA1BK,JA1,SO HIGH ALL,,,"41,280",41280,162,45,75,,,-,,false,eligible,official_final_score_row,true,[],,53,,,,,,,{}
+cqww-dx:1961:ssb:JA1BLC:9f4417438d13c169,JA1BLC,JA1BLC,JA1,SO HIGH 20M,,,700,700,28,10,10,,,-,,false,eligible,official_final_score_row,true,[],,137,,,,,,,{}
+cqww-dx:1961:ssb:JA1BOZ:6f0cea33cd03de92,JA1BOZ,JA1BOZ,JA1,SO HIGH ALL,,,"1,628",1628,22,16,20,,,-,,false,eligible,official_final_score_row,true,[],,177,,,,,,,{}
+cqww-dx:1961:ssb:JA1BRK:1d6893c52cf1d51e,JA1BRK,JA1BRK,JA1,SO HIGH 40M,,,192,192,7,5,7,,,-,,false,eligible,official_final_score_row,true,[],,9,,,,,,,{}
+cqww-dx:1961:ssb:JA1BUI:6f0cea33cd03de92,JA1BUI,JA1BUI,JA1,SO HIGH ALL,,,"3,280",3280,46,17,24,,,-,,false,eligible,official_final_score_row,true,[],,166,,,,,,,{}
+cqww-dx:1961:ssb:JA1BWA:6f0cea33cd03de92,JA1BWA,JA1BWA,JA1,SO HIGH ALL,,,"38,350",38350,154,46,72,,,-,,false,eligible,official_final_score_row,true,[],,57,,,,,,,{}
+cqww-dx:1961:ssb:JA1BYM:6f0cea33cd03de92,JA1BYM,JA1BYM,JA1,SO HIGH ALL,,,812,812,21,12,17,,,-,,false,eligible,official_final_score_row,true,[],,187,,,,,,,{}
+cqww-dx:1961:ssb:JA1CIB:3f9336a3d7553af5,JA1CIB,JA1CIB,JA1,SO HIGH 15M,,,"4,185",4185,50,19,26,,,-,,false,eligible,official_final_score_row,true,[],,48,,,,,,,{}
+cqww-dx:1961:ssb:JA1CYG:3f9336a3d7553af5,JA1CYG,JA1CYG,JA1,SO HIGH 15M,,,860,860,25,8,12,,,-,,false,eligible,official_final_score_row,true,[],,69,,,,,,,{}
+cqww-dx:1961:ssb:JA1CYV:3f9336a3d7553af5,JA1CYV,JA1CYV,JA1,SO HIGH 15M,,,"1,836",1836,32,13,21,,,-,,false,eligible,official_final_score_row,true,[],,59,,,,,,,{}
+cqww-dx:1961:ssb:JA1DDH:3f9336a3d7553af5,JA1DDH,JA1DDH,JA1,SO HIGH 15M,,,99,99,9,5,4,,,-,,false,eligible,official_final_score_row,true,[],,82,,,,,,,{}
+cqww-dx:1961:ssb:JA1DDR:3f9336a3d7553af5,JA1DDR,JA1DDR,JA1,SO HIGH 15M,,,760,760,23,8,12,,,-,,false,eligible,official_final_score_row,true,[],,71,,,,,,,{}
+cqww-dx:1961:ssb:JA1DEU:3f9336a3d7553af5,JA1DEU,JA1DEU,JA1,SO HIGH 15M,,,866,866,21,8,11,,,-,,false,eligible,official_final_score_row,true,[],,68,,,,,,,{}
+cqww-dx:1961:ssb:JA1DEX:3f9336a3d7553af5,JA1DEX,JA1DEX,JA1,SO HIGH 15M,,,"1,012",1012,19,9,14,,,-,,false,eligible,official_final_score_row,true,[],,67,,,,,,,{}
+cqww-dx:1961:ssb:JA1DFN:3f9336a3d7553af5,JA1DFN,JA1DFN,JA1,SO HIGH 15M,,,338,338,13,5,8,,,-,,false,eligible,official_final_score_row,true,[],,79,,,,,,,{}
+cqww-dx:1961:ssb:JA1DRC:2c7c9c3adebadb75,JA1DRC,JA1DRC,JA1,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:JA1EHA:3f9336a3d7553af5,JA1EHA,JA1EHA,JA1,SO HIGH 15M,,,180,180,9,4,6,,,-,,false,eligible,official_final_score_row,true,[],,81,,,,,,,{}
+cqww-dx:1961:ssb:JA1FAF:3f9336a3d7553af5,JA1FAF,JA1FAF,JA1,SO HIGH 15M,,,684,684,16,9,9,,,-,,false,eligible,official_final_score_row,true,[],,74,,,,,,,{}
+cqww-dx:1961:ssb:JA1FSL:3f9336a3d7553af5,JA1FSL,JA1FSL,JA1,SO HIGH 15M,,,"9,720",9720,80,22,38,,,-,,false,eligible,official_final_score_row,true,[],,31,,,,,,,{}
+cqww-dx:1961:ssb:JA1HGY:3f9336a3d7553af5,JA1HGY,JA1HGY,JA1,SO HIGH 15M,,,740,740,18,8,12,,,-,,false,eligible,official_final_score_row,true,[],,73,,,,,,,{}
+cqww-dx:1961:ssb:JA1HIE:3f9336a3d7553af5,JA1HIE,JA1HIE,JA1,SO HIGH 15M,,,800,800,24,7,13,,,-,,false,eligible,official_final_score_row,true,[],,70,,,,,,,{}
+cqww-dx:1961:ssb:JA1MJ:9f4417438d13c169,JA1MJ,JA1MJ,JA1,SO HIGH 20M,,,357,357,13,8,9,,,-,,false,eligible,official_final_score_row,true,[],,147,,,,,,,{}
+cqww-dx:1961:ssb:JA1YL:6f0cea33cd03de92,JA1YL,JA1YL,JA1,SO HIGH ALL,,,"1,512",1512,29,12,16,,,-,,false,eligible,official_final_score_row,true,[],,178,,,,,,,{}
+cqww-dx:1961:ssb:JA2AEY:92a0ae8125f639eb,JA2AEY,JA2AEY,JA2,SO HIGH 15M,,,"12,672",12672,92,26,40,,,-,,false,eligible,official_final_score_row,true,[],,26,,,,,,,{}
+cqww-dx:1961:ssb:JA2ANX:f4abdbbe47d49662,JA2ANX,JA2ANX,JA2,SO HIGH 20M,,,"4,368",4368,59,18,24,,,-,,false,eligible,official_final_score_row,true,[],,95,,,,,,,{}
+cqww-dx:1961:ssb:JA2JW:f4abdbbe47d49662,JA2JW,JA2JW,JA2,SO HIGH 20M,,,"22,344",22344,131,26,50,,,-,,false,eligible,official_final_score_row,true,[],,50,,,,,,,{}
+cqww-dx:1961:ssb:JA2XW:298c46ac2a53b85b,JA2XW,JA2XW,JA2,SO HIGH ALL,,,"11,627",11627,79,32,45,,,-,,false,eligible,official_final_score_row,true,[],,125,,,,,,,{}
+cqww-dx:1961:ssb:JA3AA:118912a7244b2adf,JA3AA,JA3AA,JA3,SO HIGH ALL,,,621,621,22,8,12,,,-,,false,eligible,official_final_score_row,true,[],,190,,,,,,,{}
+cqww-dx:1961:ssb:JA3ASU:599bc8c879b580c8,JA3ASU,JA3ASU,JA3,SO HIGH 20M,,,475,475,19,9,10,,,-,,false,eligible,official_final_score_row,true,[],,141,,,,,,,{}
+cqww-dx:1961:ssb:JA3BBG:1e4437e003b0233c,JA3BBG,JA3BBG,JA3,SO HIGH 15M,,,"1,300",1300,26,9,16,,,-,,false,eligible,official_final_score_row,true,[],,66,,,,,,,{}
+cqww-dx:1961:ssb:JA3BEA:1e4437e003b0233c,JA3BEA,JA3BEA,JA3,SO HIGH 15M,,,"6,519",6519,60,20,33,,,-,,false,eligible,official_final_score_row,true,[],,40,,,,,,,{}
+cqww-dx:1961:ssb:JA3CED:1e4437e003b0233c,JA3CED,JA3CED,JA3,SO HIGH 15M,,,2,2,1,1,1,,,-,,false,eligible,official_final_score_row,true,[],,84,,,,,,,{}
+cqww-dx:1961:ssb:JA3CUK:599bc8c879b580c8,JA3CUK,JA3CUK,JA3,SO HIGH 20M,,,6,6,2,1,2,,,-,,false,eligible,official_final_score_row,true,[],,156,,,,,,,{}
+cqww-dx:1961:ssb:JA3IW:118912a7244b2adf,JA3IW,JA3IW,JA3,SO HIGH ALL,,,"7,502",7502,58,24,38,,,-,,false,eligible,official_final_score_row,true,[],,140,,,,,,,{}
+cqww-dx:1961:ssb:JA4AQR:23a30a64d3ec9277,JA4AQR,JA4AQR,JA4,SO HIGH ALL,,,228,228,13,6,7,,,-,,false,eligible,official_final_score_row,true,[],,201,,,,,,,{}
+cqww-dx:1961:ssb:JA4AS:23a30a64d3ec9277,JA4AS,JA4AS,JA4,SO HIGH ALL,,,"1,156",1156,26,14,20,,,-,,false,eligible,official_final_score_row,true,[],,182,,,,,,,{}
+cqww-dx:1961:ssb:JA6AK:87c2453ea5a5cd2b,JA6AK,JA6AK,JA6,SO HIGH 20M,,,"1,716",1716,29,14,19,,,-,,false,eligible,official_final_score_row,true,[],,120,,,,,,,{}
+cqww-dx:1961:ssb:JA6AV:87c2453ea5a5cd2b,JA6AV,JA6AV,JA6,SO HIGH 20M,,,"1,344",1344,28,11,17,,,-,,false,eligible,official_final_score_row,true,[],,123,,,,,,,{}
+cqww-dx:1961:ssb:JA6GT:246c89259f422e61,JA6GT,JA6GT,JA6,SO HIGH 15M,,,"2,880",2880,43,15,25,,,-,,false,eligible,official_final_score_row,true,[],,55,,,,,,,{}
+cqww-dx:1961:ssb:JA6NL:246c89259f422e61,JA6NL,JA6NL,JA6,SO HIGH 15M,,,400,400,13,10,10,,,-,,false,eligible,official_final_score_row,true,[],,77,,,,,,,{}
+cqww-dx:1961:ssb:JA6NP:246c89259f422e61,JA6NP,JA6NP,JA6,SO HIGH 15M,,,"13,510",13510,93,26,44,,,-,,false,eligible,official_final_score_row,true,[],,23,,,,,,,{}
+cqww-dx:1961:ssb:JA6PY:246c89259f422e61,JA6PY,JA6PY,JA6,SO HIGH 15M,,,"1,530",1530,26,14,20,,,-,,false,eligible,official_final_score_row,true,[],,63,,,,,,,{}
+cqww-dx:1961:ssb:JA7KY:40f291555be52bb8,JA7KY,JA7KY,JA7,SO HIGH ALL,,,630,630,18,10,11,,,-,,false,eligible,official_final_score_row,true,[],,189,,,,,,,{}
+cqww-dx:1961:ssb:JA8AAC:e41624113a0596e2,JA8AAC,JA8AAC,JA8,SO HIGH 15M,,,70,70,7,3,4,,,-,,false,eligible,official_final_score_row,true,[],,83,,,,,,,{}
+cqww-dx:1961:ssb:JA8FC:a4e84ebcd2fee69c,JA8FC,JA8FC,JA8,SO HIGH 20M,,,"6,958",6958,79,19,30,,,-,,false,eligible,official_final_score_row,true,[],,81,,,,,,,{}
+cqww-dx:1961:ssb:JA8GR:a4e84ebcd2fee69c,JA8GR,JA8GR,JA8,SO HIGH 20M,,,9,9,3,1,2,,,-,,false,eligible,official_final_score_row,true,[],,155,,,,,,,{}
+cqww-dx:1961:ssb:JA9UU:e3509bfb4c1e1776,JA9UU,JA9UU,JA9,SO HIGH 15M,,,495,495,14,6,9,,,-,,false,eligible,official_final_score_row,true,[],,76,,,,,,,{}
+cqww-dx:1961:ssb:K0LFY:6154b15a2893eb01,K0LFY,K0LFY,W0,SO HIGH 15M,,,"2,275",2275,37,14,21,,,-,,false,eligible,official_final_score_row,true,[],,57,,,,,,,{}
+cqww-dx:1961:ssb:K1BVI/2:f8c176933c9df570,K1BVI/2,K1BVI/2,W2,MULTI-SINGLE HIGH,,,"13,600",13600,97,24,44,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K1BVI"",""callsign"":""K1BVI""},{""source"":""WA2PWO"",""callsign"":""WA2PWO""}]",,36,,,,,,,{}
+cqww-dx:1961:ssb:K1MBC:090b596e26314515,K1MBC,K1MBC,W1,MULTI-SINGLE HIGH,,,"60,236",60236,178,54,94,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K1MBC"",""callsign"":""K1MBC""},{""source"":""K9KKK"",""callsign"":""K9KKK""}]",,19,,,,,,,{}
+cqww-dx:1961:ssb:K1RTB:dd8dc495567d9e09,K1RTB,K1RTB,W1,SO HIGH 20M,,,"30,358",30358,142,27,59,,,-,,false,eligible,official_final_score_row,true,[],,36,,,,,,,{}
+cqww-dx:1961:ssb:K2DCA:71c0405a4079f798,K2DCA,K2DCA,W2,SO HIGH ALL,,,"31,164",31164,110,34,72,,,-,,false,eligible,official_final_score_row,true,[],,68,,,,,,,{}
+cqww-dx:1961:ssb:K2DGT:54928b36f0774220,K2DGT,K2DGT,W2,SO HIGH 40M,,,"1,612",1612,32,13,18,,,-,,false,eligible,official_final_score_row,true,[],,5,,,,,,,{}
+cqww-dx:1961:ssb:K2GL:9dc9916ebeaf53ab,K2GL,K2GL,W2,MULTI-MULTI,,,"319,144",319144,444,91,196,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K2GL"",""callsign"":""K2GL""},{""source"":""W2IWC"",""callsign"":""W2IWC""},{""source"":""W2SKE"",""callsign"":""W2SKE""}]",,1,,,,,,,{}
+cqww-dx:1961:ssb:K2GME:74379a62e61d75d8,K2GME,K2GME,W2,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:K2GXI:54928b36f0774220,K2GXI,K2GXI,W2,SO HIGH 40M,,,"2,680",2680,36,16,24,,,-,,false,eligible,official_final_score_row,true,[],,2,,,,,,,{}
+cqww-dx:1961:ssb:K2IEG:50fed2c961d24833,K2IEG,K2IEG,W2,SO HIGH 20M,,,"35,245",35245,175,25,70,,,-,,false,eligible,official_final_score_row,true,[],,31,,,,,,,{}
+cqww-dx:1961:ssb:K2OLC:f8c176933c9df570,K2OLC,K2OLC,W2,MULTI-SINGLE HIGH,,,"4,720",4720,43,25,34,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""SCHOOL"",""callsign"":""SCHOOL""}]",,46,,,,,,,{}
+cqww-dx:1961:ssb:K2SUX:f8c176933c9df570,K2SUX,K2SUX,W2,MULTI-SINGLE HIGH,,,"50,511",50511,158,53,96,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K2SUX"",""callsign"":""K2SUX""},{""source"":""W2HZY"",""callsign"":""W2HZY""}]",,21,,,,,,,{}
+cqww-dx:1961:ssb:K3BGX:728d6bef2716c0f0,K3BGX,K3BGX,W3,SO HIGH 10M,,,"5,760",5760,62,13,32,,,-,,false,eligible,official_final_score_row,true,[],,10,,,,,,,{}
+cqww-dx:1961:ssb:K4ASU:ab3cda3fee0146d5,K4ASU,K4ASU,W4,SO HIGH ALL,,,"23,100",23100,102,37,63,,,-,,false,eligible,official_final_score_row,true,[],,84,,,,,,,{}
+cqww-dx:1961:ssb:K4CVQ:4c565f52672312fa,K4CVQ,K4CVQ,W4,SO HIGH 10M,,,280,280,9,5,9,,,-,,false,eligible,official_final_score_row,true,[],,20,,,,,,,{}
+cqww-dx:1961:ssb:K4HMX:ab3cda3fee0146d5,K4HMX,K4HMX,W4,SO HIGH ALL,,,"12,495",12495,70,33,52,,,-,,false,eligible,official_final_score_row,true,[],,120,,,,,,,{}
+cqww-dx:1961:ssb:K4TJL:4226483782deb7a3,K4TJL,K4TJL,W4,SO HIGH 20M,,,"22,428",22428,114,25,59,,,-,,false,eligible,official_final_score_row,true,[],,49,,,,,,,{}
+cqww-dx:1961:ssb:K5MDX:d6c29da139a66d4e,K5MDX,K5MDX,W5,SO HIGH ALL,,,"157,883",157883,322,70,143,,,-,,false,eligible,official_final_score_row,true,[],,14,,,,,,,{}
+cqww-dx:1961:ssb:K5OGP:d16126cd4a8597e7,K5OGP,K5OGP,W5,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:K5SBN:7b2e433c0a453cf5,K5SBN,K5SBN,W5,SO HIGH 10M,,,"4,407",4407,59,12,27,,,-,,false,eligible,official_final_score_row,true,[],,12,,,,,,,{}
+cqww-dx:1961:ssb:K5UYF:4317b8b91c761700,K5UYF,K5UYF,W5,SO HIGH 20M,,,"1,380",1380,23,14,16,,,-,,false,eligible,official_final_score_row,true,[],,122,,,,,,,{}
+cqww-dx:1961:ssb:K6CT:ae658d393cd016d6,K6CT,K6CT,W6,SO HIGH 10M,,,"1,464",1464,30,10,14,,,-,,false,eligible,official_final_score_row,true,[],,18,,,,,,,{}
+cqww-dx:1961:ssb:K6CTV:30782a68cf987de8,K6CTV,K6CTV,W6,SO HIGH ALL,,,"20,793",20793,100,38,49,,,-,,false,eligible,official_final_score_row,true,[],,93,,,,,,,{}
+cqww-dx:1961:ssb:K6EVR:aeb6eec4b1a4c180,K6EVR,K6EVR,W6,MULTI-MULTI,,,"103,170",103170,260,69,112,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K6EVR"",""callsign"":""K6EVR""},{""source"":""W6GFE"",""callsign"":""W6GFE""}]",,3,,,,,,,{}
+cqww-dx:1961:ssb:K6EXO:a3eba6a67a530c05,K6EXO,K6EXO,W6,MULTI-SINGLE HIGH,,,"48,960",48960,195,55,81,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K6EXO"",""callsign"":""K6EXO""},{""source"":""K6YRA"",""callsign"":""K6YRA""}]",,22,,,,,,,{}
+cqww-dx:1961:ssb:K6UFX:30782a68cf987de8,K6UFX,K6UFX,W6,SO HIGH ALL,,,340,340,10,10,7,,,-,,false,eligible,official_final_score_row,true,[],,197,,,,,,,{}
+cqww-dx:1961:ssb:K8BTL:302cd27b20af9055,K8BTL,K8BTL,W8,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:K8CFU:64864256256a6248,K8CFU,K8CFU,W8,SO HIGH ALL,,,"17,954",17954,86,37,57,,,-,,false,eligible,official_final_score_row,true,[],,103,,,,,,,{}
+cqww-dx:1961:ssb:K8NMG:302cd27b20af9055,K8NMG,K8NMG,W8,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:K8RMK:64864256256a6248,K8RMK,K8RMK,W8,SO HIGH ALL,,,"3,038",3038,36,21,28,,,-,,false,eligible,official_final_score_row,true,[],,169,,,,,,,{}
+cqww-dx:1961:ssb:K9ECE:89e040107379ca96,K9ECE,K9ECE,W9,SO HIGH 15M,,,"6,650",6650,60,19,31,,,-,,false,eligible,official_final_score_row,true,[],,39,,,,,,,{}
+cqww-dx:1961:ssb:K9WTS:11aca8bc456d2fdb,K9WTS,K9WTS,W9,MULTI-SINGLE HIGH,,,"4,788",4788,44,25,32,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K9WTS"",""callsign"":""K9WTS""},{""source"":""K9KGV"",""callsign"":""K9KGV""},{""source"":""K9ZSE"",""callsign"":""K9ZSE""}]",,45,,,,,,,{}
+cqww-dx:1961:ssb:KA2JL:f4abdbbe47d49662,KA2JL,KA2JL,JA2,SO HIGH 20M,,,"75,194",75194,332,28,54,,,-,,false,eligible,official_final_score_row,true,[],,10,,,,,,,{}
+cqww-dx:1961:ssb:KA2MA:f4abdbbe47d49662,KA2MA,KA2MA,JA2,SO HIGH 20M,,,"54,560",54560,251,28,52,,,-,,false,eligible,official_final_score_row,true,[],,18,,,,,,,{}
+cqww-dx:1961:ssb:KA7DX:8f0e9cb71414acd6,KA7DX,KA7DX,JA7,MULTI-SINGLE HIGH,,,"11,395",11395,94,24,29,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K1TXA"",""callsign"":""K1TXA""},{""source"":""K2BTK"",""callsign"":""K2BTK""},{""source"":""WA6QDA"",""callsign"":""WA6QDA""}]",,37,,,,,,,{}
+cqww-dx:1961:ssb:KG1FD:be743b781b670750,KG1FD,KG1FD,OX,SO HIGH ALL,,,"10,412",10412,186,16,22,,,-,,false,eligible,official_final_score_row,true,[],,130,,,,,,,{}
+cqww-dx:1961:ssb:KH67DLD:5842a918bb663113,KH67DLD,KH67DLD,KH6,SO HIGH 20M,,,"102,179",102179,497,28,49,,,-,,false,eligible,official_final_score_row,true,[],,5,,,,,,,{}
+cqww-dx:1961:ssb:KH6IJ:e4bbd58a2f9354e7,KH6IJ,KH6IJ,KH6,SO HIGH ALL,,,"259,341",259341,660,54,83,,,-,,false,eligible,official_final_score_row,true,[],,6,,,,,,,{}
+cqww-dx:1961:ssb:KL7FBC:d02bc32f4af44690,KL7FBC,KL7FBC,KL,SO HIGH 20M,,,"6,344",6344,154,14,22,,,-,,false,eligible,official_final_score_row,true,[],,85,,,,,,,{}
+cqww-dx:1961:ssb:KL7JDO:d02bc32f4af44690,KL7JDO,KL7JDO,KL,SO HIGH 20M,,,"2,392",2392,39,12,14,,,-,,false,eligible,official_final_score_row,true,[],,114,,,,,,,{}
+cqww-dx:1961:ssb:KP4AOO:5c4fecc72dcabb3e,KP4AOO,KP4AOO,KP4,SO HIGH ALL,,,"23,016",23016,186,35,49,,,-,,false,eligible,official_final_score_row,true,[],,85,,,,,,,{}
+cqww-dx:1961:ssb:KP4AVQ:799cb3a3e106aed8,KP4AVQ,KP4AVQ,KP4,SO HIGH 20M,,,"7,205",7205,155,13,22,,,-,,false,eligible,official_final_score_row,true,[],,78,,,,,,,{}
+cqww-dx:1961:ssb:KP4CL:799cb3a3e106aed8,KP4CL,KP4CL,KP4,SO HIGH 20M,,,"61,074",61074,405,26,61,,,-,,false,eligible,official_final_score_row,true,[],,14,,,,,,,{}
+cqww-dx:1961:ssb:KR6AF:4ab3d914e943531d,KR6AF,KR6AF,KR6,MULTI-SINGLE HIGH,,,"102,221",102221,368,43,76,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K1GFS"",""callsign"":""K1GFS""},{""source"":""K8LEZ"",""callsign"":""K8LEZ""}]",,11,,,,,,,{}
+cqww-dx:1961:ssb:KR6LJ:ea5ba5d22adb0636,KR6LJ,KR6LJ,KR6,SO HIGH 20M,,,"25,776",25776,155,26,46,,,-,,false,eligible,official_final_score_row,true,[],,45,,,,,,,{}
+cqww-dx:1961:ssb:KR6NB:cc8050f262aa3aaf,KR6NB,KR6NB,KR6,SO HIGH 15M,,,"8,448",8448,134,20,28,,,-,,false,eligible,official_final_score_row,true,[],,35,,,,,,,{}
+cqww-dx:1961:ssb:KR6OH:ea5ba5d22adb0636,KR6OH,KR6OH,KR6,SO HIGH 20M,,,"2,838",2838,66,15,18,,,-,,false,eligible,official_final_score_row,true,[],,108,,,,,,,{}
+cqww-dx:1961:ssb:KW6DG:c04790462c18a682,KW6DG,KW6DG,KH9,SO HIGH ALL,,,"349,492",349492,826,71,117,,,-,,false,eligible,official_final_score_row,true,[],,2,,,,,,,{}
+cqww-dx:1961:ssb:KX6BU:eafdfa4c11ecd295,KX6BU,KX6BU,V7,SO HIGH 20M,,,"84,150",84150,315,35,67,,,-,,false,eligible,official_final_score_row,true,[],,7,,,,,,,{}
+cqww-dx:1961:ssb:KZ5LC:354cbcb9baa2a1fb,KZ5LC,KZ5LC,KZ5,SO HIGH 20M,,,"49,650",49650,546,28,47,,,-,,false,eligible,official_final_score_row,true,[],,23,,,,,,,{}
+cqww-dx:1961:ssb:KZ5SW:1830ff59484cacd9,KZ5SW,KZ5SW,KZ5,SO HIGH ALL,,,"11,390",11390,264,17,17,,,-,,false,eligible,official_final_score_row,true,[],,126,,,,,,,{}
+cqww-dx:1961:ssb:KZ5TD:1830ff59484cacd9,KZ5TD,KZ5TD,KZ5,SO HIGH ALL,,,"92,877",92877,257,59,107,,,-,,false,eligible,official_final_score_row,true,[],,26,,,,,,,{}
+cqww-dx:1961:ssb:LA1H:8b0cd5694111ef02,LA1H,LA1H,LA,MULTI-SINGLE HIGH,,,"4,002",4002,83,11,35,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""LA3SH"",""callsign"":""LA3SH""},{""source"":""LA3RH"",""callsign"":""LA3RH""},{""source"":""LA3PH"",""callsign"":""LA3PH""},{""source"":""LA5AD"",""callsign"":""LA5AD""},{""source"":""LA5FG"",""callsign"":""LA5FG""},{""source"":""LA6ME"",""callsign"":""LA6ME""}]",,48,,,,,,,{}
+cqww-dx:1961:ssb:LA1K:8b0cd5694111ef02,LA1K,LA1K,LA,MULTI-SINGLE HIGH,,,"25,256",25256,287,16,72,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""LA2OH"",""callsign"":""LA2OH""},{""source"":""LA3EG"",""callsign"":""LA3EG""},{""source"":""LA5UF"",""callsign"":""LA5UF""},{""source"":""LA7WG"",""callsign"":""LA7WG""},{""source"":""LA9TG"",""callsign"":""LA9TG""}]",,31,,,,,,,{}
+cqww-dx:1961:ssb:LA1OE:5587352c44ef9447,LA1OE,LA1OE,LA,SO HIGH 15M,,,"1,817",1817,71,4,19,,,-,,false,eligible,official_final_score_row,true,[],,61,,,,,,,{}
+cqww-dx:1961:ssb:LA4LG:3c0dc6417b84b7b3,LA4LG,LA4LG,LA,SO HIGH 20M,,,"1,725",1725,69,4,21,,,-,,false,eligible,official_final_score_row,true,[],,119,,,,,,,{}
+cqww-dx:1961:ssb:LA5ID:8ca58cedf2184305,LA5ID,LA5ID,LA,SO HIGH ALL,,,"52,256",52256,300,31,111,,,-,,false,eligible,official_final_score_row,true,[],,43,,,,,,,{}
+cqww-dx:1961:ssb:LA8WF:5587352c44ef9447,LA8WF,LA8WF,LA,SO HIGH 15M,,,"8,600",8600,24,10,40,,,-,,false,eligible,official_final_score_row,true,[],,34,,,,,,,{}
+cqww-dx:1961:ssb:LU1DAB:880894a40ecc0959,LU1DAB,LU1DAB,LU,SO HIGH 10M,,,"79,643",79643,383,22,51,,,-,,false,eligible,official_final_score_row,true,[],,1,,,,,,,{}
+cqww-dx:1961:ssb:LU2FAO:880894a40ecc0959,LU2FAO,LU2FAO,LU,SO HIGH 10M,,,"6,960",6960,65,17,23,,,-,,false,eligible,official_final_score_row,true,[],,9,,,,,,,{}
+cqww-dx:1961:ssb:LU9DAH:98671223e387fecd,LU9DAH,LU9DAH,LU,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:LU9FAH:4da80252d8c057ec,LU9FAH,LU9FAH,LU,SO HIGH ALL,,,"34,086",34086,165,31,47,,,-,,false,eligible,official_final_score_row,true,[],,65,,,,,,,{}
+cqww-dx:1961:ssb:LZ1KDP:8c75faef62316cb1,LZ1KDP,LZ1KDP,LZ,SO HIGH ALL,,,"24,000",24000,191,25,75,,,-,,false,eligible,official_final_score_row,true,[],,82,,,,,,,{}
+cqww-dx:1961:ssb:LZ1KSZ:2290e757ac9ab939,LZ1KSZ,LZ1KSZ,LZ,MULTI-SINGLE HIGH,,,"97,152",97152,388,39,145,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,13,,,,,,,{}
+cqww-dx:1961:ssb:MP4BBW:8b22dd5e338aa525,MP4BBW,MP4BBW,A9,SO HIGH 20M,,,"83,032",83032,293,29,78,,,-,,false,eligible,official_final_score_row,true,[],,8,,,,,,,{}
+cqww-dx:1961:ssb:MP4BDC:b5b0bb33227e6573,MP4BDC,MP4BDC,A9,SO HIGH ALL,,,"21,567",21567,114,25,54,,,-,,false,eligible,official_final_score_row,true,[],,91,,,,,,,{}
+cqww-dx:1961:ssb:OA1W:0273c06102e2d992,OA1W,OA1W,OA,SO HIGH ALL,,,"18,480",18480,113,29,37,,,-,,false,eligible,official_final_score_row,true,[],,101,,,,,,,{}
+cqww-dx:1961:ssb:OD5CN:322bf9ba8696ccee,OD5CN,OD5CN,OD,SO HIGH 20M,,,"48,114",48114,214,21,60,,,-,,false,eligible,official_final_score_row,true,[],,24,,,,,,,{}
+cqww-dx:1961:ssb:OE1DH:02617102f5bece1c,OE1DH,OE1DH,OE,SO HIGH ALL,,,"127,916",127916,376,57,169,,,-,,false,eligible,official_final_score_row,true,[],,18,,,,,,,{}
+cqww-dx:1961:ssb:OE1RZ:58f2f9fb08c6d70a,OE1RZ,OE1RZ,OE,SO HIGH 20M,,,"79,072",79072,316,32,80,,,-,,false,eligible,official_final_score_row,true,[],,9,,,,,,,{}
+cqww-dx:1961:ssb:OE1WO:02617102f5bece1c,OE1WO,OE1WO,OE,SO HIGH ALL,,,924,924,34,6,22,,,-,,false,eligible,official_final_score_row,true,[],,186,,,,,,,{}
+cqww-dx:1961:ssb:OH1VA:3ab726a652f66c38,OH1VA,OH1VA,OH,SO HIGH 40M,,,"1,300",1300,50,6,19,,,-,,false,eligible,official_final_score_row,true,[],,6,,,,,,,{}
+cqww-dx:1961:ssb:OH2A:4a0be086e937c6f6,OH2A,OH2A,OH,MULTI-SINGLE HIGH,,,"3,723",3723,74,14,37,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""OH2CM"",""callsign"":""OH2CM""},{""source"":""OH2XK"",""callsign"":""OH2XK""}]",,49,,,,,,,{}
+cqww-dx:1961:ssb:OH2AA:63a574dfbb778d8b,OH2AA,OH2AA,OH,MULTI-MULTI,,,"31,868",31868,200,28,96,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""OH2SB"",""callsign"":""OH2SB""},{""source"":""OH2KK"",""callsign"":""OH2KK""},{""source"":""OH2KH"",""callsign"":""OH2KH""},{""source"":""OH2LP"",""callsign"":""OH2LP""}]",,6,,,,,,,{}
+cqww-dx:1961:ssb:OH2CM:45cbb0c5ee0eee7b,OH2CM,OH2CM,OH,SO HIGH 20M,,,459,459,26,5,12,,,-,,false,eligible,official_final_score_row,true,[],,142,,,,,,,{}
+cqww-dx:1961:ssb:OH2GC:45cbb0c5ee0eee7b,OH2GC,OH2GC,OH,SO HIGH 20M,,,836,836,37,5,17,,,-,,false,eligible,official_final_score_row,true,[],,134,,,,,,,{}
+cqww-dx:1961:ssb:OH2GF:45cbb0c5ee0eee7b,OH2GF,OH2GF,OH,SO HIGH 20M,,,972,972,30,8,19,,,-,,false,eligible,official_final_score_row,true,[],,131,,,,,,,{}
+cqww-dx:1961:ssb:OH2KL:9213f89ff116cade,OH2KL,OH2KL,OH,SO HIGH ALL,,,260,260,14,8,12,,,-,,false,eligible,official_final_score_row,true,[],,199,,,,,,,{}
+cqww-dx:1961:ssb:OH2MK:9213f89ff116cade,OH2MK,OH2MK,OH,SO HIGH ALL,,,"6,720",6720,116,10,46,,,-,,false,eligible,official_final_score_row,true,[],,144,,,,,,,{}
+cqww-dx:1961:ssb:OH2RZ:45cbb0c5ee0eee7b,OH2RZ,OH2RZ,OH,SO HIGH 20M,,,"8,568",8568,111,15,41,,,-,,false,eligible,official_final_score_row,true,[],,71,,,,,,,{}
+cqww-dx:1961:ssb:OH2VO:bc4463ac2176c26e,OH2VO,OH2VO,OH,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:OH3NY:45cbb0c5ee0eee7b,OH3NY,OH3NY,OH,SO HIGH 20M,,,30,30,5,3,3,,,-,,false,eligible,official_final_score_row,true,[],,154,,,,,,,{}
+cqww-dx:1961:ssb:OH3TY:45cbb0c5ee0eee7b,OH3TY,OH3TY,OH,SO HIGH 20M,,,"8,401",8401,88,18,41,,,-,,false,eligible,official_final_score_row,true,[],,72,,,,,,,{}
+cqww-dx:1961:ssb:OH5NB:9213f89ff116cade,OH5NB,OH5NB,OH,SO HIGH ALL,,,15,15,3,2,3,,,-,,false,eligible,official_final_score_row,true,[],,207,,,,,,,{}
+cqww-dx:1961:ssb:OH5OQ:671d1c31000c110f,OH5OQ,OH5OQ,OH,SO HIGH 15M,,,"4,719",4719,94,9,30,,,-,,false,eligible,official_final_score_row,true,[],,45,,,,,,,{}
+cqww-dx:1961:ssb:OH5PF:45cbb0c5ee0eee7b,OH5PF,OH5PF,OH,SO HIGH 20M,,,"4,800",4800,100,9,31,,,-,,false,eligible,official_final_score_row,true,[],,92,,,,,,,{}
+cqww-dx:1961:ssb:OH5QN:9213f89ff116cade,OH5QN,OH5QN,OH,SO HIGH ALL,,,"59,250",59250,236,39,119,,,-,,false,eligible,official_final_score_row,true,[],,40,,,,,,,{}
+cqww-dx:1961:ssb:OH5SM:4a0be086e937c6f6,OH5SM,OH5SM,OH,MULTI-SINGLE HIGH,,,"254,664",254664,675,66,196,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""OH5SM"",""callsign"":""OH5SM""},{""source"":""OH5NQ"",""callsign"":""OH5NQ""},{""source"":""OH5NW"",""callsign"":""OH5NW""}]",,3,,,,,,,{}
+cqww-dx:1961:ssb:OK1JX:bdce5fcc4ff52439,OK1JX,OK1JX,OKOM,SO HIGH ALL,,,"31,059",31059,214,28,91,,,-,,false,eligible,official_final_score_row,true,[],,69,,,,,,,{}
+cqww-dx:1961:ssb:OK1KNL:bdce5fcc4ff52439,OK1KNL,OK1KNL,OKOM,SO HIGH ALL,,,"7,303",7303,90,16,51,,,-,,false,eligible,official_final_score_row,true,[],,141,,,,,,,{}
+cqww-dx:1961:ssb:OK1MP:54b23bba0f5ab9ba,OK1MP,OK1MP,OKOM,SO HIGH 80M,,,"1,491",1491,72,3,18,,,-,,false,eligible,official_final_score_row,true,[],,5,,,,,,,{}
+cqww-dx:1961:ssb:OK1VB:9f6524e443af0a9f,OK1VB,OK1VB,OKOM,SO HIGH 15M,,,"4,100",4100,61,9,32,,,-,,false,eligible,official_final_score_row,true,[],,49,,,,,,,{}
+cqww-dx:1961:ssb:OK1ZL:bdce5fcc4ff52439,OK1ZL,OK1ZL,OKOM,SO HIGH ALL,,,"44,380",44380,269,27,113,,,-,,false,eligible,official_final_score_row,true,[],,46,,,,,,,{}
+cqww-dx:1961:ssb:OK2BBC:b2fd45c67a437150,OK2BBC,OK2BBC,OKOM,SO HIGH 20M,,,595,595,36,5,12,,,-,,false,eligible,official_final_score_row,true,[],,138,,,,,,,{}
+cqww-dx:1961:ssb:OK2KAU:4f6f8496bab45bf9,OK2KAU,OK2KAU,OKOM,MULTI-SINGLE HIGH,,,"187,834",187834,142,29,69,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,6,,,,,,,{}
+cqww-dx:1961:ssb:OK2KJU:075f5cde3f327d2c,OK2KJU,OK2KJU,OKOM,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:OK2KOJ:b2fd45c67a437150,OK2KOJ,OK2KOJ,OKOM,SO HIGH 20M,,,"5,412",5412,118,9,32,,,-,,false,eligible,official_final_score_row,true,[],,87,,,,,,,{}
+cqww-dx:1961:ssb:OK2LN:bdce5fcc4ff52439,OK2LN,OK2LN,OKOM,SO HIGH ALL,,,"3,816",3816,72,16,37,,,-,,false,eligible,official_final_score_row,true,[],,159,,,,,,,{}
+cqww-dx:1961:ssb:OK2QU:b2fd45c67a437150,OK2QU,OK2QU,OKOM,SO HIGH 20M,,,"1,144",1144,40,7,15,,,-,,false,eligible,official_final_score_row,true,[],,127,,,,,,,{}
+cqww-dx:1961:ssb:OK2WE:bdce5fcc4ff52439,OK2WE,OK2WE,OKOM,SO HIGH ALL,,,528,528,19,5,11,,,-,,false,eligible,official_final_score_row,true,[],,193,,,,,,,{}
+cqww-dx:1961:ssb:OK3KAB:b2fd45c67a437150,OK3KAB,OK3KAB,OKOM,SO HIGH 20M,,,"26,400",26400,265,22,66,,,-,,false,eligible,official_final_score_row,true,[],,43,,,,,,,{}
+cqww-dx:1961:ssb:OK3KGI:b2fd45c67a437150,OK3KGI,OK3KGI,OKOM,SO HIGH 20M,,,"7,232",7232,130,12,37,,,-,,false,eligible,official_final_score_row,true,[],,77,,,,,,,{}
+cqww-dx:1961:ssb:OK4KOR:b2fd45c67a437150,OK4KOR,OK4KOR,OKOM,SO HIGH 20M,,,760,760,39,4,16,,,-,,false,eligible,official_final_score_row,true,[],,135,,,,,,,{}
+cqww-dx:1961:ssb:ON4LJ:ad048ec023650bb7,ON4LJ,ON4LJ,ON,SO HIGH 20M,,,"1,120",1120,28,7,25,,,-,,false,eligible,official_final_score_row,true,[],,129,,,,,,,{}
+cqww-dx:1961:ssb:ON4QX:ad048ec023650bb7,ON4QX,ON4QX,ON,SO HIGH 20M,,,"4,320",4320,52,19,35,,,-,,false,eligible,official_final_score_row,true,[],,96,,,,,,,{}
+cqww-dx:1961:ssb:ON4SZ:ceaf025547af182e,ON4SZ,ON4SZ,ON,SO HIGH ALL,,,"119,280",119280,283,59,173,,,-,,false,eligible,official_final_score_row,true,[],,19,,,,,,,{}
+cqww-dx:1961:ssb:OZ3KE:71b1f692e48a6692,OZ3KE,OZ3KE,OZ,SO HIGH 20M,,,"1,320",1320,44,2,15,,,-,,false,eligible,official_final_score_row,true,[],,124,,,,,,,{}
+cqww-dx:1961:ssb:OZ5JT:71b1f692e48a6692,OZ5JT,OZ5JT,OZ,SO HIGH 20M,,,"3,612",3612,46,14,29,,,-,,false,eligible,official_final_score_row,true,[],,101,,,,,,,{}
+cqww-dx:1961:ssb:OZ5KG:71b1f692e48a6692,OZ5KG,OZ5KG,OZ,SO HIGH 20M,,,"27,864",27864,180,25,56,,,-,,false,eligible,official_final_score_row,true,[],,40,,,,,,,{}
+cqww-dx:1961:ssb:OZ5KQ:71b1f692e48a6692,OZ5KQ,OZ5KQ,OZ,SO HIGH 20M,,,"17,136",17136,149,18,50,,,-,,false,eligible,official_final_score_row,true,[],,58,,,,,,,{}
+cqww-dx:1961:ssb:OZ6RL:71b1f692e48a6692,OZ6RL,OZ6RL,OZ,SO HIGH 20M,,,121,121,7,4,7,,,-,,false,eligible,official_final_score_row,true,[],,150,,,,,,,{}
+cqww-dx:1961:ssb:OZ7BQ:71b1f692e48a6692,OZ7BQ,OZ7BQ,OZ,SO HIGH 20M,,,"9,936",9936,97,19,50,,,-,,false,eligible,official_final_score_row,true,[],,67,,,,,,,{}
+cqww-dx:1961:ssb:OZ7DX:e90a082a9c2be28f,OZ7DX,OZ7DX,OZ,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:OZ7JV:71b1f692e48a6692,OZ7JV,OZ7JV,OZ,SO HIGH 20M,,,"27,200",27200,195,24,61,,,-,,false,eligible,official_final_score_row,true,[],,41,,,,,,,{}
+cqww-dx:1961:ssb:OZ8EA:71b1f692e48a6692,OZ8EA,OZ8EA,OZ,SO HIGH 20M,,,"7,268",7268,118,11,35,,,-,,false,eligible,official_final_score_row,true,[],,76,,,,,,,{}
+cqww-dx:1961:ssb:OZ9QM:71b1f692e48a6692,OZ9QM,OZ9QM,OZ,SO HIGH 20M,,,"6,493",6493,139,7,36,,,-,,false,eligible,official_final_score_row,true,[],,84,,,,,,,{}
+cqww-dx:1961:ssb:PA0ATY:cf8d1ef13f0952a6,PA0ATY,PA0ATY,PA,SO HIGH 20M,,,"6,681",6681,106,8,43,,,-,,false,eligible,official_final_score_row,true,[],,83,,,,,,,{}
+cqww-dx:1961:ssb:PA0BEA:cf8d1ef13f0952a6,PA0BEA,PA0BEA,PA,SO HIGH 20M,,,"2,160",2160,67,5,25,,,-,,false,eligible,official_final_score_row,true,[],,116,,,,,,,{}
+cqww-dx:1961:ssb:PA0EEM:cf8d1ef13f0952a6,PA0EEM,PA0EEM,PA,SO HIGH 20M,,,"19,320",19320,218,15,55,,,-,,false,eligible,official_final_score_row,true,[],,51,,,,,,,{}
+cqww-dx:1961:ssb:PA0GMU:0e24cdc5be1f31c4,PA0GMU,PA0GMU,PA,SO HIGH 15M,,,"1,769",1769,37,8,21,,,-,,false,eligible,official_final_score_row,true,[],,62,,,,,,,{}
+cqww-dx:1961:ssb:PA0HBO:c0216a17a885e9ed,PA0HBO,PA0HBO,PA,SO HIGH ALL,,,"64,565",64565,243,43,142,,,-,,false,eligible,official_final_score_row,true,[],,35,,,,,,,{}
+cqww-dx:1961:ssb:PA0HSJ:c0216a17a885e9ed,PA0HSJ,PA0HSJ,PA,SO HIGH ALL,,,"9,514",9514,105,18,53,,,-,,false,eligible,official_final_score_row,true,[],,132,,,,,,,{}
+cqww-dx:1961:ssb:PA0KF:cf8d1ef13f0952a6,PA0KF,PA0KF,PA,SO HIGH 20M,,,378,378,13,6,12,,,-,,false,eligible,official_final_score_row,true,[],,144,,,,,,,{}
+cqww-dx:1961:ssb:PA0LV:cce2c93cc7cd61bd,PA0LV,PA0LV,PA,SO HIGH 80M,,,"4,368",4368,156,3,25,,,-,,false,eligible,official_final_score_row,true,[],,2,,,,,,,{}
+cqww-dx:1961:ssb:PA0NIR:b25c07922abc638e,PA0NIR,PA0NIR,PA,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:PA0PRF:cf8d1ef13f0952a6,PA0PRF,PA0PRF,PA,SO HIGH 20M,,,"31,524",31524,177,21,50,,,-,,false,eligible,official_final_score_row,true,[],,35,,,,,,,{}
+cqww-dx:1961:ssb:PA0TV:b25c07922abc638e,PA0TV,PA0TV,PA,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:PA0UC:c0216a17a885e9ed,PA0UC,PA0UC,PA,SO HIGH ALL,,,"22,684",22684,146,27,80,,,-,,false,eligible,official_final_score_row,true,[],,88,,,,,,,{}
+cqww-dx:1961:ssb:PA0WWP:c0216a17a885e9ed,PA0WWP,PA0WWP,PA,SO HIGH ALL,,,"34,155",34155,187,30,85,,,-,,false,eligible,official_final_score_row,true,[],,64,,,,,,,{}
+cqww-dx:1961:ssb:PI1PT:c0216a17a885e9ed,PI1PT,PI1PT,PA,SO HIGH ALL,,,"3,283",3283,67,10,39,,,-,,false,eligible,official_final_score_row,true,[],,165,,,,,,,{}
+cqww-dx:1961:ssb:PJ2AF:1a32bd48c56b8259,PJ2AF,PJ2AF,PJ2,SO HIGH ALL,,,"250,746",250746,557,61,97,,,-,,false,eligible,official_final_score_row,true,[],,8,,,,,,,{}
+cqww-dx:1961:ssb:PY1AQT:d59fb7a1086585a5,PY1AQT,PY1AQT,PY,SO HIGH 10M,,,"34,040",34040,167,22,52,,,-,,false,eligible,official_final_score_row,true,[],,2,,,,,,,{}
+cqww-dx:1961:ssb:PY2EJ:f4c17cc0e940dc81,PY2EJ,PY2EJ,PY,SO HIGH 20M,,,"56,560",56560,252,26,54,,,-,,false,eligible,official_final_score_row,true,[],,17,,,,,,,{}
+cqww-dx:1961:ssb:PY3AFO:94354a10a4570861,PY3AFO,PY3AFO,PY,SO HIGH ALL,,,"2,376",2376,34,15,18,,,-,,false,eligible,official_final_score_row,true,[],,173,,,,,,,{}
+cqww-dx:1961:ssb:PY3AHJ:b2873613425a492d,PY3AHJ,PY3AHJ,PY,SO HIGH 15M,,,"29,039",29039,149,25,46,,,-,,false,eligible,official_final_score_row,true,[],,7,,,,,,,{}
+cqww-dx:1961:ssb:PY3AHT:d59fb7a1086585a5,PY3AHT,PY3AHT,PY,SO HIGH 10M,,,"3,948",3948,36,18,24,,,-,,false,eligible,official_final_score_row,true,[],,13,,,,,,,{}
+cqww-dx:1961:ssb:PY3UY:94354a10a4570861,PY3UY,PY3UY,PY,SO HIGH ALL,,,"1,363",1363,20,12,17,,,-,,false,eligible,official_final_score_row,true,[],,180,,,,,,,{}
+cqww-dx:1961:ssb:PY7EC:b2873613425a492d,PY7EC,PY7EC,PY,SO HIGH 15M,,,"6,954",6954,69,15,23,,,-,,false,eligible,official_final_score_row,true,[],,37,,,,,,,{}
+cqww-dx:1961:ssb:PY7YS:94354a10a4570861,PY7YS,PY7YS,PY,SO HIGH ALL,,,"41,736",41736,196,21,53,,,-,,false,eligible,official_final_score_row,true,[],,52,,,,,,,{}
+cqww-dx:1961:ssb:SL6BF:6cbaf5b2c9070ff7,SL6BF,SL6BF,SM,MULTI-SINGLE HIGH,,,"3,640",3640,76,11,29,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""SM6CKV"",""callsign"":""SM6CKV""},{""source"":""SM6CRX"",""callsign"":""SM6CRX""}]",,50,,,,,,,{}
+cqww-dx:1961:ssb:SM3AZI:509ad5a2d3797c15,SM3AZI,SM3AZI,SM,SO HIGH 40M,,,280,280,18,3,11,,,-,,false,eligible,official_final_score_row,true,[],,8,,,,,,,{}
+cqww-dx:1961:ssb:SM3BIZ:9f874c5181eff19e,SM3BIZ,SM3BIZ,SM,SO HIGH ALL,,,"71,040",71040,314,39,121,,,-,,false,eligible,official_final_score_row,true,[],,32,,,,,,,{}
+cqww-dx:1961:ssb:SM3VE:68841c8c6317c6f0,SM3VE,SM3VE,SM,SO HIGH 15M,,,"11,515",11515,180,10,39,,,-,,false,eligible,official_final_score_row,true,[],,27,,,,,,,{}
+cqww-dx:1961:ssb:SM4AWC:6cbfb6c9cc6bfc2e,SM4AWC,SM4AWC,SM,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:SM5AIO:792b9232efb9b2e9,SM5AIO,SM5AIO,SM,SO HIGH 20M,,,360,360,23,3,15,,,-,,false,eligible,official_final_score_row,true,[],,146,,,,,,,{}
+cqww-dx:1961:ssb:SM5APP:9f874c5181eff19e,SM5APP,SM5APP,SM,SO HIGH ALL,,,90,90,10,2,7,,,-,,false,eligible,official_final_score_row,true,[],,205,,,,,,,{}
+cqww-dx:1961:ssb:SM5AQV:792b9232efb9b2e9,SM5AQV,SM5AQV,SM,SO HIGH 20M,,,"43,409",43409,227,24,59,,,-,,false,eligible,official_final_score_row,true,[],,26,,,,,,,{}
+cqww-dx:1961:ssb:SM5AZU:6cbaf5b2c9070ff7,SM5AZU,SM5AZU,SM,MULTI-SINGLE HIGH,,,"19,012",19012,145,24,74,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""SM5AZU"",""callsign"":""SM5AZU""},{""source"":""SM5ATN"",""callsign"":""SM5ATN""},{""source"":""SM5BGM"",""callsign"":""SM5BGM""},{""source"":""SM5MC"",""callsign"":""SM5MC""}]",,34,,,,,,,{}
+cqww-dx:1961:ssb:SM5BFE:792b9232efb9b2e9,SM5BFE,SM5BFE,SM,SO HIGH 20M,,,"2,178",2178,59,8,25,,,-,,false,eligible,official_final_score_row,true,[],,115,,,,,,,{}
+cqww-dx:1961:ssb:SM5BLA:792b9232efb9b2e9,SM5BLA,SM5BLA,SM,SO HIGH 20M,,,"50,004",50004,289,30,78,,,-,,false,eligible,official_final_score_row,true,[],,22,,,,,,,{}
+cqww-dx:1961:ssb:SM5CAK:792b9232efb9b2e9,SM5CAK,SM5CAK,SM,SO HIGH 20M,,,"7,560",7560,193,6,34,,,-,,false,eligible,official_final_score_row,true,[],,74,,,,,,,{}
+cqww-dx:1961:ssb:SM5CAQ:792b9232efb9b2e9,SM5CAQ,SM5CAQ,SM,SO HIGH 20M,,,105,105,15,2,5,,,-,,false,eligible,official_final_score_row,true,[],,151,,,,,,,{}
+cqww-dx:1961:ssb:SM5CZF:9f874c5181eff19e,SM5CZF,SM5CZF,SM,SO HIGH ALL,,,"24,300",24300,189,27,81,,,-,,false,eligible,official_final_score_row,true,[],,81,,,,,,,{}
+cqww-dx:1961:ssb:SM5CZQ:792b9232efb9b2e9,SM5CZQ,SM5CZQ,SM,SO HIGH 20M,,,"11,658",11658,166,12,46,,,-,,false,eligible,official_final_score_row,true,[],,65,,,,,,,{}
+cqww-dx:1961:ssb:SM5ZCK:9f874c5181eff19e,SM5ZCK,SM5ZCK,SM,SO HIGH ALL,,,96,96,8,6,6,,,-,,false,eligible,official_final_score_row,true,[],,204,,,,,,,{}
+cqww-dx:1961:ssb:SM6AOQ:792b9232efb9b2e9,SM6AOQ,SM6AOQ,SM,SO HIGH 20M,,,"1,176",1176,33,8,20,,,-,,false,eligible,official_final_score_row,true,[],,126,,,,,,,{}
+cqww-dx:1961:ssb:SM6BDS:9f874c5181eff19e,SM6BDS,SM6BDS,SM,SO HIGH ALL,,,299,299,24,4,9,,,-,,false,eligible,official_final_score_row,true,[],,198,,,,,,,{}
+cqww-dx:1961:ssb:SM6SA:792b9232efb9b2e9,SM6SA,SM6SA,SM,SO HIGH 20M,,,"90,016",90016,418,26,71,,,-,,false,eligible,official_final_score_row,true,[],,6,,,,,,,{}
+cqww-dx:1961:ssb:SM7ACB:792b9232efb9b2e9,SM7ACB,SM7ACB,SM,SO HIGH 20M,,,"16,132",16132,155,19,55,,,-,,false,eligible,official_final_score_row,true,[],,59,,,,,,,{}
+cqww-dx:1961:ssb:SM7AIA:9f874c5181eff19e,SM7AIA,SM7AIA,SM,SO HIGH ALL,,,"8,330",8330,97,19,51,,,-,,false,eligible,official_final_score_row,true,[],,136,,,,,,,{}
+cqww-dx:1961:ssb:SM7TQ:6cbfb6c9cc6bfc2e,SM7TQ,SM7TQ,SM,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:SM7TV:68841c8c6317c6f0,SM7TV,SM7TV,SM,SO HIGH 15M,,,308,308,20,3,11,,,-,,false,eligible,official_final_score_row,true,[],,80,,,,,,,{}
+cqww-dx:1961:ssb:SP5BT:0007c2a15838bdd5,SP5BT,SP5BT,SP,SO HIGH 20M,,,"7,203",7203,129,9,40,,,-,,false,eligible,official_final_score_row,true,[],,79,,,,,,,{}
+cqww-dx:1961:ssb:SP5HS:0007c2a15838bdd5,SP5HS,SP5HS,SP,SO HIGH 20M,,,"2,730",2730,51,10,29,,,-,,false,eligible,official_final_score_row,true,[],,111,,,,,,,{}
+cqww-dx:1961:ssb:SP5KAB:11a7312c20aff401,SP5KAB,SP5KAB,SP,MULTI-SINGLE HIGH,,,"5,248",5248,85,11,30,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""SP5GM"",""callsign"":""SP5GM""},{""source"":""SP5ZM"",""callsign"":""SP5ZM""}]",,43,,,,,,,{}
+cqww-dx:1961:ssb:SP5QU:3de10a0bc3411f28,SP5QU,SP5QU,SP,SO HIGH ALL,,,"3,705",3705,65,15,40,,,-,,false,eligible,official_final_score_row,true,[],,161,,,,,,,{}
+cqww-dx:1961:ssb:SP5XM:3de10a0bc3411f28,SP5XM,SP5XM,SP,SO HIGH ALL,,,"38,272",38272,219,32,96,,,-,,false,eligible,official_final_score_row,true,[],,58,,,,,,,{}
+cqww-dx:1961:ssb:SP5ZHP:11a7312c20aff401,SP5ZHP,SP5ZHP,SP,MULTI-SINGLE HIGH,,,"1,316",1316,44,6,22,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""SP5AHZ"",""callsign"":""SP5AHZ""},{""source"":""SP5ZK"",""callsign"":""SP5ZK""}]",,54,,,,,,,{}
+cqww-dx:1961:ssb:SP7WZ:3de10a0bc3411f28,SP7WZ,SP7WZ,SP,SO HIGH ALL,,,"1,110",1110,25,11,19,,,-,,false,eligible,official_final_score_row,true,[],,183,,,,,,,{}
+cqww-dx:1961:ssb:SP8CK:92b980e51525054f,SP8CK,SP8CK,SP,SO HIGH 15M,,,"5,326",5326,82,10,29,,,-,,false,eligible,official_final_score_row,true,[],,42,,,,,,,{}
+cqww-dx:1961:ssb:SP9KAJ:0007c2a15838bdd5,SP9KAJ,SP9KAJ,SP,SO HIGH 20M,,,"1,122",1122,45,6,16,,,-,,false,eligible,official_final_score_row,true,[],,128,,,,,,,{}
+cqww-dx:1961:ssb:SP9KJ:3de10a0bc3411f28,SP9KJ,SP9KJ,SP,SO HIGH ALL,,,"13,825",13825,105,20,59,,,-,,false,eligible,official_final_score_row,true,[],,115,,,,,,,{}
+cqww-dx:1961:ssb:SP9RF:92b980e51525054f,SP9RF,SP9RF,SP,SO HIGH 15M,,,"8,927",8927,99,15,44,,,-,,false,eligible,official_final_score_row,true,[],,33,,,,,,,{}
+cqww-dx:1961:ssb:SP9RJ:3de10a0bc3411f28,SP9RJ,SP9RJ,SP,SO HIGH ALL,,,54,54,4,3,3,,,-,,false,eligible,official_final_score_row,true,[],,206,,,,,,,{}
+cqww-dx:1961:ssb:SV0WB:00206a32a94f4309,SV0WB,SV0WB,SV,SO HIGH 20M,,,345,345,20,5,10,,,-,,false,eligible,official_final_score_row,true,[],,148,,,,,,,{}
+cqww-dx:1961:ssb:SV0WL:00206a32a94f4309,SV0WL,SV0WL,SV,SO HIGH 20M,,,"8,024",8024,97,15,44,,,-,,false,eligible,official_final_score_row,true,[],,73,,,,,,,{}
+cqww-dx:1961:ssb:SV0WT:ef62263cc2e2f991,SV0WT,SV0WT,SV9,MULTI-SINGLE HIGH,,,"44,390",44390,322,30,85,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""SV0WY"",""callsign"":""SV0WY""},{""source"":""W5GMS"",""callsign"":""W5GMS""}]",,24,,,,,,,{}
+cqww-dx:1961:ssb:TG5HC:14456006abc36807,TG5HC,TG5HC,TG,SO HIGH ALL,,,548,548,26,8,10,,,-,,false,eligible,official_final_score_row,true,[],,192,,,,,,,{}
+cqww-dx:1961:ssb:TI2WA:c1eefcc23b3bb17b,TI2WA,TI2WA,TI,SO HIGH 10M,,,"16,254",16254,164,21,42,,,-,,false,eligible,official_final_score_row,true,[],,6,,,,,,,{}
+cqww-dx:1961:ssb:UA0KUA:8da214bf28df10e7,UA0KUA,UA0KUA,UA0,SO HIGH 20M,,,54,54,17,3,3,,,-,,false,eligible,official_final_score_row,true,[],,153,,,,,,,{}
+cqww-dx:1961:ssb:UA0LO:9fac566f3ce6fa99,UA0LO,UA0LO,UA0,SO HIGH 15M,,,"5,143",5143,99,16,21,,,-,,false,eligible,official_final_score_row,true,[],,44,,,,,,,{}
+cqww-dx:1961:ssb:UA1CC/UM8:d2c9d0e78b50c505,UA1CC/UM8,UA1CC/UM8,EX,SO HIGH 20M,,,"19,282",19282,133,20,42,,,-,,false,eligible,official_final_score_row,true,[],,52,,,,,,,{}
+cqww-dx:1961:ssb:UA1DZ:9cb303772d27580c,UA1DZ,UA1DZ,UA-1,SO HIGH ALL,,,"91,224",91224,346,52,129,,,-,,false,eligible,official_final_score_row,true,[],,27,,,,,,,{}
+cqww-dx:1961:ssb:UA1KBW:be5ab8097055f218,UA1KBW,UA1KBW,UA-1,MULTI-SINGLE HIGH,,,"4,982",4982,66,15,38,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,44,,,,,,,{}
+cqww-dx:1961:ssb:UA1KIA:be5ab8097055f218,UA1KIA,UA1KIA,UA-1,MULTI-SINGLE HIGH,,,"1,066",1066,36,7,19,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,55,,,,,,,{}
+cqww-dx:1961:ssb:UA1NA:3b8f7c0c6200c392,UA1NA,UA1NA,UA-1,SO HIGH 20M,,,546,546,19,6,15,,,-,,false,eligible,official_final_score_row,true,[],,139,,,,,,,{}
+cqww-dx:1961:ssb:UA3CR:54078070cedd73ac,UA3CR,UA3CR,UA-3,SO HIGH 20M,,,"50,505",50505,247,31,80,,,-,,false,eligible,official_final_score_row,true,[],,21,,,,,,,{}
+cqww-dx:1961:ssb:UA3KFB:0853be79e2b13c7e,UA3KFB,UA3KFB,UA-3,MULTI-SINGLE HIGH,,,"7,750",7750,103,18,44,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,40,,,,,,,{}
+cqww-dx:1961:ssb:UA3KND:0853be79e2b13c7e,UA3KND,UA3KND,UA-3,MULTI-SINGLE HIGH,,,"8,515",8515,93,18,47,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,39,,,,,,,{}
+cqww-dx:1961:ssb:UA3KOB:0853be79e2b13c7e,UA3KOB,UA3KOB,UA-3,MULTI-SINGLE HIGH,,,"6,640",6640,71,12,34,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,41,,,,,,,{}
+cqww-dx:1961:ssb:UA3TZ:7f6bbf1c894d298c,UA3TZ,UA3TZ,UA-3,SO HIGH ALL,,,"11,657",11657,135,18,53,,,-,,false,eligible,official_final_score_row,true,[],,124,,,,,,,{}
+cqww-dx:1961:ssb:UA4LK:ca0c1901bbefa8b9,UA4LK,UA4LK,UA-4,SO HIGH 20M,,,"1,560",1560,43,7,23,,,-,,false,eligible,official_final_score_row,true,[],,121,,,,,,,{}
+cqww-dx:1961:ssb:UA4PW:ca0c1901bbefa8b9,UA4PW,UA4PW,UA-4,SO HIGH 20M,,,"7,011",7011,117,12,39,,,-,,false,eligible,official_final_score_row,true,[],,80,,,,,,,{}
+cqww-dx:1961:ssb:UA9CH:7fead6c01fc52e7d,UA9CH,UA9CH,UA9,SO HIGH ALL,,,"12,870",12870,137,22,56,,,-,,false,eligible,official_final_score_row,true,[],,117,,,,,,,{}
+cqww-dx:1961:ssb:UA9DN:c7a97100f1b58763,UA9DN,UA9DN,UA9,SO HIGH 15M,,,"15,336",15336,119,13,41,,,-,,false,eligible,official_final_score_row,true,[],,17,,,,,,,{}
+cqww-dx:1961:ssb:UA9DT:929be670a3625e46,UA9DT,UA9DT,UA9,SO HIGH 20M,,,"32,109",32109,163,21,56,,,-,,false,eligible,official_final_score_row,true,[],,34,,,,,,,{}
+cqww-dx:1961:ssb:UA9OI:929be670a3625e46,UA9OI,UA9OI,UA9,SO HIGH 20M,,,"12,824",12824,104,16,40,,,-,,false,eligible,official_final_score_row,true,[],,63,,,,,,,{}
+cqww-dx:1961:ssb:UA9VS:929be670a3625e46,UA9VS,UA9VS,UA9,SO HIGH 20M,,,"2,813",2813,42,10,19,,,-,,false,eligible,official_final_score_row,true,[],,109,,,,,,,{}
+cqww-dx:1961:ssb:UB5CI:890ab334f677fc8b,UB5CI,UB5CI,UR,SO HIGH 20M,,,"50,862",50862,317,25,73,,,-,,false,eligible,official_final_score_row,true,[],,20,,,,,,,{}
+cqww-dx:1961:ssb:UB5FG:4ff7d5472ade450c,UB5FG,UB5FG,UR,SO HIGH 15M,,,"21,894",21894,162,21,61,,,-,,false,eligible,official_final_score_row,true,[],,11,,,,,,,{}
+cqww-dx:1961:ssb:UB5FJ:22ab7614a0734bdf,UB5FJ,UB5FJ,UR,SO HIGH ALL,,,"93,210",93210,323,45,150,,,-,,false,eligible,official_final_score_row,true,[],,25,,,,,,,{}
+cqww-dx:1961:ssb:UB5KED:890ab334f677fc8b,UB5KED,UB5KED,UR,SO HIGH 20M,,,"3,440",3440,71,12,28,,,-,,false,eligible,official_final_score_row,true,[],,103,,,,,,,{}
+cqww-dx:1961:ssb:UB5KEP:bade8a81000f72ae,UB5KEP,UB5KEP,UR,MULTI-SINGLE HIGH,,,181,181,15,6,9,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,57,,,,,,,{}
+cqww-dx:1961:ssb:UB5LV:4ff7d5472ade450c,UB5LV,UB5LV,UR,SO HIGH 15M,,,"18,040",18040,139,19,59,,,-,,false,eligible,official_final_score_row,true,[],,16,,,,,,,{}
+cqww-dx:1961:ssb:UC2AA:62284139487b80e4,UC2AA,UC2AA,EU,SO HIGH 20M,,,"60,030",60030,325,30,88,,,-,,false,eligible,official_final_score_row,true,[],,16,,,,,,,{}
+cqww-dx:1961:ssb:UD6KAB:2d4d60c6f0b136d1,UD6KAB,UD6KAB,4J,MULTI-SINGLE HIGH,,,"35,880",35880,157,27,65,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,27,,,,,,,{}
+cqww-dx:1961:ssb:UF6FB:189a5233d2df3e94,UF6FB,UF6FB,4L,SO HIGH 20M,,,"28,840",28840,153,17,53,,,-,,false,eligible,official_final_score_row,true,[],,37,,,,,,,{}
+cqww-dx:1961:ssb:UG6AG:1ccc855bb9365e3e,UG6AG,UG6AG,EK,SO HIGH 20M,,,"3,050",3050,42,5,20,,,-,,false,eligible,official_final_score_row,true,[],,105,,,,,,,{}
+cqww-dx:1961:ssb:UG6AW:1ccc855bb9365e3e,UG6AW,UG6AW,EK,SO HIGH 20M,,,"4,212",4212,56,6,20,,,-,,false,eligible,official_final_score_row,true,[],,97,,,,,,,{}
+cqww-dx:1961:ssb:UG6KAA:b8d468184d041b00,UG6KAA,UG6KAA,EK,MULTI-SINGLE HIGH,,,"10,976",10976,82,13,36,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,38,,,,,,,{}
+cqww-dx:1961:ssb:UI8KAD:4f7ae4948ceb8df8,UI8KAD,UI8KAD,UK,MULTI-SINGLE HIGH,,,"5,754",5754,76,16,26,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,42,,,,,,,{}
+cqww-dx:1961:ssb:UJ8KAA:ce534ed5abfa3d5e,UJ8KAA,UJ8KAA,EY,MULTI-SINGLE HIGH,,,"16,188",16188,105,32,44,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,35,,,,,,,{}
+cqww-dx:1961:ssb:UL7FA:5de068a59cbf7d6b,UL7FA,UL7FA,UN,SO HIGH ALL,,,"21,450",21450,127,22,53,,,-,,false,eligible,official_final_score_row,true,[],,92,,,,,,,{}
+cqww-dx:1961:ssb:UP2KBU:47a6d07558723dbb,UP2KBU,UP2KBU,LY,MULTI-SINGLE HIGH,,,"31,096",31096,265,23,81,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,29,,,,,,,{}
+cqww-dx:1961:ssb:UP2KNP:47a6d07558723dbb,UP2KNP,UP2KNP,LY,MULTI-SINGLE HIGH,,,"29,998",29998,208,24,82,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,30,,,,,,,{}
+cqww-dx:1961:ssb:UQ2AN:02167897f94996ea,UQ2AN,UQ2AN,YL,SO HIGH ALL,,,"19,976",19976,149,28,75,,,-,,false,eligible,official_final_score_row,true,[],,97,,,,,,,{}
+cqww-dx:1961:ssb:UR2AO:f0c56885c3e0efc4,UR2AO,UR2AO,ES,SO HIGH 80M,,,960,960,67,3,12,,,-,,false,eligible,official_final_score_row,true,[],,6,,,,,,,{}
+cqww-dx:1961:ssb:UR2AT:72bd7dc477df3ec3,UR2AT,UR2AT,ES,SO HIGH 15M,,,748,748,27,5,17,,,-,,false,eligible,official_final_score_row,true,[],,72,,,,,,,{}
+cqww-dx:1961:ssb:UR2BU:72bd7dc477df3ec3,UR2BU,UR2BU,ES,SO HIGH 15M,,,"11,446",11446,102,18,41,,,-,,false,eligible,official_final_score_row,true,[],,28,,,,,,,{}
+cqww-dx:1961:ssb:UR2KAN:39ac890a2ac31676,UR2KAN,UR2KAN,ES,MULTI-SINGLE HIGH,,,"4,316",4316,107,12,33,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""CLUB"",""callsign"":""CLUB""}]",,47,,,,,,,{}
+cqww-dx:1961:ssb:VE2AFC:b80052e0790a41ae,VE2AFC,VE2AFC,VE2,SO HIGH 15M,,,"1,430",1430,29,8,14,,,-,,false,eligible,official_final_score_row,true,[],,64,,,,,,,{}
+cqww-dx:1961:ssb:VE2NV:718eec6f20d667a5,VE2NV,VE2NV,VE2,SO HIGH 20M,,,"4,730",4730,50,14,29,,,-,,false,eligible,official_final_score_row,true,[],,94,,,,,,,{}
+cqww-dx:1961:ssb:VE3AO:2ef0e8372b4dbaf5,VE3AO,VE3AO,VE3,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:VE3BMB:60497acd8e4b851b,VE3BMB,VE3BMB,VE3,SO HIGH ALL,,,"13,452",13452,109,29,47,,,-,,false,eligible,official_final_score_row,true,[],,116,,,,,,,{}
+cqww-dx:1961:ssb:VE3BOG:60497acd8e4b851b,VE3BOG,VE3BOG,VE3,SO HIGH ALL,,,"25,894",25894,130,44,63,,,-,,false,eligible,official_final_score_row,true,[],,77,,,,,,,{}
+cqww-dx:1961:ssb:VE3BQL/SU:7c2277af577c0fa3,VE3BQL/SU,VE3BQL/SU,SU,SO HIGH ALL,,,"106,122",106122,273,38,100,,,-,,false,eligible,official_final_score_row,true,[],,20,,,,,,,{}
+cqww-dx:1961:ssb:VE3CBY:8b37a14411027625,VE3CBY,VE3CBY,VE3,SO HIGH 15M,,,"3,638",3638,69,13,21,,,-,,false,eligible,official_final_score_row,true,[],,50,,,,,,,{}
+cqww-dx:1961:ssb:VE4CD:99cc92cc282490ed,VE4CD,VE4CD,VE4,SO HIGH ALL,,,"5,562",5562,71,23,31,,,-,,false,eligible,official_final_score_row,true,[],,152,,,,,,,{}
+cqww-dx:1961:ssb:VE4DQ:d1462d12e7a86b4c,VE4DQ,VE4DQ,VE4,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:VE5QC:0d46327cd973d5f4,VE5QC,VE5QC,VE5,SO HIGH ALL,,,"7,850",7850,135,26,24,,,-,,false,eligible,official_final_score_row,true,[],,139,,,,,,,{}
+cqww-dx:1961:ssb:VE6HG:e03ebff64a46e19b,VE6HG,VE6HG,VE6,SO HIGH ALL,,,"5,088",5088,52,25,28,,,-,,false,eligible,official_final_score_row,true,[],,153,,,,,,,{}
+cqww-dx:1961:ssb:VE6TP:587e4f0bae25c9c6,VE6TP,VE6TP,VE6,SO HIGH 20M,,,"6,750",6750,47,23,31,,,-,,false,eligible,official_final_score_row,true,[],,82,,,,,,,{}
+cqww-dx:1961:ssb:VE6VK:587e4f0bae25c9c6,VE6VK,VE6VK,VE6,SO HIGH 20M,,,"4,797",4797,53,18,23,,,-,,false,eligible,official_final_score_row,true,[],,93,,,,,,,{}
+cqww-dx:1961:ssb:VE7EH:c1b13517569f18ac,VE7EH,VE7EH,VE7,SO HIGH ALL,,,"15,620",15620,145,30,41,,,-,,false,eligible,official_final_score_row,true,[],,110,,,,,,,{}
+cqww-dx:1961:ssb:VK2AHM:e89cb3bed9259513,VK2AHM,VK2AHM,VK,MULTI-SINGLE HIGH,,,"43,976",43976,184,40,52,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""VK2AHM"",""callsign"":""VK2AHM""},{""source"":""VK5NO"",""callsign"":""VK5NO""}]",,25,,,,,,,{}
+cqww-dx:1961:ssb:VK2AHT:2e506a0c578193cc,VK2AHT,VK2AHT,VK,SO HIGH 20M,,,"3,724",3724,39,15,23,,,-,,false,eligible,official_final_score_row,true,[],,100,,,,,,,{}
+cqww-dx:1961:ssb:VK2APK:94312bc7dbcae43f,VK2APK,VK2APK,VK,SO HIGH 15M,,,"2,806",2806,46,12,11,,,-,,false,eligible,official_final_score_row,true,[],,56,,,,,,,{}
+cqww-dx:1961:ssb:VK5NQ:94312bc7dbcae43f,VK5NQ,VK5NQ,VK,SO HIGH 15M,,,"9,912",9912,86,18,24,,,-,,false,eligible,official_final_score_row,true,[],,30,,,,,,,{}
+cqww-dx:1961:ssb:VK6RU:6d69203650a5b9ac,VK6RU,VK6RU,VK,SO HIGH ALL,,,"25,926",25926,120,38,49,,,-,,false,eligible,official_final_score_row,true,[],,76,,,,,,,{}
+cqww-dx:1961:ssb:VK7WA:6d69203650a5b9ac,VK7WA,VK7WA,VK,SO HIGH ALL,,,480,480,16,9,11,,,-,,false,eligible,official_final_score_row,true,[],,195,,,,,,,{}
+cqww-dx:1961:ssb:VP2SY:30ecac669b62b4f2,VP2SY,VP2SY,J8,SO HIGH ALL,,,"11,660",11660,96,23,32,,,-,,false,eligible,official_final_score_row,true,[],,123,,,,,,,{}
+cqww-dx:1961:ssb:VP5BL:74465004c51f04d2,VP5BL,VP5BL,6Y,SO HIGH ALL,,,"86,397",86397,778,42,51,,,-,,false,eligible,official_final_score_row,true,[],,29,,,,,,,{}
+cqww-dx:1961:ssb:VP5CH:bb332f5663ebb4d8,VP5CH,VP5CH,VP5,SO HIGH ALL,,,"25,484",25484,505,21,25,,,-,,false,eligible,official_final_score_row,true,[],,79,,,,,,,{}
+cqww-dx:1961:ssb:VP6AM:eb1075d6dc776e92,VP6AM,VP6AM,8P,SO HIGH 10M,,,"11,832",11832,141,18,33,,,-,,false,eligible,official_final_score_row,true,[],,7,,,,,,,{}
+cqww-dx:1961:ssb:VP7BP:389d4ae57ed95871,VP7BP,VP7BP,C6,SO HIGH ALL,,,"50,735",50735,655,33,40,,,-,,false,eligible,official_final_score_row,true,[],,44,,,,,,,{}
+cqww-dx:1961:ssb:VP9AK:18a232f3b8e4a6b5,VP9AK,VP9AK,VP9,SO HIGH ALL,,,"49,206",49206,232,44,74,,,-,,false,eligible,official_final_score_row,true,[],,45,,,,,,,{}
+cqww-dx:1961:ssb:VQ2JG:fe1997a6fe79432a,VQ2JG,VQ2JG,9J,SO HIGH ALL,,,682,682,23,9,13,,,-,,false,eligible,official_final_score_row,true,[],,188,,,,,,,{}
+cqww-dx:1961:ssb:VQ2MS:fe1997a6fe79432a,VQ2MS,VQ2MS,9J,SO HIGH ALL,,,"70,890",70890,195,45,94,,,-,,false,eligible,official_final_score_row,true,[],,33,,,,,,,{}
+cqww-dx:1961:ssb:VQ2WR:6127757384af2023,VQ2WR,VQ2WR,9J,SO HIGH 10M,,,"33,456",33456,174,19,49,,,-,,false,eligible,official_final_score_row,true,[],,3,,,,,,,{}
+cqww-dx:1961:ssb:VQ2WZ:fe1997a6fe79432a,VQ2WZ,VQ2WZ,9J,SO HIGH ALL,,,"337,176",337176,543,68,155,,,-,,false,eligible,official_final_score_row,true,[],,3,,,,,,,{}
+cqww-dx:1961:ssb:VQ4RF:4263a5f85240b847,VQ4RF,VQ4RF,5Z,MULTI-SINGLE HIGH,,,"642,244",642244,676,84,208,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""VQ4RF"",""callsign"":""VQ4RF""},{""source"":""VQ4DT"",""callsign"":""VQ4DT""}]",,1,,,,,,,{}
+cqww-dx:1961:ssb:VR2DS:c74e1e85b4a8401a,VR2DS,VR2DS,3D2,SO HIGH 15M,,,"18,656",18656,129,22,31,,,-,,false,eligible,official_final_score_row,true,[],,14,,,,,,,{}
+cqww-dx:1961:ssb:VS9AAC:fb5b8ecf4e5508ba,VS9AAC,VS9AAC,7O,SO HIGH ALL,,,"39,272",39272,123,35,59,,,-,,false,eligible,official_final_score_row,true,[],,56,,,,,,,{}
+cqww-dx:1961:ssb:VU2CK:f2afeea627ace9ea,VU2CK,VU2CK,VU,SO HIGH 20M,,,"9,100",9100,98,17,35,,,-,,false,eligible,official_final_score_row,true,[],,70,,,,,,,{}
+cqww-dx:1961:ssb:VU2NR:f2afeea627ace9ea,VU2NR,VU2NR,VU,SO HIGH 20M,,,"45,243",45243,183,27,72,,,-,,false,eligible,official_final_score_row,true,[],,25,,,,,,,{}
+cqww-dx:1961:ssb:W0AIH/VE3:60497acd8e4b851b,W0AIH/VE3,W0AIH/VE3,VE3,SO HIGH ALL,,,"23,166",23166,97,52,65,,,-,,false,eligible,official_final_score_row,true,[],,83,,,,,,,{}
+cqww-dx:1961:ssb:W0BTD:1dc5c7d606a6d537,W0BTD,W0BTD,W0,SO HIGH ALL,,,"6,664",6664,44,31,37,,,-,,false,eligible,official_final_score_row,true,[],,145,,,,,,,{}
+cqww-dx:1961:ssb:W0HNS:d927450204cc1c60,W0HNS,W0HNS,W0,MULTI-SINGLE HIGH,,,"2,961",2961,29,22,25,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""W0HNS"",""callsign"":""W0HNS""},{""source"":""W0NXZ"",""callsign"":""W0NXZ""}]",,52,,,,,,,{}
+cqww-dx:1961:ssb:W0MCX:1dc5c7d606a6d537,W0MCX,W0MCX,W0,SO HIGH ALL,,,"2,220",2220,28,15,22,,,-,,false,eligible,official_final_score_row,true,[],,175,,,,,,,{}
+cqww-dx:1961:ssb:W0NFA:1dc5c7d606a6d537,W0NFA,W0NFA,W0,SO HIGH ALL,,,"14,976",14976,89,30,48,,,-,,false,eligible,official_final_score_row,true,[],,112,,,,,,,{}
+cqww-dx:1961:ssb:W0OMH:ff3de88cb9987b1b,W0OMH,W0OMH,W0,SO HIGH 20M,,,"4,158",4158,47,18,24,,,-,,false,eligible,official_final_score_row,true,[],,98,,,,,,,{}
+cqww-dx:1961:ssb:W0VXO/9:179b916bfed2a5ad,W0VXO/9,W0VXO/9,W9,SO HIGH 10M,,,"24,282",24282,143,23,48,,,-,,false,eligible,official_final_score_row,true,[],,5,,,,,,,{}
+cqww-dx:1961:ssb:W1APA:0f59726878c36942,W1APA,W1APA,W1,SO HIGH ALL,,,"5,672",5672,46,22,30,,,-,,false,eligible,official_final_score_row,true,[],,151,,,,,,,{}
+cqww-dx:1961:ssb:W1BIH:0f59726878c36942,W1BIH,W1BIH,W1,SO HIGH ALL,,,"12,348",12348,57,36,48,,,-,,false,eligible,official_final_score_row,true,[],,121,,,,,,,{}
+cqww-dx:1961:ssb:W1BU:59cdcb70360c13b1,W1BU,W1BU,W1,SO HIGH 80M,,,"3,760",3760,43,13,40,,,-,,false,eligible,official_final_score_row,true,[],,3,,,,,,,{}
+cqww-dx:1961:ssb:W1CKA:0f59726878c36942,W1CKA,W1CKA,W1,SO HIGH ALL,,,"12,825",12825,67,32,53,,,-,,false,eligible,official_final_score_row,true,[],,118,,,,,,,{}
+cqww-dx:1961:ssb:W1DDD:090b596e26314515,W1DDD,W1DDD,W1,MULTI-SINGLE HIGH,,,"1,674",1674,24,10,17,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K1LZW"",""callsign"":""K1LZW""},{""source"":""K1JLD"",""callsign"":""K1JLD""},{""source"":""K1KCB"",""callsign"":""K1KCB""}]",,53,,,,,,,{}
+cqww-dx:1961:ssb:W1FZ:0f59726878c36942,W1FZ,W1FZ,W1,SO HIGH ALL,,,"37,281",37281,119,50,79,,,-,,false,eligible,official_final_score_row,true,[],,59,,,,,,,{}
+cqww-dx:1961:ssb:W1ONK:0f59726878c36942,W1ONK,W1ONK,W1,SO HIGH ALL,,,"128,812",128812,272,60,136,,,-,,false,eligible,official_final_score_row,true,[],,17,,,,,,,{}
+cqww-dx:1961:ssb:W1PLJ:15fb10edce0e594a,W1PLJ,W1PLJ,W1,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:W1WY:0f59726878c36942,W1WY,W1WY,W1,SO HIGH ALL,,,"5,742",5742,48,30,36,,,-,,false,eligible,official_final_score_row,true,[],,149,,,,,,,{}
+cqww-dx:1961:ssb:W2AOX:71c0405a4079f798,W2AOX,W2AOX,W2,SO HIGH ALL,,,"20,025",20025,94,33,56,,,-,,false,eligible,official_final_score_row,true,[],,96,,,,,,,{}
+cqww-dx:1961:ssb:W2BXA:71c0405a4079f798,W2BXA,W2BXA,W2,SO HIGH ALL,,,"89,474",89474,221,56,110,,,-,,false,eligible,official_final_score_row,true,[],,28,,,,,,,{}
+cqww-dx:1961:ssb:W2FGD/2:58f80c45a24eafa4,W2FGD/2,W2FGD/2,W2,SO HIGH 10M,,,"3,936",3936,43,13,35,,,-,,false,eligible,official_final_score_row,true,[],,14,,,,,,,{}
+cqww-dx:1961:ssb:W2FXN:71c0405a4079f798,W2FXN,W2FXN,W2,SO HIGH ALL,,,"34,809",34809,109,48,75,,,-,,false,eligible,official_final_score_row,true,[],,63,,,,,,,{}
+cqww-dx:1961:ssb:W2GRA:74379a62e61d75d8,W2GRA,W2GRA,W2,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:W2GT:71c0405a4079f798,W2GT,W2GT,W2,SO HIGH ALL,,,225,225,9,7,8,,,-,,false,eligible,official_final_score_row,true,[],,202,,,,,,,{}
+cqww-dx:1961:ssb:W2JT:f8c176933c9df570,W2JT,W2JT,W2,MULTI-SINGLE HIGH,,,"85,641",85641,220,65,114,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""W2JT"",""callsign"":""W2JT""},{""source"":""W2DEW"",""callsign"":""W2DEW""},{""source"":""W2HTI"",""callsign"":""W2HTI""}]",,14,,,,,,,{}
+cqww-dx:1961:ssb:W2JVU:71c0405a4079f798,W2JVU,W2JVU,W2,SO HIGH ALL,,,"6,440",6440,59,21,35,,,-,,false,eligible,official_final_score_row,true,[],,147,,,,,,,{}
+cqww-dx:1961:ssb:W2LV:71c0405a4079f798,W2LV,W2LV,W2,SO HIGH ALL,,,"22,750",22750,90,32,59,,,-,,false,eligible,official_final_score_row,true,[],,87,,,,,,,{}
+cqww-dx:1961:ssb:W2OKM:50fed2c961d24833,W2OKM,W2OKM,W2,SO HIGH 20M,,,"32,660",32660,138,28,64,,,-,,false,eligible,official_final_score_row,true,[],,33,,,,,,,{}
+cqww-dx:1961:ssb:W2PEO:74379a62e61d75d8,W2PEO,W2PEO,W2,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:W2QKJ:71c0405a4079f798,W2QKJ,W2QKJ,W2,SO HIGH ALL,,,"4,462",4462,43,20,28,,,-,,false,eligible,official_final_score_row,true,[],,156,,,,,,,{}
+cqww-dx:1961:ssb:W2TP:71c0405a4079f798,W2TP,W2TP,W2,SO HIGH ALL,,,"8,255",8255,56,27,38,,,-,,false,eligible,official_final_score_row,true,[],,137,,,,,,,{}
+cqww-dx:1961:ssb:W2TQC:71c0405a4079f798,W2TQC,W2TQC,W2,SO HIGH ALL,,,"18,564",18564,77,40,62,,,-,,false,eligible,official_final_score_row,true,[],,100,,,,,,,{}
+cqww-dx:1961:ssb:W2VCZ:71c0405a4079f798,W2VCZ,W2VCZ,W2,SO HIGH ALL,,,"142,112",142112,277,71,148,,,-,,false,eligible,official_final_score_row,true,[],,15,,,,,,,{}
+cqww-dx:1961:ssb:W2WZ:c48bfa8a7d2a5518,W2WZ,W2WZ,W2,SO HIGH 15M,,,"31,980",31980,171,25,57,,,-,,false,eligible,official_final_score_row,true,[],,6,,,,,,,{}
+cqww-dx:1961:ssb:W2YTH:71c0405a4079f798,W2YTH,W2YTH,W2,SO HIGH ALL,,,"29,988",29988,117,46,73,,,-,,false,eligible,official_final_score_row,true,[],,72,,,,,,,{}
+cqww-dx:1961:ssb:W3AYD:60683e0cec2f8d81,W3AYD,W3AYD,W3,SO HIGH 20M,,,"18,325",18325,100,24,51,,,-,,false,eligible,official_final_score_row,true,[],,55,,,,,,,{}
+cqww-dx:1961:ssb:W3EGD:728d6bef2716c0f0,W3EGD,W3EGD,W3,SO HIGH 10M,,,"2,822",2822,38,12,22,,,-,,false,eligible,official_final_score_row,true,[],,15,,,,,,,{}
+cqww-dx:1961:ssb:W3FDH:30de1810e8837cfa,W3FDH,W3FDH,W3,SO HIGH ALL,,,"2,530",2530,30,20,26,,,-,,false,eligible,official_final_score_row,true,[],,172,,,,,,,{}
+cqww-dx:1961:ssb:W3JTC:60683e0cec2f8d81,W3JTC,W3JTC,W3,SO HIGH 20M,,,"24,768",24768,108,27,59,,,-,,false,eligible,official_final_score_row,true,[],,47,,,,,,,{}
+cqww-dx:1961:ssb:W3UHN:71e5e04abd3ef0f9,W3UHN,W3UHN,W3,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:W3ZEQ:728d6bef2716c0f0,W3ZEQ,W3ZEQ,W3,SO HIGH 10M,,,"1,682",1682,26,12,17,,,-,,false,eligible,official_final_score_row,true,[],,16,,,,,,,{}
+cqww-dx:1961:ssb:W4AXE:83aca26a86087d22,W4AXE,W4AXE,W4,SO HIGH 15M,,,"22,350",22350,136,24,51,,,-,,false,eligible,official_final_score_row,true,[],,10,,,,,,,{}
+cqww-dx:1961:ssb:W4DHZ:ab3cda3fee0146d5,W4DHZ,W4DHZ,W4,SO HIGH ALL,,,"43,840",43840,159,54,86,,,-,,false,eligible,official_final_score_row,true,[],,47,,,,,,,{}
+cqww-dx:1961:ssb:W4DRW:83aca26a86087d22,W4DRW,W4DRW,W4,SO HIGH 15M,,,"6,713",6713,57,17,32,,,-,,false,eligible,official_final_score_row,true,[],,38,,,,,,,{}
+cqww-dx:1961:ssb:W4DS:ab3cda3fee0146d5,W4DS,W4DS,W4,SO HIGH ALL,,,"4,814",4814,43,26,32,,,-,,false,eligible,official_final_score_row,true,[],,154,,,,,,,{}
+cqww-dx:1961:ssb:W4EEO:4c565f52672312fa,W4EEO,W4EEO,W4,SO HIGH 10M,,,"1,428",1428,19,10,18,,,-,,false,eligible,official_final_score_row,true,[],,19,,,,,,,{}
+cqww-dx:1961:ssb:W4GF:74df8662374aeb4a,W4GF,W4GF,W4,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:W4HNW:4226483782deb7a3,W4HNW,W4HNW,W4,SO HIGH 20M,,,"15,762",15762,78,27,47,,,-,,false,eligible,official_final_score_row,true,[],,60,,,,,,,{}
+cqww-dx:1961:ssb:W4HUE:4226483782deb7a3,W4HUE,W4HUE,W4,SO HIGH 20M,,,"7,540",7540,57,17,35,,,-,,false,eligible,official_final_score_row,true,[],,75,,,,,,,{}
+cqww-dx:1961:ssb:W4HVU:74df8662374aeb4a,W4HVU,W4HVU,W4,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:W4HXC:c25286a5c49cd42c,W4HXC,W4HXC,W4,MULTI-SINGLE HIGH,,,"110,349",110349,258,71,130,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""W4HXC"",""callsign"":""W4HXC""},{""source"":""K4GUX"",""callsign"":""K4GUX""},{""source"":""W4QKK"",""callsign"":""W4QKK""},{""source"":""K4WXC"",""callsign"":""K4WXC""},{""source"":""W9DVM"",""callsign"":""W9DVM""}]",,10,,,,,,,{}
+cqww-dx:1961:ssb:W4KFC:4226483782deb7a3,W4KFC,W4KFC,W4,SO HIGH 20M,,,"9,150",9150,62,21,40,,,-,,false,eligible,official_final_score_row,true,[],,69,,,,,,,{}
+cqww-dx:1961:ssb:W4NQM:83aca26a86087d22,W4NQM,W4NQM,W4,SO HIGH 15M,,,"18,612",18612,124,21,45,,,-,,false,eligible,official_final_score_row,true,[],,15,,,,,,,{}
+cqww-dx:1961:ssb:W4NYF:4226483782deb7a3,W4NYF,W4NYF,W4,SO HIGH 20M,,,"5,724",5724,53,20,34,,,-,,false,eligible,official_final_score_row,true,[],,86,,,,,,,{}
+cqww-dx:1961:ssb:W4OM:ab3cda3fee0146d5,W4OM,W4OM,W4,SO HIGH ALL,,,"42,108",42108,132,47,85,,,-,,false,eligible,official_final_score_row,true,[],,51,,,,,,,{}
+cqww-dx:1961:ssb:W4OPM:ab3cda3fee0146d5,W4OPM,W4OPM,W4,SO HIGH ALL,,,"31,232",31232,108,44,78,,,-,,false,eligible,official_final_score_row,true,[],,67,,,,,,,{}
+cqww-dx:1961:ssb:W4RLS:4226483782deb7a3,W4RLS,W4RLS,W4,SO HIGH 20M,,,"4,998",4998,41,18,31,,,-,,false,eligible,official_final_score_row,true,[],,90,,,,,,,{}
+cqww-dx:1961:ssb:W4SHL:4226483782deb7a3,W4SHL,W4SHL,W4,SO HIGH 20M,,,361,361,13,8,11,,,-,,false,eligible,official_final_score_row,true,[],,145,,,,,,,{}
+cqww-dx:1961:ssb:W4SSU:ab3cda3fee0146d5,W4SSU,W4SSU,W4,SO HIGH ALL,,,"6,313",6313,52,21,38,,,-,,false,eligible,official_final_score_row,true,[],,148,,,,,,,{}
+cqww-dx:1961:ssb:W4ZM:ab3cda3fee0146d5,W4ZM,W4ZM,W4,SO HIGH ALL,,,"2,580",2580,29,20,23,,,-,,false,eligible,official_final_score_row,true,[],,171,,,,,,,{}
+cqww-dx:1961:ssb:W5BJZ/KH6:37a44787f32e76aa,W5BJZ/KH6,W5BJZ/KH6,KH6,SO HIGH 15M,,,"14,724",14724,155,14,22,,,-,,false,eligible,official_final_score_row,true,[],,18,,,,,,,{}
+cqww-dx:1961:ssb:W5KC:4317b8b91c761700,W5KC,W5KC,W5,SO HIGH 20M,,,"14,560",14560,95,24,46,,,-,,false,eligible,official_final_score_row,true,[],,61,,,,,,,{}
+cqww-dx:1961:ssb:W5LGG:7b2e433c0a453cf5,W5LGG,W5LGG,W5,SO HIGH 10M,,,"1,504",1504,22,15,17,,,-,,false,eligible,official_final_score_row,true,[],,17,,,,,,,{}
+cqww-dx:1961:ssb:W5SU:d6c29da139a66d4e,W5SU,W5SU,W5,SO HIGH ALL,,,"3,213",3213,33,24,27,,,-,,false,eligible,official_final_score_row,true,[],,167,,,,,,,{}
+cqww-dx:1961:ssb:W5WZQ:8671ff063411bf84,W5WZQ,W5WZQ,W5,SO HIGH 15M,,,"6,486",6486,61,17,29,,,-,,false,eligible,official_final_score_row,true,[],,41,,,,,,,{}
+cqww-dx:1961:ssb:W6CX:a3eba6a67a530c05,W6CX,W6CX,W6,MULTI-SINGLE HIGH,,,952,952,26,18,16,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K6TFB"",""callsign"":""K6TFB""},{""source"":""K6TFC"",""callsign"":""K6TFC""}]",,56,,,,,,,{}
+cqww-dx:1961:ssb:W6EKZ:58b5ea7bcc1bc4ab,W6EKZ,W6EKZ,W6,SO HIGH 20M,,,"25,110",25110,114,31,59,,,-,,false,eligible,official_final_score_row,true,[],,46,,,,,,,{}
+cqww-dx:1961:ssb:W6SUD:32642ecafd130d87,W6SUD,W6SUD,W6,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:W7DLR:60203e5056502ea7,W7DLR,W7DLR,W7,SO HIGH 20M,,,60,60,4,3,3,,,-,,false,eligible,official_final_score_row,true,[],,152,,,,,,,{}
+cqww-dx:1961:ssb:W7DQM:c46a7e1966bd321a,W7DQM,W7DQM,W7,SO HIGH ALL,,,"1,166",1166,29,10,12,,,-,,false,eligible,official_final_score_row,true,[],,181,,,,,,,{}
+cqww-dx:1961:ssb:W7ESK:c46a7e1966bd321a,W7ESK,W7ESK,W7,SO HIGH ALL,,,"62,634",62634,210,58,88,,,-,,false,eligible,official_final_score_row,true,[],,37,,,,,,,{}
+cqww-dx:1961:ssb:W7FCY:9cd6204e101a27f9,W7FCY,W7FCY,W7,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:W8JIN:6aded0bcf256ccec,W8JIN,W8JIN,W8,SO HIGH 40M,,,900,900,25,10,15,,,-,,false,eligible,official_final_score_row,true,[],,7,,,,,,,{}
+cqww-dx:1961:ssb:W8KIA:7b99a8de60e0f067,W8KIA,W8KIA,W8,SO HIGH 20M,,,"26,448",26448,123,26,61,,,-,,false,eligible,official_final_score_row,true,[],,42,,,,,,,{}
+cqww-dx:1961:ssb:W8NGO:efc1f075e291f349,W8NGO,W8NGO,W8,MULTI-SINGLE HIGH,,,"42,765",42765,136,55,90,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""W8NGO"",""callsign"":""W8NGO""},{""source"":""W8ONA"",""callsign"":""W8ONA""},{""source"":""K8YEI"",""callsign"":""K8YEI""}]",,26,,,,,,,{}
+cqww-dx:1961:ssb:W8RMF/5:d6c29da139a66d4e,W8RMF/5,W8RMF/5,W5,SO HIGH ALL,,,"16,015",16015,73,40,55,,,-,,false,eligible,official_final_score_row,true,[],,107,,,,,,,{}
+cqww-dx:1961:ssb:W8RTF:d6b0a3f49b26cb3c,W8RTF,W8RTF,W8,SO HIGH 15M,,,"1,820",1820,30,15,20,,,-,,false,eligible,official_final_score_row,true,[],,60,,,,,,,{}
+cqww-dx:1961:ssb:W8SMQ:64864256256a6248,W8SMQ,W8SMQ,W8,SO HIGH ALL,,,"9,180",9180,56,26,42,,,-,,false,eligible,official_final_score_row,true,[],,134,,,,,,,{}
+cqww-dx:1961:ssb:W8TWA/8:64864256256a6248,W8TWA/8,W8TWA/8,W8,SO HIGH ALL,,,"16,647",16647,79,36,57,,,-,,false,eligible,official_final_score_row,true,[],,106,,,,,,,{}
+cqww-dx:1961:ssb:W8UMR:7c30e2101cbb34e1,W8UMR,W8UMR,W8,SO HIGH 10M,,,"8,195",8195,71,17,38,,,-,,false,eligible,official_final_score_row,true,[],,8,,,,,,,{}
+cqww-dx:1961:ssb:W8WT:64864256256a6248,W8WT,W8WT,W8,SO HIGH ALL,,,"9,869",9869,69,27,44,,,-,,false,eligible,official_final_score_row,true,[],,131,,,,,,,{}
+cqww-dx:1961:ssb:W9EGQ:af17cfcc2b5d59be,W9EGQ,W9EGQ,W9,SO HIGH 20M,,,"2,812",2812,37,16,21,,,-,,false,eligible,official_final_score_row,true,[],,110,,,,,,,{}
+cqww-dx:1961:ssb:W9EWC:0c656599157ec63b,W9EWC,W9EWC,W9,SO HIGH ALL,,,"40,689",40689,147,53,84,,,-,,false,eligible,official_final_score_row,true,[],,54,,,,,,,{}
+cqww-dx:1961:ssb:W9NZM:0c656599157ec63b,W9NZM,W9NZM,W9,SO HIGH ALL,,,"42,442",42442,145,62,90,,,-,,false,eligible,official_final_score_row,true,[],,50,,,,,,,{}
+cqww-dx:1961:ssb:W9PWU:179b916bfed2a5ad,W9PWU,W9PWU,W9,SO HIGH 10M,,,"24,642",24642,147,24,50,,,-,,false,eligible,official_final_score_row,true,[],,4,,,,,,,{}
+cqww-dx:1961:ssb:W9WIO:89e040107379ca96,W9WIO,W9WIO,W9,SO HIGH 15M,,,"1,410",1410,21,13,17,,,-,,false,eligible,official_final_score_row,true,[],,65,,,,,,,{}
+cqww-dx:1961:ssb:W9YT:11aca8bc456d2fdb,W9YT,W9YT,W9,MULTI-SINGLE HIGH,,,"20,600",20600,92,40,63,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""K9ABP"",""callsign"":""K9ABP""},{""source"":""W9SZR"",""callsign"":""W9SZR""},{""source"":""CE2JW"",""callsign"":""CE2JW""}]",,33,,,,,,,{}
+cqww-dx:1961:ssb:WA2IEK:f8c176933c9df570,WA2IEK,WA2IEK,W2,MULTI-SINGLE HIGH,,,"3,510",3510,48,23,31,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""WA2IEK"",""callsign"":""WA2IEK""},{""source"":""K2RVT"",""callsign"":""K2RVT""}]",,51,,,,,,,{}
+cqww-dx:1961:ssb:WA6DNM:72c7cad45d59ccb4,WA6DNM,WA6DNM,W6,SO HIGH 15M,,,390,390,11,7,8,,,-,,false,eligible,official_final_score_row,true,[],,78,,,,,,,{}
+cqww-dx:1961:ssb:WA6IVM:32642ecafd130d87,WA6IVM,WA6IVM,W6,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:WA6LYX:30782a68cf987de8,WA6LYX,WA6LYX,W6,SO HIGH ALL,,,"15,743",15743,86,44,47,,,-,,false,eligible,official_final_score_row,true,[],,108,,,,,,,{}
+cqww-dx:1961:ssb:WA6MWG:32642ecafd130d87,WA6MWG,WA6MWG,W6,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:WA6OET:32642ecafd130d87,WA6OET,WA6OET,W6,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:XE1FFX:bddd38401133d15b,XE1FFX,XE1FFX,XE,SO HIGH ALL,,,"1,035",1035,22,10,13,,,-,,false,eligible,official_final_score_row,true,[],,185,,,,,,,{}
+cqww-dx:1961:ssb:XE1ZE:9bff3ca597e1d3a3,XE1ZE,XE1ZE,XE,SO HIGH 20M,,,"28,785",28785,421,23,34,,,-,,false,eligible,official_final_score_row,true,[],,38,,,,,,,{}
+cqww-dx:1961:ssb:XE3BL:79dc8f5a9f333dcf,XE3BL,XE3BL,XE,SO HIGH 15M,,,"5,320",5320,71,15,25,,,-,,false,eligible,official_final_score_row,true,[],,43,,,,,,,{}
+cqww-dx:1961:ssb:XT2Z:9fc242227d99c1aa,XT2Z,XT2Z,XT,SO HIGH ALL,,,"257,153",257153,587,46,105,,,-,,false,eligible,official_final_score_row,true,[],,7,,,,,,,{}
+cqww-dx:1961:ssb:XW8AS:d2ad4d65b9e115fd,XW8AS,XW8AS,XW,SO HIGH 20M,,,"9,350",9350,88,20,35,,,-,,false,eligible,official_final_score_row,true,[],,68,,,,,,,{}
+cqww-dx:1961:ssb:XZ2SY:7fcaa319296c775e,XZ2SY,XZ2SY,XZ,SO HIGH ALL,,,"43,086",43086,161,45,84,,,-,,false,eligible,official_final_score_row,true,[],,49,,,,,,,{}
+cqww-dx:1961:ssb:YO2CJ:9752d10e4d3e4ff1,YO2CJ,YO2CJ,YO,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:YO3RK:f9ea63a1bad192a6,YO3RK,YO3RK,YO,SO HIGH 20M,,,"4,838",4838,93,11,31,,,-,,false,eligible,official_final_score_row,true,[],,91,,,,,,,{}
+cqww-dx:1961:ssb:YO9WL:9752d10e4d3e4ff1,YO9WL,YO9WL,YO,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:YU1AG:1abd51c92846e659,YU1AG,YU1AG,YU,SO HIGH 20M,,,"11,750",11750,234,9,38,,,-,,false,eligible,official_final_score_row,true,[],,64,,,,,,,{}
+cqww-dx:1961:ssb:YU3OV:0c5e03d5ce9805c6,YU3OV,YU3OV,YU,SO HIGH ALL,,,"31,059",31059,214,29,90,,,-,,false,eligible,official_final_score_row,true,[],,69,,,,,,,{}
+cqww-dx:1961:ssb:YV1EE:5ce555e807fbacd1,YV1EE,YV1EE,YV,SO HIGH ALL,,,"102,924",102924,330,45,63,,,-,,false,eligible,official_final_score_row,true,[],,22,,,,,,,{}
+cqww-dx:1961:ssb:YV1EL:5ce555e807fbacd1,YV1EL,YV1EL,YV,SO HIGH ALL,,,"36,024",36024,158,30,46,,,-,,false,eligible,official_final_score_row,true,[],,61,,,,,,,{}
+cqww-dx:1961:ssb:YV2CJ:5ce555e807fbacd1,YV2CJ,YV2CJ,YV,SO HIGH ALL,,,"17,139",17139,77,39,48,,,-,,false,eligible,official_final_score_row,true,[],,105,,,,,,,{}
+cqww-dx:1961:ssb:YV3BW:485ebcd511252bb6,YV3BW,YV3BW,YV,SO HIGH 15M,,,"3,010",3010,36,15,20,,,-,,false,eligible,official_final_score_row,true,[],,54,,,,,,,{}
+cqww-dx:1961:ssb:YV4DU:5ce555e807fbacd1,YV4DU,YV4DU,YV,SO HIGH ALL,,,"94,620",94620,348,34,61,,,-,,false,eligible,official_final_score_row,true,[],,24,,,,,,,{}
+cqww-dx:1961:ssb:YV5AFF:536276e4f2bb759d,YV5AFF,YV5AFF,YV,SO HIGH 20M,,,"53,369",53369,215,25,58,,,-,,false,eligible,official_final_score_row,true,[],,19,,,,,,,{}
+cqww-dx:1961:ssb:YV5AFJ:536276e4f2bb759d,YV5AFJ,YV5AFJ,YV,SO HIGH 20M,,,"10,051",10051,152,9,14,,,-,,false,eligible,official_final_score_row,true,[],,66,,,,,,,{}
+cqww-dx:1961:ssb:YV5AGD:5ce555e807fbacd1,YV5AGD,YV5AGD,YV,SO HIGH ALL,,,"167,824",167824,325,66,118,,,-,,false,eligible,official_final_score_row,true,[],,13,,,,,,,{}
+cqww-dx:1961:ssb:YV5AHG:485ebcd511252bb6,YV5AHG,YV5AHG,YV,SO HIGH 15M,,,"3,054",3054,62,8,12,,,-,,false,eligible,official_final_score_row,true,[],,53,,,,,,,{}
+cqww-dx:1961:ssb:YV5AKP:536276e4f2bb759d,YV5AKP,YV5AKP,YV,SO HIGH 20M,,,858,858,13,10,12,,,-,,false,eligible,official_final_score_row,true,[],,132,,,,,,,{}
+cqww-dx:1961:ssb:YV5AKU:8a13eed8b2505463,YV5AKU,YV5AKU,YV,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:YV5AMP:5ce555e807fbacd1,YV5AMP,YV5AMP,YV,SO HIGH ALL,,,"1,404",1404,19,11,15,,,-,,false,eligible,official_final_score_row,true,[],,179,,,,,,,{}
+cqww-dx:1961:ssb:ZB1HC:6e91fe138074af92,ZB1HC,ZB1HC,9H,SO HIGH 15M,,,"57,009",57009,428,22,71,,,-,,false,eligible,official_final_score_row,true,[],,1,,,,,,,{}
+cqww-dx:1961:ssb:ZB2AD:c73e13507ba846cb,ZB2AD,ZB2AD,ZB,SO HIGH 15M,,,"10,712",10712,154,12,40,,,-,,false,eligible,official_final_score_row,true,[],,29,,,,,,,{}
+cqww-dx:1961:ssb:ZC4AK:44110dd0dd105118,ZC4AK,ZC4AK,ZC4,MULTI-SINGLE HIGH,,,"97,439",97439,258,47,92,,,-,,false,eligible,official_final_score_row,true,"[{""source"":""ZC4AK"",""callsign"":""ZC4AK""},{""source"":""ZC4AB"",""callsign"":""ZC4AB""},{""source"":""ZC4AT"",""callsign"":""ZC4AT""}]",,12,,,,,,,{}
+cqww-dx:1961:ssb:ZC4FC:b1ee2305fd7a5e72,ZC4FC,ZC4FC,ZC4,SO HIGH ALL,,,"14,790",14790,100,11,40,,,-,,false,eligible,official_final_score_row,true,[],,114,,,,,,,{}
+cqww-dx:1961:ssb:ZE1JE:841447f675bc2f15,ZE1JE,ZE1JE,Z2,SO HIGH 20M,,,"36,080",36080,166,26,56,,,-,,false,eligible,official_final_score_row,true,[],,29,,,,,,,{}
+cqww-dx:1961:ssb:ZE7JV:a43b7e5b49748d47,ZE7JV,ZE7JV,Z2,SO HIGH ALL,,,"220,239",220239,366,69,142,,,-,,false,eligible,official_final_score_row,true,[],,10,,,,,,,{}
+cqww-dx:1961:ssb:ZK1AR:7601ee66fc7dc038,ZK1AR,ZK1AR,E5/s,SO HIGH ALL,,,"20,064",20064,110,35,41,,,-,,false,eligible,official_final_score_row,true,[],,95,,,,,,,{}
+cqww-dx:1961:ssb:ZK1BS:2e6b25c7eade785d,ZK1BS,ZK1BS,E5/s,SO HIGH 20M,,,"5,332",5332,74,14,17,,,-,,false,eligible,official_final_score_row,true,[],,88,,,,,,,{}
+cqww-dx:1961:ssb:ZL1AAS:b3c22c00d1c845f5,ZL1AAS,ZL1AAS,ZL,SO HIGH 20M,,,"23,532",23532,161,21,32,,,-,,false,eligible,official_final_score_row,true,[],,48,,,,,,,{}
+cqww-dx:1961:ssb:ZL1HA:41452920546ec8cd,ZL1HA,ZL1HA,ZL,SO HIGH ALL,,,"12,810",12810,108,16,26,,,-,,false,eligible,official_final_score_row,true,[],,119,,,,,,,{}
+cqww-dx:1961:ssb:ZL3RT:b3c22c00d1c845f5,ZL3RT,ZL3RT,ZL,SO HIGH 20M,,,"3,006",3006,61,9,9,,,-,,false,eligible,official_final_score_row,true,[],,106,,,,,,,{}
+cqww-dx:1961:ssb:ZS2HI:d0065e57292fad31,ZS2HI,ZS2HI,ZS,SO HIGH 20M,,,"13,053",13053,91,21,36,,,-,,false,eligible,official_final_score_row,true,[],,62,,,,,,,{}
+cqww-dx:1961:ssb:ZS6ZC:610adddb74eb41d8,ZS6ZC,ZS6ZC,ZS,CHECKLOG,,,,,,,,,,-,,false,ineligible,official_checklog_category,true,[],,,,,,,,,{}
+cqww-dx:1961:ssb:ZS7P:63c2905449eccfc6,ZS7P,ZS7P,3DA,SO HIGH 20M,,,"225,597",225597,562,38,101,,,-,,false,eligible,official_final_score_row,true,[],,1,,,,,,,{}

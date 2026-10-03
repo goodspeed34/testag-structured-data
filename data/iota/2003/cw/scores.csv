@@ -1,0 +1,835 @@
+entry_id,station_callsign_source,station_callsign,location_code_source,category_source,dxcc_entity_source,overlay_category_source,score_source,score,qso_count,cq_zones,cq_countries,wpx_prefixes,multipliers,operating_hours_source,operating_hours,late_entry,award_eligibility,eligibility_basis,operator_list_complete,operators_json,category_world_rank_official,category_world_rank_calculated,category_in_dxcc_rank_official,category_in_dxcc_rank_calculated,overlay_world_rank_official,overlay_world_rank_calculated,overlay_in_dxcc_rank_official,overlay_in_dxcc_rank_calculated,metrics_json
+iota:2003:cw:3Z2D:c2da4492c0e67eca,3Z2D,3Z2D,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"235,656",235656,515,,,,72,,,false,eligible,official_legacy_result_table,true,"[{""source"":""3Z2D"",""callsign"":""3Z2D""}]",,18,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:4K9W:2680debaadd58377,4K9W,4K9W,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"62,694",62694,115,,,,54,,,false,eligible,official_legacy_result_table,true,"[{""source"":""4K9W"",""callsign"":""4K9W""}]",,55,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:4N1GM:2680debaadd58377,4N1GM,4N1GM,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"320,037",320037,385,,,,107,,,false,eligible,official_legacy_result_table,true,"[{""source"":""4N1GM"",""callsign"":""4N1GM""}]",,7,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:4S7NI:37977812c35347a8,4S7NI,4S7NI,AS-003,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,945,945,13,,,,7,,,false,eligible,official_legacy_result_table,true,"[{""source"":""4S7NI"",""callsign"":""4S7NI""}]",,46,,,,,,,"{""iota_reference"":""AS-003"",""island_name"":""Sri Lanka"",""section"":null,""source_marker"":null}"
+iota:2003:cw:5B4AHA:c10493fa6e74c923,5B4AHA,5B4AHA,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | AS-004",,,"333,882",333882,758,,,,81,,,false,eligible,official_legacy_result_table,true,"[{""source"":""5B4AHA"",""callsign"":""5B4AHA""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""AS-004"",""source_marker"":null}"
+iota:2003:cw:9A/HA6PS/P:49f2a36aac4d5f46,9A/HA6PS/P,9A/HA6PS/P,EU-170,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"278,640",278640,738,,,,72,,,false,eligible,official_legacy_result_table,true,"[{""source"":""9A/HA6PS/P"",""callsign"":""9A/HA6PS/P""}]",,8,,,,,,,"{""iota_reference"":""EU-170"",""island_name"":""Pasman Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:9A/HA8KW/P:290268bb2b7c2fd7,9A/HA8KW/P,9A/HA8KW/P,EU-170,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"306,912",306912,520,,,,92,,,false,eligible,official_legacy_result_table,true,"[{""source"":""9A/HA8KW/P"",""callsign"":""9A/HA8KW/P""}]",,8,,,,,,,"{""iota_reference"":""EU-170"",""island_name"":""Prvic Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:9A/OK1KA/P:290268bb2b7c2fd7,9A/OK1KA/P,9A/OK1KA/P,EU-170,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"101,100",101100,398,,,,50,,,false,eligible,official_legacy_result_table,true,"[{""source"":""9A/OK1KA/P"",""callsign"":""9A/OK1KA/P""}]",,21,,,,,,,"{""iota_reference"":""EU-170"",""island_name"":""Dugi Otok"",""section"":null,""source_marker"":null}"
+iota:2003:cw:9A3TU:c2da4492c0e67eca,9A3TU,9A3TU,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"204,060",204060,244,,,,95,,,false,eligible,official_legacy_result_table,true,"[{""source"":""9A3TU"",""callsign"":""9A3TU""}]",,24,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:9A6C/P:855dcaf6e636c446,9A6C/P,9A6C/P,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-016",,,"1,559,448",1559448,1424,,,,179,,,false,eligible,official_legacy_result_table,true,"[{""source"":""9A6C/P"",""callsign"":""9A6C/P""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-016"",""source_marker"":null}"
+iota:2003:cw:9A6NL:49f2a36aac4d5f46,9A6NL,9A6NL,EU-170,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"834,768",834768,1002,,,,136,,,false,eligible,official_legacy_result_table,true,"[{""source"":""9A6NL"",""callsign"":""9A6NL""}]",,1,,,,,,,"{""iota_reference"":""EU-170"",""island_name"":""Pasman Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:9H1ZA:32db025264bef8f8,9H1ZA,9H1ZA,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-023",,,"2,723,688",2723688,2042,,,,228,,,false,eligible,official_legacy_result_table,true,"[{""source"":""9H1ZA"",""callsign"":""9H1ZA""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-023"",""source_marker"":null}"
+iota:2003:cw:9M2/G4ZFE/P:b0a84bdb5af451e4,9M2/G4ZFE/P,9M2/G4ZFE/P,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | AS-072",,,"112,053",112053,399,,,,41,,,false,eligible,official_legacy_result_table,true,"[{""source"":""9M2/G4ZFE/P"",""callsign"":""9M2/G4ZFE/P""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""AS-072"",""source_marker"":null}"
+iota:2003:cw:AA3B:81129a6df74c9bfb,AA3B,AA3B,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"335,376",335376,448,,,,102,,,false,eligible,official_legacy_result_table,true,"[{""source"":""AA3B"",""callsign"":""AA3B""}]",,9,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:BW4/UA3VCS:8948b08f135fa229,BW4/UA3VCS,BW4/UA3VCS,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | AS-020",,,"91,800",91800,406,,,,36,,,false,eligible,official_legacy_result_table,true,"[{""source"":""BW4/UA3VCS"",""callsign"":""BW4/UA3VCS""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""AS-020"",""source_marker"":null}"
+iota:2003:cw:CO8ZZ:9a516fe669065f17,CO8ZZ,CO8ZZ,NA-015,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"131,502",131502,375,,,,62,,,false,eligible,official_legacy_result_table,true,"[{""source"":""CO8ZZ"",""callsign"":""CO8ZZ""}]",,18,,,,,,,"{""iota_reference"":""NA-015"",""island_name"":""Cuba"",""section"":null,""source_marker"":null}"
+iota:2003:cw:DF0LI:81129a6df74c9bfb,DF0LI,DF0LI,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"151,470",151470,281,,,,66,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DF0LI"",""callsign"":""DF0LI""}]",,17,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DF2CH:2680debaadd58377,DF2CH,DF2CH,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"41,976",41976,110,,,,44,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DF2CH"",""callsign"":""DF2CH""}]",,70,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DJ4KW:2680debaadd58377,DJ4KW,DJ4KW,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"9,936",9936,44,,,,23,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DJ4KW"",""callsign"":""DJ4KW""}]",,102,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DJ5AA:2680debaadd58377,DJ5AA,DJ5AA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"219,030",219030,197,,,,98,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DJ5AA"",""callsign"":""DJ5AA""}]",,15,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DJ5GG:2680debaadd58377,DJ5GG,DJ5GG,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"5,661",5661,27,,,,17,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DJ5GG"",""callsign"":""DJ5GG""}]",,111,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DK3DM/P:81129a6df74c9bfb,DK3DM/P,DK3DM/P,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"687,285",687285,813,,,,135,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DK3DM/P"",""callsign"":""DK3DM/P""}]",,1,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DK3KD:81129a6df74c9bfb,DK3KD,DK3KD,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"303,408",303408,436,,,,98,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DK3KD"",""callsign"":""DK3KD""}]",,10,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DK3WW:080a30ecd517658c,DK3WW,DK3WW,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour QRP) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"46,944",46944,102,,,,48,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DK3WW"",""callsign"":""DK3WW""}]",,3,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DK5ZX:2680debaadd58377,DK5ZX,DK5ZX,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"2,211",2211,23,,,,11,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DK5ZX"",""callsign"":""DK5ZX""}]",,127,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL1CW:81129a6df74c9bfb,DL1CW,DL1CW,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"64,413",64413,145,,,,51,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL1CW"",""callsign"":""DL1CW""}]",,25,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL1EV/P:2680debaadd58377,DL1EV/P,DL1EV/P,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"26,448",26448,52,,,,38,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL1EV/P"",""callsign"":""DL1EV/P""}]",,84,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL1LAW:080a30ecd517658c,DL1LAW,DL1LAW,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour QRP) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"48,375",48375,143,,,,43,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL1LAW"",""callsign"":""DL1LAW""}]",,2,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL3BZZ:2680debaadd58377,DL3BZZ,DL3BZZ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"86,580",86580,100,,,,65,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL3BZZ"",""callsign"":""DL3BZZ""}]",,40,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL3JRA:2680debaadd58377,DL3JRA,DL3JRA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"3,120",3120,20,,,,13,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL3JRA"",""callsign"":""DL3JRA""}]",,124,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL3KWF:2680debaadd58377,DL3KWF,DL3KWF,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"37,392",37392,100,,,,41,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL3KWF"",""callsign"":""DL3KWF""}]",,73,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL3KWR:c2da4492c0e67eca,DL3KWR,DL3KWR,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"112,560",112560,160,,,,70,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL3KWR"",""callsign"":""DL3KWR""}]",,37,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL3YA:81129a6df74c9bfb,DL3YA,DL3YA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"83,655",83655,109,,,,65,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL3YA"",""callsign"":""DL3YA""}]",,21,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL4JYT:2680debaadd58377,DL4JYT,DL4JYT,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"203,454",203454,250,,,,89,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL4JYT"",""callsign"":""DL4JYT""}]",,17,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL5CX/P:e27b30808a2cf903,DL5CX/P,DL5CX/P,EU-098,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"5,544",5544,106,,,,12,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL5CX/P"",""callsign"":""DL5CX/P""}]",,42,,,,,,,"{""iota_reference"":""EU-098"",""island_name"":""Poel Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:DL5FCO:2680debaadd58377,DL5FCO,DL5FCO,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"16,968",16968,70,,,,28,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL5FCO"",""callsign"":""DL5FCO""}]",,92,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL5KUD:524c85f1296a55de,DL5KUD,DL5KUD,EU-057,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"437,760",437760,384,,,,128,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL5KUD"",""callsign"":""DL5KUD""}]",,2,,,,,,,"{""iota_reference"":""EU-057"",""island_name"":""Ruegen Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:DL6JZ:6bef70b53278de4b,DL6JZ,DL6JZ,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"912,789",912789,583,,,,177,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL6JZ"",""callsign"":""DL6JZ""}]",,6,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL6KVA:6bef70b53278de4b,DL6KVA,DL6KVA,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"1,357,020",1357020,387,,,,252,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL6KVA"",""callsign"":""DL6KVA""}]",,3,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL6UNF:81129a6df74c9bfb,DL6UNF,DL6UNF,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"280,665",280665,227,,,,105,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL6UNF"",""callsign"":""DL6UNF""}]",,11,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL7AXM:2680debaadd58377,DL7AXM,DL7AXM,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"73,236",73236,75,,,,68,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL7AXM"",""callsign"":""DL7AXM""}]",,49,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DL7UIO:2680debaadd58377,DL7UIO,DL7UIO,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"81,270",81270,126,,,,63,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DL7UIO"",""callsign"":""DL7UIO""}]",,45,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DM3PKK:2680debaadd58377,DM3PKK,DM3PKK,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"88,641",88641,129,,,,67,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DM3PKK"",""callsign"":""DM3PKK""}]",,39,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:DP1POL:a8f7541b3104f3d6,DP1POL,DP1POL,AN-016,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,990,990,31,,,,6,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DP1POL"",""callsign"":""DP1POL""}]",,19,,,,,,,"{""iota_reference"":""AN-016"",""island_name"":""Antarctica"",""section"":null,""source_marker"":null}"
+iota:2003:cw:DS1CCU:2680debaadd58377,DS1CCU,DS1CCU,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"72,372",72372,236,,,,37,,,false,eligible,official_legacy_result_table,true,"[{""source"":""DS1CCU"",""callsign"":""DS1CCU""}]",,50,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:E20NTS:2680debaadd58377,E20NTS,E20NTS,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"4,272",4272,21,,,,16,,,false,eligible,official_legacy_result_table,true,"[{""source"":""E20NTS"",""callsign"":""E20NTS""}]",,113,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:EA1DGG:2680debaadd58377,EA1DGG,EA1DGG,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"34,749",34749,97,,,,39,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EA1DGG"",""callsign"":""EA1DGG""}]",,75,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:EA1FBJ:2680debaadd58377,EA1FBJ,EA1FBJ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"1,650",1650,11,,,,10,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EA1FBJ"",""callsign"":""EA1FBJ""}]",,131,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:EA3ALV:2680debaadd58377,EA3ALV,EA3ALV,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"6,171",6171,45,,,,17,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EA3ALV"",""callsign"":""EA3ALV""}]",,109,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:EA3AXM:2680debaadd58377,EA3AXM,EA3AXM,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"1,860",1860,22,,,,10,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EA3AXM"",""callsign"":""EA3AXM""}]",,130,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:EA4EFJ:2680debaadd58377,EA4EFJ,EA4EFJ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"26,754",26754,179,,,,26,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EA4EFJ"",""callsign"":""EA4EFJ""}]",,83,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:EA5EOH:c2da4492c0e67eca,EA5EOH,EA5EOH,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"107,892",107892,114,,,,74,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EA5EOH"",""callsign"":""EA5EOH""}]",,38,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:EA6NB:a51efe06ac9bfb8a,EA6NB,EA6NB,EU-004,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"25,707",25707,303,,,,19,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EA6NB"",""callsign"":""EA6NB""}]",,34,,,,,,,"{""iota_reference"":""EU-004"",""island_name"":""Mallorca"",""section"":null,""source_marker"":null}"
+iota:2003:cw:EA7CA:2680debaadd58377,EA7CA,EA7CA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"25,296",25296,76,,,,34,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EA7CA"",""callsign"":""EA7CA""}]",,85,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:EI4DW:8949e2e2e3016f0d,EI4DW,EI4DW,EU-115,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"181,815",181815,289,,,,85,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EI4DW"",""callsign"":""EI4DW""}]",,12,,,,,,,"{""iota_reference"":""EU-115"",""island_name"":""Ireland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:EI5GM:fa1d5ed772160641,EI5GM,EI5GM,EU-115,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"219,420",219420,355,,,,92,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EI5GM"",""callsign"":""EI5GM""}]",,12,,,,,,,"{""iota_reference"":""EU-115"",""island_name"":""Ireland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:EI6IZ:fa1d5ed772160641,EI6IZ,EI6IZ,EU-115,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"160,083",160083,427,,,,63,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EI6IZ"",""callsign"":""EI6IZ""}]",,15,,,,,,,"{""iota_reference"":""EU-115"",""island_name"":""Ireland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:EI8JM:fa1d5ed772160641,EI8JM,EI8JM,EU-115,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"73,728",73728,172,,,,48,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EI8JM"",""callsign"":""EI8JM""}]",,23,,,,,,,"{""iota_reference"":""EU-115"",""island_name"":""Ireland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:ER3DX:c2da4492c0e67eca,ER3DX,ER3DX,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"553,320",553320,444,,,,145,,,false,eligible,official_legacy_result_table,true,"[{""source"":""ER3DX"",""callsign"":""ER3DX""}]",,6,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:ES0MC:1a03da247639b4fe,ES0MC,ES0MC,EU-034,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"297,900",297900,704,,,,75,,,false,eligible,official_legacy_result_table,true,"[{""source"":""ES0MC"",""callsign"":""ES0MC""}]",,10,,,,,,,"{""iota_reference"":""EU-034"",""island_name"":""Saaremaa Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:ES4MM:c2da4492c0e67eca,ES4MM,ES4MM,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"166,518",166518,150,,,,87,,,false,eligible,official_legacy_result_table,true,"[{""source"":""ES4MM"",""callsign"":""ES4MM""}]",,27,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:EU6AA:2680debaadd58377,EU6AA,EU6AA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"1,536",1536,24,,,,8,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EU6AA"",""callsign"":""EU6AA""}]",,132,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:EW8EW:6bef70b53278de4b,EW8EW,EW8EW,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"365,268",365268,266,,,,122,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EW8EW"",""callsign"":""EW8EW""}]",,10,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:EW8OS:2680debaadd58377,EW8OS,EW8OS,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"292,560",292560,268,,,,106,,,false,eligible,official_legacy_result_table,true,"[{""source"":""EW8OS"",""callsign"":""EW8OS""}]",,9,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:F/DJ9RR:587be601c392ed4a,F/DJ9RR,F/DJ9RR,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-032",,,"510,324",510324,1169,,,,92,,,false,eligible,official_legacy_result_table,true,"[{""source"":""F/DJ9RR"",""callsign"":""F/DJ9RR""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-032"",""source_marker"":null}"
+iota:2003:cw:F/DL4HRM/P:2680debaadd58377,F/DL4HRM/P,F/DL4HRM/P,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"1,218",1218,22,,,,7,,,false,eligible,official_legacy_result_table,true,"[{""source"":""F/DL4HRM/P"",""callsign"":""F/DL4HRM/P""}]",,135,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:F2FX:2680debaadd58377,F2FX,F2FX,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"4,134",4134,38,,,,13,,,false,eligible,official_legacy_result_table,true,"[{""source"":""F2FX"",""callsign"":""F2FX""}]",,116,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:F2NZ/P:2680debaadd58377,F2NZ/P,F2NZ/P,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"33,600",33600,96,,,,40,,,false,eligible,official_legacy_result_table,true,"[{""source"":""F2NZ/P"",""callsign"":""F2NZ/P""}]",,78,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:F5IN:81129a6df74c9bfb,F5IN,F5IN,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"105,138",105138,345,,,,54,,,false,eligible,official_legacy_result_table,true,"[{""source"":""F5IN"",""callsign"":""F5IN""}]",,20,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:F6FTB/P:c2da4492c0e67eca,F6FTB/P,F6FTB/P,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"24,150",24150,66,,,,35,,,false,eligible,official_legacy_result_table,true,"[{""source"":""F6FTB/P"",""callsign"":""F6FTB/P""}]",,45,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:F6GQO:81129a6df74c9bfb,F6GQO,F6GQO,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"77,703",77703,139,,,,59,,,false,eligible,official_legacy_result_table,true,"[{""source"":""F6GQO"",""callsign"":""F6GQO""}]",,22,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:G0DCK:5b997da5dbb0818c,G0DCK,G0DCK,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour QRP) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-005",,,"58,032",58032,203,,,,48,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G0DCK"",""callsign"":""G0DCK""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-005"",""source_marker"":null}"
+iota:2003:cw:G0UKX:4996698d42f2d3bc,G0UKX,G0UKX,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"67,416",67416,160,,,,53,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G0UKX"",""callsign"":""G0UKX""}]",,25,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G2AFV:4996698d42f2d3bc,G2AFV,G2AFV,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"142,080",142080,224,,,,80,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G2AFV"",""callsign"":""G2AFV""}]",,17,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G2HLU:597a401b9df205cd,G2HLU,G2HLU,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"146,412",146412,181,,,,84,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G2HLU"",""callsign"":""G2HLU""}]",,13,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G3GLL:b4cf78e732b5e382,G3GLL,G3GLL,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-005",,,"366,390",366390,498,,,,115,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G3GLL"",""callsign"":""G3GLL""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-005"",""source_marker"":null}"
+iota:2003:cw:G3GMM:822c94f52568adc5,G3GMM,G3GMM,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-005",,,"34,440",34440,108,,,,41,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G3GMM"",""callsign"":""G3GMM""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-005"",""source_marker"":null}"
+iota:2003:cw:G3GMS:4996698d42f2d3bc,G3GMS,G3GMS,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"90,909",90909,161,,,,63,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G3GMS"",""callsign"":""G3GMS""}]",,22,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G3KKQ:db991a08b46a470e,G3KKQ,G3KKQ,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour QRP) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"45,129",45129,103,,,,49,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G3KKQ"",""callsign"":""G3KKQ""}]",,2,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G3KZR:597a401b9df205cd,G3KZR,G3KZR,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"311,808",311808,352,,,,112,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G3KZR"",""callsign"":""G3KZR""}]",,6,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G3LHJ:4996698d42f2d3bc,G3LHJ,G3LHJ,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"208,845",208845,439,,,,85,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G3LHJ"",""callsign"":""G3LHJ""}]",,13,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G3OOK:b4cf78e732b5e382,G3OOK,G3OOK,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-005",,,"206,661",206661,321,,,,91,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G3OOK"",""callsign"":""G3OOK""}]",,2,,,,,,,"{""iota_reference"":null,""section"":""EU-005"",""source_marker"":null}"
+iota:2003:cw:G3UFY:597a401b9df205cd,G3UFY,G3UFY,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"103,725",103725,121,,,,75,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G3UFY"",""callsign"":""G3UFY""}]",,15,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G3YMC:db991a08b46a470e,G3YMC,G3YMC,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour QRP) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"73,359",73359,169,,,,57,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G3YMC"",""callsign"":""G3YMC""}]",,1,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G3ZRJ:4996698d42f2d3bc,G3ZRJ,G3ZRJ,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"21,780",21780,114,,,,30,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G3ZRJ"",""callsign"":""G3ZRJ""}]",,36,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G4BJM:597a401b9df205cd,G4BJM,G4BJM,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"70,518",70518,267,,,,46,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G4BJM"",""callsign"":""G4BJM""}]",,17,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G4BUO:597a401b9df205cd,G4BUO,G4BUO,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"100,980",100980,222,,,,66,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G4BUO"",""callsign"":""G4BUO""}]",,16,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G4DDL:4996698d42f2d3bc,G4DDL,G4DDL,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"102,510",102510,198,,,,67,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G4DDL"",""callsign"":""G4DDL""}]",,20,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:G4IFB:4996698d42f2d3bc,G4IFB,G4IFB,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"408,576",408576,484,,,,128,,,false,eligible,official_legacy_result_table,true,"[{""source"":""G4IFB"",""callsign"":""G4IFB""}]",,5,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:GM3CFS:4996698d42f2d3bc,GM3CFS,GM3CFS,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"208,152",208152,240,,,,98,,,false,eligible,official_legacy_result_table,true,"[{""source"":""GM3CFS"",""callsign"":""GM3CFS""}]",,14,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:GM4SID:597a401b9df205cd,GM4SID,GM4SID,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"256,365",256365,643,,,,81,,,false,eligible,official_legacy_result_table,true,"[{""source"":""GM4SID"",""callsign"":""GM4SID""}]",,9,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:GM7X:23e60a89a2c2eefa,GM7X,GM7X,EU-123,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"413,400",413400,665,,,,104,,,false,eligible,official_legacy_result_table,true,"[{""source"":""GM7X"",""callsign"":""GM7X""}]",,4,,,,,,,"{""iota_reference"":""EU-123"",""island_name"":""Isle of Arran"",""section"":null,""source_marker"":null}"
+iota:2003:cw:GW3SB:4996698d42f2d3bc,GW3SB,GW3SB,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"13,851",13851,59,,,,27,,,false,eligible,official_legacy_result_table,true,"[{""source"":""GW3SB"",""callsign"":""GW3SB""}]",,39,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:H2G:5c0004ebd898d402,H2G,H2G,AS-004,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"830,739",830739,1171,,,,119,,,false,eligible,official_legacy_result_table,true,"[{""source"":""H2G"",""callsign"":""H2G""}]",,2,,,,,,,"{""iota_reference"":""AS-004"",""island_name"":""Cyprus"",""section"":null,""source_marker"":null}"
+iota:2003:cw:HA0GK:ef8275e4cbd6ed94,HA0GK,HA0GK,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hourQRP) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"64,896",64896,140,,,,52,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HA0GK"",""callsign"":""HA0GK""}]",,1,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:HA3JB:2680debaadd58377,HA3JB,HA3JB,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"63,378",63378,211,,,,42,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HA3JB"",""callsign"":""HA3JB""}]",,54,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:HA5BWW:2680debaadd58377,HA5BWW,HA5BWW,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"169,320",169320,224,,,,83,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HA5BWW"",""callsign"":""HA5BWW""}]",,20,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:HA5JP:c2da4492c0e67eca,HA5JP,HA5JP,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"397,002",397002,346,,,,127,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HA5JP"",""callsign"":""HA5JP""}]",,9,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:HA6IAM:2680debaadd58377,HA6IAM,HA6IAM,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"181,332",181332,153,,,,92,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HA6IAM"",""callsign"":""HA6IAM""}]",,19,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:HA6NW:c2da4492c0e67eca,HA6NW,HA6NW,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"353,970",353970,391,,,,114,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HA6NW"",""callsign"":""HA6NW""}]",,12,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:HB9ARF:c2da4492c0e67eca,HB9ARF,HB9ARF,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"362,328",362328,290,,,,124,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HB9ARF"",""callsign"":""HB9ARF""}]",,11,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:HB9CZF:c2da4492c0e67eca,HB9CZF,HB9CZF,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"838,668",838668,439,,,,188,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HB9CZF"",""callsign"":""HB9CZF""}]",,3,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:HG1S:6bef70b53278de4b,HG1S,HG1S,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"1,669,248",1669248,1080,,,,207,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HG1S"",""callsign"":""HG1S""}]",,2,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:HL5UOG:6bef70b53278de4b,HL5UOG,HL5UOG,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"132,060",132060,202,,,,62,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HL5UOG"",""callsign"":""HL5UOG""}]",,13,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:HS0/OZ1HET:c2da4492c0e67eca,HS0/OZ1HET,HS0/OZ1HET,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"36,372",36372,257,,,,28,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HS0/OZ1HET"",""callsign"":""HS0/OZ1HET""}]",,42,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:HS0ZDZ:2680debaadd58377,HS0ZDZ,HS0ZDZ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"45,639",45639,161,,,,33,,,false,eligible,official_legacy_result_table,true,"[{""source"":""HS0ZDZ"",""callsign"":""HS0ZDZ""}]",,67,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:I2AZ/1:c2da4492c0e67eca,I2AZ/1,I2AZ/1,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"123,525",123525,295,,,,61,,,false,eligible,official_legacy_result_table,true,"[{""source"":""I2AZ/1"",""callsign"":""I2AZ/1""}]",,36,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:I6FDJ:2680debaadd58377,I6FDJ,I6FDJ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"60,750",60750,145,,,,50,,,false,eligible,official_legacy_result_table,true,"[{""source"":""I6FDJ"",""callsign"":""I6FDJ""}]",,57,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:IK0HIT:2680debaadd58377,IK0HIT,IK0HIT,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"116,127",116127,189,,,,69,,,false,eligible,official_legacy_result_table,true,"[{""source"":""IK0HIT"",""callsign"":""IK0HIT""}]",,36,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:IK2NUX:c2da4492c0e67eca,IK2NUX,IK2NUX,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"151,305",151305,203,,,,77,,,false,eligible,official_legacy_result_table,true,"[{""source"":""IK2NUX"",""callsign"":""IK2NUX""}]",,31,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:IK2RLS:2680debaadd58377,IK2RLS,IK2RLS,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"51,750",51750,81,,,,50,,,false,eligible,official_legacy_result_table,true,"[{""source"":""IK2RLS"",""callsign"":""IK2RLS""}]",,63,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:IK2UCK:81129a6df74c9bfb,IK2UCK,IK2UCK,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"605,472",605472,528,,,,136,,,false,eligible,official_legacy_result_table,true,"[{""source"":""IK2UCK"",""callsign"":""IK2UCK""}]",,2,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:IS0SDX:4ad9ef24f38effb9,IS0SDX,IS0SDX,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-024",,,"86,289",86289,247,,,,49,,,false,eligible,official_legacy_result_table,true,"[{""source"":""IS0SDX"",""callsign"":""IS0SDX""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-024"",""source_marker"":null}"
+iota:2003:cw:IT9ORA:ad9ed33c5c16a3a4,IT9ORA,IT9ORA,EU-025,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"145,824",145824,348,,,,62,,,false,eligible,official_legacy_result_table,true,"[{""source"":""IT9ORA"",""callsign"":""IT9ORA""}]",,16,,,,,,,"{""iota_reference"":""EU-025"",""island_name"":""Sicily"",""section"":null,""source_marker"":null}"
+iota:2003:cw:IV3/DL3OCH:31d5848049c42be3,IV3/DL3OCH,IV3/DL3OCH,EU-131,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"299,040",299040,472,,,,89,,,false,eligible,official_legacy_result_table,true,"[{""source"":""IV3/DL3OCH"",""callsign"":""IV3/DL3OCH""}]",,9,,,,,,,"{""iota_reference"":""EU-131"",""island_name"":""Lido di Venezia"",""section"":null,""source_marker"":null}"
+iota:2003:cw:IV3DYS:c2da4492c0e67eca,IV3DYS,IV3DYS,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"24,156",24156,64,,,,33,,,false,eligible,official_legacy_result_table,true,"[{""source"":""IV3DYS"",""callsign"":""IV3DYS""}]",,44,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:IZ1DFI:2680debaadd58377,IZ1DFI,IZ1DFI,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"43,857",43857,199,,,,33,,,false,eligible,official_legacy_result_table,true,"[{""source"":""IZ1DFI"",""callsign"":""IZ1DFI""}]",,68,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:JA1AAT:e53d89137fb6ae5f,JA1AAT,JA1AAT,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | AS-007",,,264,264,6,,,,4,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JA1AAT"",""callsign"":""JA1AAT""}]",,3,,,,,,,"{""iota_reference"":null,""section"":""AS-007"",""source_marker"":null}"
+iota:2003:cw:JA1BNW:6bb5887be6cf64be,JA1BNW,JA1BNW,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | AS-007",,,"89,397",89397,169,,,,63,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JA1BNW"",""callsign"":""JA1BNW""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""AS-007"",""source_marker"":null}"
+iota:2003:cw:JA2KKA:a3cef3b0dee158a7,JA2KKA,JA2KKA,AS-007,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"17,304",17304,70,,,,28,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JA2KKA"",""callsign"":""JA2KKA""}]",,37,,,,,,,"{""iota_reference"":""AS-007"",""island_name"":""Honshu"",""section"":null,""source_marker"":null}"
+iota:2003:cw:JA3HBF:e53d89137fb6ae5f,JA3HBF,JA3HBF,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | AS-007",,,"21,582",21582,74,,,,33,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JA3HBF"",""callsign"":""JA3HBF""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""AS-007"",""source_marker"":null}"
+iota:2003:cw:JA7IC:ad5b3f979ce5a3b8,JA7IC,JA7IC,AS-007,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"127,500",127500,301,,,,68,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JA7IC"",""callsign"":""JA7IC""}]",,14,,,,,,,"{""iota_reference"":""AS-007"",""island_name"":""Honshu"",""section"":null,""source_marker"":null}"
+iota:2003:cw:JF7GDF:a3cef3b0dee158a7,JF7GDF,JF7GDF,AS-007,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"1,392",1392,22,,,,8,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JF7GDF"",""callsign"":""JF7GDF""}]",,45,,,,,,,"{""iota_reference"":""AS-007"",""island_name"":""Honshu"",""section"":null,""source_marker"":null}"
+iota:2003:cw:JI1RXQ:a3cef3b0dee158a7,JI1RXQ,JI1RXQ,AS-007,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"40,704",40704,276,,,,32,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JI1RXQ"",""callsign"":""JI1RXQ""}]",,29,,,,,,,"{""iota_reference"":""AS-007"",""island_name"":""Honshu"",""section"":null,""source_marker"":null}"
+iota:2003:cw:JJ1BDX/3:e53d89137fb6ae5f,JJ1BDX/3,JJ1BDX/3,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | AS-007",,,276,276,7,,,,4,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JJ1BDX/3"",""callsign"":""JJ1BDX/3""}]",,2,,,,,,,"{""iota_reference"":null,""section"":""AS-007"",""source_marker"":null}"
+iota:2003:cw:JK1LUY:ad5b3f979ce5a3b8,JK1LUY,JK1LUY,AS-007,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,180,180,4,,,,3,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JK1LUY"",""callsign"":""JK1LUY""}]",,20,,,,,,,"{""iota_reference"":""AS-007"",""island_name"":""Honshu"",""section"":null,""source_marker"":null}"
+iota:2003:cw:JR1NKN:a3cef3b0dee158a7,JR1NKN,JR1NKN,AS-007,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"17,019",17019,47,,,,31,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JR1NKN"",""callsign"":""JR1NKN""}]",,38,,,,,,,"{""iota_reference"":""AS-007"",""island_name"":""Honshu"",""section"":null,""source_marker"":null}"
+iota:2003:cw:JR3NDM:a3cef3b0dee158a7,JR3NDM,JR3NDM,AS-007,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"4,488",4488,24,,,,17,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JR3NDM"",""callsign"":""JR3NDM""}]",,43,,,,,,,"{""iota_reference"":""AS-007"",""island_name"":""Honshu"",""section"":null,""source_marker"":null}"
+iota:2003:cw:JR7HOD/1:a3cef3b0dee158a7,JR7HOD/1,JR7HOD/1,AS-007,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,594,594,13,,,,6,,,false,eligible,official_legacy_result_table,true,"[{""source"":""JR7HOD/1"",""callsign"":""JR7HOD/1""}]",,47,,,,,,,"{""iota_reference"":""AS-007"",""island_name"":""Honshu"",""section"":null,""source_marker"":null}"
+iota:2003:cw:K5NZ:81129a6df74c9bfb,K5NZ,K5NZ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"60,711",60711,165,,,,49,,,false,eligible,official_legacy_result_table,true,"[{""source"":""K5NZ"",""callsign"":""K5NZ""}]",,26,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:K5ZD:81129a6df74c9bfb,K5ZD,K5ZD,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"246,078",246078,338,,,,93,,,false,eligible,official_legacy_result_table,true,"[{""source"":""K5ZD"",""callsign"":""K5ZD""}]",,13,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:K9QVB/9:2680debaadd58377,K9QVB/9,K9QVB/9,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"37,044",37044,102,,,,42,,,false,eligible,official_legacy_result_table,true,"[{""source"":""K9QVB/9"",""callsign"":""K9QVB/9""}]",,74,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:KH6SH/K7:81129a6df74c9bfb,KH6SH/K7,KH6SH/K7,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"75,735",75735,131,,,,55,,,false,eligible,official_legacy_result_table,true,"[{""source"":""KH6SH/K7"",""callsign"":""KH6SH/K7""}]",,24,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:KP4AH:2e8453f014af8a24,KP4AH,KP4AH,NA-099,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"37,212",37212,243,,,,28,,,false,eligible,official_legacy_result_table,true,"[{""source"":""KP4AH"",""callsign"":""KP4AH""}]",,31,,,,,,,"{""iota_reference"":""NA-099"",""island_name"":""Puerto Rico"",""section"":null,""source_marker"":null}"
+iota:2003:cw:KU8E:03b80a40607dc9e5,KU8E,KU8E,NA-058,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"47,952",47952,240,,,,37,,,false,eligible,official_legacy_result_table,true,"[{""source"":""KU8E"",""callsign"":""KU8E""}]",,28,,,,,,,"{""iota_reference"":""NA-058"",""island_name"":""St.Simon's Islands"",""section"":null,""source_marker"":null}"
+iota:2003:cw:LA1YE:2680debaadd58377,LA1YE,LA1YE,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"162,900",162900,240,,,,75,,,false,eligible,official_legacy_result_table,true,"[{""source"":""LA1YE"",""callsign"":""LA1YE""}]",,21,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:LA7SI:2680debaadd58377,LA7SI,LA7SI,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"29,898",29898,118,,,,33,,,false,eligible,official_legacy_result_table,true,"[{""source"":""LA7SI"",""callsign"":""LA7SI""}]",,81,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:LU7EE:c2da4492c0e67eca,LU7EE,LU7EE,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"299,574",299574,395,,,,102,,,false,eligible,official_legacy_result_table,true,"[{""source"":""LU7EE"",""callsign"":""LU7EE""}]",,15,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:LY2BBF:2680debaadd58377,LY2BBF,LY2BBF,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"4,158",4158,70,,,,11,,,false,eligible,official_legacy_result_table,true,"[{""source"":""LY2BBF"",""callsign"":""LY2BBF""}]",,115,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:LZ1QH:2680debaadd58377,LZ1QH,LZ1QH,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"39,330",39330,81,,,,46,,,false,eligible,official_legacy_result_table,true,"[{""source"":""LZ1QH"",""callsign"":""LZ1QH""}]",,71,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:LZ4GL:2680debaadd58377,LZ4GL,LZ4GL,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"129,690",129690,243,,,,66,,,false,eligible,official_legacy_result_table,true,"[{""source"":""LZ4GL"",""callsign"":""LZ4GL""}]",,32,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:LZ6C:81129a6df74c9bfb,LZ6C,LZ6C,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"158,355",158355,305,,,,69,,,false,eligible,official_legacy_result_table,true,"[{""source"":""LZ6C"",""callsign"":""LZ6C""}]",,16,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:LZ7X:81129a6df74c9bfb,LZ7X,LZ7X,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"514,791",514791,397,,,,141,,,false,eligible,official_legacy_result_table,true,"[{""source"":""LZ7X"",""callsign"":""LZ7X""}]",,5,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:M7M:597a401b9df205cd,M7M,M7M,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"724,122",724122,902,,,,147,,,false,eligible,official_legacy_result_table,true,"[{""source"":""M7M"",""callsign"":""M7M""}]",,3,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:MM/PA0INA/P:4996698d42f2d3bc,MM/PA0INA/P,MM/PA0INA/P,EU-005,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"12,096",12096,72,,,,21,,,false,eligible,official_legacy_result_table,true,"[{""source"":""MM/PA0INA/P"",""callsign"":""MM/PA0INA/P""}]",,40,,,,,,,"{""iota_reference"":""EU-005"",""island_name"":""UK Mainland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:MU0FAL:b33bcea3ed6dbcc6,MU0FAL,MU0FAL,EU-114,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"68,850",68850,290,,,,45,,,false,eligible,official_legacy_result_table,true,"[{""source"":""MU0FAL"",""callsign"":""MU0FAL""}]",,24,,,,,,,"{""iota_reference"":""EU-114"",""island_name"":""Guernsey"",""section"":null,""source_marker"":null}"
+iota:2003:cw:N5IJE:c2da4492c0e67eca,N5IJE,N5IJE,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"8,418",8418,30,,,,23,,,false,eligible,official_legacy_result_table,true,"[{""source"":""N5IJE"",""callsign"":""N5IJE""}]",,48,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:N9RV:81129a6df74c9bfb,N9RV,N9RV,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"430,254",430254,593,,,,106,,,false,eligible,official_legacy_result_table,true,"[{""source"":""N9RV"",""callsign"":""N9RV""}]",,7,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:NO6X:81129a6df74c9bfb,NO6X,NO6X,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"8,118",8118,31,,,,22,,,false,eligible,official_legacy_result_table,true,"[{""source"":""NO6X"",""callsign"":""NO6X""}]",,36,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OA4O:81129a6df74c9bfb,OA4O,OA4O,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"11,760",11760,224,,,,14,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OA4O"",""callsign"":""OA4O""}]",,33,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OE3ZK:6bef70b53278de4b,OE3ZK,OE3ZK,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"320,355",320355,309,,,,113,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OE3ZK"",""callsign"":""OE3ZK""}]",,11,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OH0N:59ef57d14773825d,OH0N,OH0N,EU-002,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"408,564",408564,525,,,,108,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OH0N"",""callsign"":""OH0N""}]",,6,,,,,,,"{""iota_reference"":""EU-002"",""island_name"":""Aland Islands"",""section"":null,""source_marker"":null}"
+iota:2003:cw:OH2CI:6bef70b53278de4b,OH2CI,OH2CI,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"674,700",674700,726,,,,130,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OH2CI"",""callsign"":""OH2CI""}]",,7,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OH2LU:81129a6df74c9bfb,OH2LU,OH2LU,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"29,106",29106,245,,,,22,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OH2LU"",""callsign"":""OH2LU""}]",,29,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OH3TZ:2680debaadd58377,OH3TZ,OH3TZ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"11,151",11151,53,,,,21,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OH3TZ"",""callsign"":""OH3TZ""}]",,100,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OH6NPV:ef8275e4cbd6ed94,OH6NPV,OH6NPV,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hourQRP) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"1,392",1392,22,,,,8,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OH6NPV"",""callsign"":""OH6NPV""}]",,4,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK1AOU:2680debaadd58377,OK1AOU,OK1AOU,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"33,660",33660,106,,,,34,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK1AOU"",""callsign"":""OK1AOU""}]",,77,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK1CZ:2680debaadd58377,OK1CZ,OK1CZ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"548,970",548970,434,,,,145,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK1CZ"",""callsign"":""OK1CZ""}]",,1,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK1DSU:81129a6df74c9bfb,OK1DSU,OK1DSU,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"12,600",12600,30,,,,28,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK1DSU"",""callsign"":""OK1DSU""}]",,32,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK1DXD:c2da4492c0e67eca,OK1DXD,OK1DXD,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"271,215",271215,273,,,,105,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK1DXD"",""callsign"":""OK1DXD""}]",,16,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK1FCA:c2da4492c0e67eca,OK1FCA,OK1FCA,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"210,105",210105,233,,,,87,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK1FCA"",""callsign"":""OK1FCA""}]",,21,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK1FMG:c2da4492c0e67eca,OK1FMG,OK1FMG,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"7,860",7860,43,,,,20,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK1FMG"",""callsign"":""OK1FMG""}]",,49,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK1HX:c2da4492c0e67eca,OK1HX,OK1HX,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"780,273",780273,559,,,,169,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK1HX"",""callsign"":""OK1HX""}]",,5,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK1KI:2680debaadd58377,OK1KI,OK1KI,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"142,800",142800,171,,,,80,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK1KI"",""callsign"":""OK1KI""}]",,26,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK1MKI:c2da4492c0e67eca,OK1MKI,OK1MKI,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"240,786",240786,287,,,,98,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK1MKI"",""callsign"":""OK1MKI""}]",,17,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK1MPM:2680debaadd58377,OK1MPM,OK1MPM,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"135,450",135450,237,,,,70,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK1MPM"",""callsign"":""OK1MPM""}]",,30,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK1XC:c2da4492c0e67eca,OK1XC,OK1XC,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"5,049",5049,27,,,,17,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK1XC"",""callsign"":""OK1XC""}]",,51,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK2BJ:c2da4492c0e67eca,OK2BJ,OK2BJ,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"37,812",37812,70,,,,46,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK2BJ"",""callsign"":""OK2BJ""}]",,41,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK2BNC:2680debaadd58377,OK2BNC,OK2BNC,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"145,440",145440,198,,,,80,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK2BNC"",""callsign"":""OK2BNC""}]",,25,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK2BYW:c2da4492c0e67eca,OK2BYW,OK2BYW,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"1,046,262",1046262,518,,,,203,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK2BYW"",""callsign"":""OK2BYW""}]",,2,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK2DU:2680debaadd58377,OK2DU,OK2DU,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"261,765",261765,267,,,,105,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK2DU"",""callsign"":""OK2DU""}]",,10,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK2PBG:c2da4492c0e67eca,OK2PBG,OK2PBG,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"20,160",20160,72,,,,30,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK2PBG"",""callsign"":""OK2PBG""}]",,46,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK2PKY:2680debaadd58377,OK2PKY,OK2PKY,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"7,452",7452,50,,,,18,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK2PKY"",""callsign"":""OK2PKY""}]",,108,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK2QX:2680debaadd58377,OK2QX,OK2QX,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"389,718",389718,323,,,,126,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK2QX"",""callsign"":""OK2QX""}]",,6,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK2TBC:c2da4492c0e67eca,OK2TBC,OK2TBC,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"233,739",233739,247,,,,99,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK2TBC"",""callsign"":""OK2TBC""}]",,19,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OK2WTM:c2da4492c0e67eca,OK2WTM,OK2WTM,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"1,409,226",1409226,846,,,,203,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OK2WTM"",""callsign"":""OK2WTM""}]",,1,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OM1GM:81129a6df74c9bfb,OM1GM,OM1GM,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"209,790",209790,301,,,,90,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OM1GM"",""callsign"":""OM1GM""}]",,14,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OM2TB:2680debaadd58377,OM2TB,OM2TB,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"23,490",23490,110,,,,27,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OM2TB"",""callsign"":""OM2TB""}]",,86,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OM3BA:2680debaadd58377,OM3BA,OM3BA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"21,840",21840,84,,,,28,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OM3BA"",""callsign"":""OM3BA""}]",,88,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OM3CDN:2680debaadd58377,OM3CDN,OM3CDN,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"83,868",83868,186,,,,58,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OM3CDN"",""callsign"":""OM3CDN""}]",,42,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OM3PQ:2680debaadd58377,OM3PQ,OM3PQ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"51,042",51042,110,,,,47,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OM3PQ"",""callsign"":""OM3PQ""}]",,64,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OM4DA:2680debaadd58377,OM4DA,OM4DA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"8,262",8262,73,,,,18,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OM4DA"",""callsign"":""OM4DA""}]",,107,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OM4DN:2680debaadd58377,OM4DN,OM4DN,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"233,625",233625,315,,,,89,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OM4DN"",""callsign"":""OM4DN""}]",,14,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OM7AG:c2da4492c0e67eca,OM7AG,OM7AG,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"159,264",159264,212,,,,84,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OM7AG"",""callsign"":""OM7AG""}]",,29,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OM7AT:2680debaadd58377,OM7AT,OM7AT,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"82,128",82128,164,,,,58,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OM7AT"",""callsign"":""OM7AT""}]",,44,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OM8HG:2680debaadd58377,OM8HG,OM8HG,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"1,863",1863,33,,,,9,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OM8HG"",""callsign"":""OM8HG""}]",,129,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:ON4KVA:2680debaadd58377,ON4KVA,ON4KVA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"9,372",9372,50,,,,22,,,false,eligible,official_legacy_result_table,true,"[{""source"":""ON4KVA"",""callsign"":""ON4KVA""}]",,105,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:OY1CT:c3f6ab166ff1debb,OY1CT,OY1CT,EU-018,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"571,596",571596,1067,,,,92,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OY1CT"",""callsign"":""OY1CT""}]",,5,,,,,,,"{""iota_reference"":""EU-018"",""island_name"":""Faroe Islands"",""section"":null,""source_marker"":null}"
+iota:2003:cw:OZ/DL8HG:76476c616a445174,OZ/DL8HG,OZ/DL8HG,EU-029,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour QRP) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,153,153,5,,,,3,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OZ/DL8HG"",""callsign"":""OZ/DL8HG""}]",,3,,,,,,,"{""iota_reference"":""EU-029"",""island_name"":""Sjaelland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:OZ1BMA:7f0078c54b325311,OZ1BMA,OZ1BMA,EU-029,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"29,280",29280,125,,,,32,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OZ1BMA"",""callsign"":""OZ1BMA""}]",,33,,,,,,,"{""iota_reference"":""EU-029"",""island_name"":""Sjaelland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:OZ4FF:af11ee35328668ef,OZ4FF,OZ4FF,EU-030,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"108,864",108864,320,,,,54,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OZ4FF"",""callsign"":""OZ4FF""}]",,19,,,,,,,"{""iota_reference"":""EU-030"",""island_name"":""Bornholm Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:OZ4O:4cef6638b0f43a33,OZ4O,OZ4O,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-029",,,"508,125",508125,619,,,,125,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OZ4O"",""callsign"":""OZ4O""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-029"",""source_marker"":null}"
+iota:2003:cw:OZ8AE:7f0078c54b325311,OZ8AE,OZ8AE,EU-029,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"340,326",340326,402,,,,111,,,false,eligible,official_legacy_result_table,true,"[{""source"":""OZ8AE"",""callsign"":""OZ8AE""}]",,7,,,,,,,"{""iota_reference"":""EU-029"",""island_name"":""Sjaelland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:P43JB:8cd3d72c1f909ecb,P43JB,P43JB,SA-036,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"60,102",60102,114,,,,53,,,false,eligible,official_legacy_result_table,true,"[{""source"":""P43JB"",""callsign"":""P43JB""}]",,18,,,,,,,"{""iota_reference"":""SA-036"",""island_name"":""Aruba"",""section"":null,""source_marker"":null}"
+iota:2003:cw:PA/DJ1YFK/P:a3ce824dc911b5cc,PA/DJ1YFK/P,PA/DJ1YFK/P,EU-038,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"237,600",237600,504,,,,72,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PA/DJ1YFK/P"",""callsign"":""PA/DJ1YFK/P""}]",,11,,,,,,,"{""iota_reference"":""EU-038"",""island_name"":""Texel Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:PA0JED:2680debaadd58377,PA0JED,PA0JED,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"77,190",77190,119,,,,62,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PA0JED"",""callsign"":""PA0JED""}]",,46,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:PA0RRS:2680debaadd58377,PA0RRS,PA0RRS,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"115,872",115872,180,,,,71,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PA0RRS"",""callsign"":""PA0RRS""}]",,37,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:PA3AFF:2680debaadd58377,PA3AFF,PA3AFF,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"29,367",29367,71,,,,39,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PA3AFF"",""callsign"":""PA3AFF""}]",,82,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:PA3BFH:c2da4492c0e67eca,PA3BFH,PA3BFH,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"186,354",186354,242,,,,87,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PA3BFH"",""callsign"":""PA3BFH""}]",,25,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:PA3CLQ:2680debaadd58377,PA3CLQ,PA3CLQ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,396,396,17,,,,4,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PA3CLQ"",""callsign"":""PA3CLQ""}]",,136,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:PA5GU:c2da4492c0e67eca,PA5GU,PA5GU,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"19,305",19305,47,,,,33,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PA5GU"",""callsign"":""PA5GU""}]",,47,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:PA5KT:81129a6df74c9bfb,PA5KT,PA5KT,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"9,576",9576,56,,,,21,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PA5KT"",""callsign"":""PA5KT""}]",,35,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:PA5TT:9892caacf81ae2e0,PA5TT,PA5TT,EU-146,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"187,680",187680,480,,,,68,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PA5TT"",""callsign"":""PA5TT""}]",,11,,,,,,,"{""iota_reference"":""EU-146"",""island_name"":""Schouwen Duiveland"",""section"":null,""source_marker"":null}"
+iota:2003:cw:PA9CW:2680debaadd58377,PA9CW,PA9CW,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"14,325",14325,75,,,,25,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PA9CW"",""callsign"":""PA9CW""}]",,96,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:PY3AU:2680debaadd58377,PY3AU,PY3AU,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"3,300",3300,40,,,,11,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PY3AU"",""callsign"":""PY3AU""}]",,121,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:PY7IQ:2680debaadd58377,PY7IQ,PY7IQ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"4,320",4320,26,,,,16,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PY7IQ"",""callsign"":""PY7IQ""}]",,112,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:PY7OJ:2680debaadd58377,PY7OJ,PY7OJ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"16,443",16443,53,,,,29,,,false,eligible,official_legacy_result_table,true,"[{""source"":""PY7OJ"",""callsign"":""PY7OJ""}]",,93,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RA0FU:20333c744ee7ec3b,RA0FU,RA0FU,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | AS-018",,,"284,826",284826,375,,,,74,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RA0FU"",""callsign"":""RA0FU""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""AS-018"",""source_marker"":null}"
+iota:2003:cw:RA1ACJ:6bef70b53278de4b,RA1ACJ,RA1ACJ,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"1,970,298",1970298,1337,,,,214,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RA1ACJ"",""callsign"":""RA1ACJ""}]",,1,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RA1QKB:2680debaadd58377,RA1QKB,RA1QKB,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"1,944",1944,41,,,,8,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RA1QKB"",""callsign"":""RA1QKB""}]",,128,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RA3FD:81129a6df74c9bfb,RA3FD,RA3FD,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"46,680",46680,129,,,,40,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RA3FD"",""callsign"":""RA3FD""}]",,28,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RA3UAG:2680debaadd58377,RA3UAG,RA3UAG,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"9,600",9600,28,,,,25,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RA3UAG"",""callsign"":""RA3UAG""}]",,104,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RA3UT:6bef70b53278de4b,RA3UT,RA3UT,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"643,500",643500,694,,,,130,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RA3UT"",""callsign"":""RA3UT""}]",,8,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RA4HW:080a30ecd517658c,RA4HW,RA4HW,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour QRP) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"294,975",294975,391,,,,95,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RA4HW"",""callsign"":""RA4HW""}]",,1,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RA6FV:c2da4492c0e67eca,RA6FV,RA6FV,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"308,772",308772,329,,,,108,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RA6FV"",""callsign"":""RA6FV""}]",,13,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RA6MS:2680debaadd58377,RA6MS,RA6MS,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"2,904",2904,32,,,,11,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RA6MS"",""callsign"":""RA6MS""}]",,126,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RD3AT:2680debaadd58377,RD3AT,RD3AT,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"46,056",46056,136,,,,38,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RD3AT"",""callsign"":""RD3AT""}]",,66,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RK1NA:2680debaadd58377,RK1NA,RK1NA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"15,789",15789,125,,,,19,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RK1NA"",""callsign"":""RK1NA""}]",,94,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RK3TJ:81129a6df74c9bfb,RK3TJ,RK3TJ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"28,215",28215,85,,,,33,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RK3TJ"",""callsign"":""RK3TJ""}]",,30,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RK4HD:2680debaadd58377,RK4HD,RK4HD,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"188,232",188232,205,,,,88,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RK4HD"",""callsign"":""RK4HD""}]",,18,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RN4SS:2680debaadd58377,RN4SS,RN4SS,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"160,440",160440,336,,,,70,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RN4SS"",""callsign"":""RN4SS""}]",,23,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RN9AA:2680debaadd58377,RN9AA,RN9AA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"68,208",68208,172,,,,49,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RN9AA"",""callsign"":""RN9AA""}]",,52,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RU2FM:2680debaadd58377,RU2FM,RU2FM,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"71,850",71850,199,,,,50,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RU2FM"",""callsign"":""RU2FM""}]",,51,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RU3GN:c2da4492c0e67eca,RU3GN,RU3GN,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"789,867",789867,549,,,,157,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RU3GN"",""callsign"":""RU3GN""}]",,4,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RV3DAK:c2da4492c0e67eca,RV3DAK,RV3DAK,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"126,840",126840,216,,,,70,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RV3DAK"",""callsign"":""RV3DAK""}]",,35,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RV3FD:6bef70b53278de4b,RV3FD,RV3FD,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"95,934",95934,154,,,,59,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RV3FD"",""callsign"":""RV3FD""}]",,14,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RV9CLF:2680debaadd58377,RV9CLF,RV9CLF,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"5,904",5904,35,,,,16,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RV9CLF"",""callsign"":""RV9CLF""}]",,110,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RW0LIA:c2da4492c0e67eca,RW0LIA,RW0LIA,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"104,877",104877,181,,,,43,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RW0LIA"",""callsign"":""RW0LIA""}]",,40,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RW3DOX:2680debaadd58377,RW3DOX,RW3DOX,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"42,420",42420,168,,,,35,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RW3DOX"",""callsign"":""RW3DOX""}]",,69,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RW3TN/1:7a735b1d69969925,RW3TN/1,RW3TN/1,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-066",,,"577,260",577260,1266,,,,90,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RW3TN/1"",""callsign"":""RW3TN/1""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-066"",""source_marker"":null}"
+iota:2003:cw:RW6CW:2680debaadd58377,RW6CW,RW6CW,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"75,516",75516,98,,,,58,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RW6CW"",""callsign"":""RW6CW""}]",,47,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RX3AGQ:2680debaadd58377,RX3AGQ,RX3AGQ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"4,059",4059,51,,,,11,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RX3AGQ"",""callsign"":""RX3AGQ""}]",,117,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RX3AP:81129a6df74c9bfb,RX3AP,RX3AP,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"77,220",77220,204,,,,45,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RX3AP"",""callsign"":""RX3AP""}]",,23,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:RZ3AZ:6bef70b53278de4b,RZ3AZ,RZ3AZ,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"919,044",919044,956,,,,147,,,false,eligible,official_legacy_result_table,true,"[{""source"":""RZ3AZ"",""callsign"":""RZ3AZ""}]",,5,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SM1T:84fcee0f485df250,SM1T,SM1T,EU-020,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"304,425",304425,729,,,,75,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SM1T"",""callsign"":""SM1T""}]",,7,,,,,,,"{""iota_reference"":""EU-020"",""island_name"":""Gotland Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:SM3AVW:2680debaadd58377,SM3AVW,SM3AVW,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"83,565",83565,251,,,,45,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SM3AVW"",""callsign"":""SM3AVW""}]",,43,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SM4DDS:2680debaadd58377,SM4DDS,SM4DDS,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"8,901",8901,29,,,,23,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SM4DDS"",""callsign"":""SM4DDS""}]",,106,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SM5BAX:c26c84e7c62975ac,SM5BAX,SM5BAX,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-084",,,"68,670",68670,467,,,,30,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SM5BAX"",""callsign"":""SM5BAX""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-084"",""source_marker"":null}"
+iota:2003:cw:SM6E:81129a6df74c9bfb,SM6E,SM6E,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"3,321",3321,75,,,,9,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SM6E"",""callsign"":""SM6E""}]",,37,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SM7EH:2680debaadd58377,SM7EH,SM7EH,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"139,518",139518,262,,,,69,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SM7EH"",""callsign"":""SM7EH""}]",,27,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SN2E:2680debaadd58377,SN2E,SN2E,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"451,548",451548,540,,,,113,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SN2E"",""callsign"":""SN2E""}]",,4,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SN5J:2680debaadd58377,SN5J,SN5J,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"73,950",73950,101,,,,58,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SN5J"",""callsign"":""SN5J""}]",,48,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SO1VAF:8955cc37ed237a9c,SO1VAF,SO1VAF,EU-132,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"50,307",50307,197,,,,41,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SO1VAF"",""callsign"":""SO1VAF""}]",,27,,,,,,,"{""iota_reference"":""EU-132"",""island_name"":""Wolin Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:SP1RXE:8176826369460483,SP1RXE,SP1RXE,EU-129,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"7,956",7956,80,,,,17,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP1RXE"",""callsign"":""SP1RXE""}]",,41,,,,,,,"{""iota_reference"":""EU-129"",""island_name"":""Uznam Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:SP2HMT:2680debaadd58377,SP2HMT,SP2HMT,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"123,948",123948,210,,,,66,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP2HMT"",""callsign"":""SP2HMT""}]",,34,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP2IHG:2680debaadd58377,SP2IHG,SP2IHG,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"3,312",3312,32,,,,12,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP2IHG"",""callsign"":""SP2IHG""}]",,120,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP2MKI/2:2680debaadd58377,SP2MKI/2,SP2MKI/2,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"50,220",50220,120,,,,45,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP2MKI/2"",""callsign"":""SP2MKI/2""}]",,65,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP2QG:81129a6df74c9bfb,SP2QG,SP2QG,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"268,677",268677,403,,,,93,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP2QG"",""callsign"":""SP2QG""}]",,12,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP2UKB:2680debaadd58377,SP2UKB,SP2UKB,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"23,268",23268,101,,,,28,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP2UKB"",""callsign"":""SP2UKB""}]",,87,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP3BJK/1:ec7ad644c89a75c4,SP3BJK/1,SP3BJK/1,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-132",,,"193,563",193563,459,,,,67,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP3BJK/1"",""callsign"":""SP3BJK/1""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-132"",""source_marker"":null}"
+iota:2003:cw:SP3LWP:2680debaadd58377,SP3LWP,SP3LWP,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"125,649",125649,195,,,,69,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP3LWP"",""callsign"":""SP3LWP""}]",,33,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP3XR:2680debaadd58377,SP3XR,SP3XR,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"15,708",15708,55,,,,28,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP3XR"",""callsign"":""SP3XR""}]",,95,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP4GFG:2680debaadd58377,SP4GFG,SP4GFG,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"136,080",136080,208,,,,70,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP4GFG"",""callsign"":""SP4GFG""}]",,29,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP4JWR/1:8955cc37ed237a9c,SP4JWR/1,SP4JWR/1,EU-132,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"558,552",558552,541,,,,136,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP4JWR/1"",""callsign"":""SP4JWR/1""}]",,1,,,,,,,"{""iota_reference"":""EU-132"",""island_name"":""Wolin Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:SP5CJQ:81129a6df74c9bfb,SP5CJQ,SP5CJQ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"469,953",469953,303,,,,141,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP5CJQ"",""callsign"":""SP5CJQ""}]",,6,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP6LV:c2da4492c0e67eca,SP6LV,SP6LV,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"390,771",390771,331,,,,123,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP6LV"",""callsign"":""SP6LV""}]",,10,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP6XP:c2da4492c0e67eca,SP6XP,SP6XP,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"5,610",5610,38,,,,17,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP6XP"",""callsign"":""SP6XP""}]",,50,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP7EXJ:2680debaadd58377,SP7EXJ,SP7EXJ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"59,508",59508,72,,,,57,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP7EXJ"",""callsign"":""SP7EXJ""}]",,60,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP8BAB:c2da4492c0e67eca,SP8BAB,SP8BAB,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"205,485",205485,145,,,,95,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP8BAB"",""callsign"":""SP8BAB""}]",,23,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP8RX/1:c56464e0694c6a85,SP8RX/1,SP8RX/1,EU-129,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"621,492",621492,646,,,,134,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP8RX/1"",""callsign"":""SP8RX/1""}]",,4,,,,,,,"{""iota_reference"":""EU-129"",""island_name"":""Uznam Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:SP9EMI:2680debaadd58377,SP9EMI,SP9EMI,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"53,580",53580,116,,,,47,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP9EMI"",""callsign"":""SP9EMI""}]",,62,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP9FT:c2da4492c0e67eca,SP9FT,SP9FT,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"105,480",105480,186,,,,60,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP9FT"",""callsign"":""SP9FT""}]",,39,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP9MDY:2680debaadd58377,SP9MDY,SP9MDY,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"13,752",13752,71,,,,24,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP9MDY"",""callsign"":""SP9MDY""}]",,98,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SP9W:81129a6df74c9bfb,SP9W,SP9W,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"362,148",362148,472,,,,103,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SP9W"",""callsign"":""SP9W""}]",,8,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:SQ4GXE/1:8955cc37ed237a9c,SQ4GXE/1,SQ4GXE/1,EU-132,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"434,826",434826,701,,,,102,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SQ4GXE/1"",""callsign"":""SQ4GXE/1""}]",,3,,,,,,,"{""iota_reference"":""EU-132"",""island_name"":""Wolin Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:SV8/OL8R/P:9d9a05d0fca75e6c,SV8/OL8R/P,SV8/OL8R/P,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-174",,,"730,935",730935,1307,,,,111,,,false,eligible,official_legacy_result_table,true,"[{""source"":""SV8/OL8R/P"",""callsign"":""SV8/OL8R/P""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-174"",""source_marker"":null}"
+iota:2003:cw:T95A:2680debaadd58377,T95A,T95A,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"292,824",292824,568,,,,83,,,false,eligible,official_legacy_result_table,true,"[{""source"":""T95A"",""callsign"":""T95A""}]",,8,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:TA3BN:2680debaadd58377,TA3BN,TA3BN,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,0,0,55,,,,,,,false,eligible,official_legacy_result_table,true,"[{""source"":""TA3BN"",""callsign"":""TA3BN""}]",,140,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:TA3DD:2680debaadd58377,TA3DD,TA3DD,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"239,844",239844,401,,,,92,,,false,eligible,official_legacy_result_table,true,"[{""source"":""TA3DD"",""callsign"":""TA3DD""}]",,12,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:TK/OK2WH:8ff93e8dc3897f41,TK/OK2WH,TK/OK2WH,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | EU-014",,,"386,958",386958,929,,,,82,,,false,eligible,official_legacy_result_table,true,"[{""source"":""TK/OK2WH"",""callsign"":""TK/OK2WH""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""EU-014"",""source_marker"":null}"
+iota:2003:cw:UA1NFA:c2da4492c0e67eca,UA1NFA,UA1NFA,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"143,910",143910,278,,,,65,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UA1NFA"",""callsign"":""UA1NFA""}]",,33,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UA1ZZ:c2da4492c0e67eca,UA1ZZ,UA1ZZ,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"139,695",139695,263,,,,67,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UA1ZZ"",""callsign"":""UA1ZZ""}]",,34,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UA3AGW:81129a6df74c9bfb,UA3AGW,UA3AGW,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"549,606",549606,462,,,,139,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UA3AGW"",""callsign"":""UA3AGW""}]",,4,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UA3QU:2680debaadd58377,UA3QU,UA3QU,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"139,092",139092,272,,,,67,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UA3QU"",""callsign"":""UA3QU""}]",,28,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UA3TU:81129a6df74c9bfb,UA3TU,UA3TU,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"578,952",578952,483,,,,136,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UA3TU"",""callsign"":""UA3TU""}]",,3,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UA4QK:2680debaadd58377,UA4QK,UA4QK,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"130,410",130410,214,,,,69,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UA4QK"",""callsign"":""UA4QK""}]",,31,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UA4WLI:ef8275e4cbd6ed94,UA4WLI,UA4WLI,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hourQRP) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"2,106",2106,42,,,,9,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UA4WLI"",""callsign"":""UA4WLI""}]",,3,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UA6HON:2680debaadd58377,UA6HON,UA6HON,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"11,088",11088,46,,,,24,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UA6HON"",""callsign"":""UA6HON""}]",,101,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UA9AFS:c2da4492c0e67eca,UA9AFS,UA9AFS,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"220,008",220008,272,,,,89,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UA9AFS"",""callsign"":""UA9AFS""}]",,20,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UA9FGJ:2680debaadd58377,UA9FGJ,UA9FGJ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,324,324,11,,,,4,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UA9FGJ"",""callsign"":""UA9FGJ""}]",,138,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UA9MC:81129a6df74c9bfb,UA9MC,UA9MC,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"159,471",159471,175,,,,87,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UA9MC"",""callsign"":""UA9MC""}]",,15,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UK/JI2MED:2680debaadd58377,UK/JI2MED,UK/JI2MED,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,162,162,6,,,,3,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UK/JI2MED"",""callsign"":""UK/JI2MED""}]",,139,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UN7CZ:2680debaadd58377,UN7CZ,UN7CZ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"32,550",32550,86,,,,35,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UN7CZ"",""callsign"":""UN7CZ""}]",,79,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UN7EX:2680debaadd58377,UN7EX,UN7EX,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"58,308",58308,148,,,,43,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UN7EX"",""callsign"":""UN7EX""}]",,61,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UR3LM:2680debaadd58377,UR3LM,UR3LM,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"236,562",236562,330,,,,89,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UR3LM"",""callsign"":""UR3LM""}]",,13,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UR5IAW:2680debaadd58377,UR5IAW,UR5IAW,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"4,176",4176,19,,,,16,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UR5IAW"",""callsign"":""UR5IAW""}]",,114,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UT2PX:2680debaadd58377,UT2PX,UT2PX,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"481,728",481728,656,,,,104,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UT2PX"",""callsign"":""UT2PX""}]",,3,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UT3EK:81129a6df74c9bfb,UT3EK,UT3EK,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"15,813",15813,87,,,,21,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UT3EK"",""callsign"":""UT3EK""}]",,31,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UT4NY:6bef70b53278de4b,UT4NY,UT4NY,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"158,238",158238,390,,,,59,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UT4NY"",""callsign"":""UT4NY""}]",,12,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UT4XU:c2da4492c0e67eca,UT4XU,UT4XU,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"144,072",144072,235,,,,72,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UT4XU"",""callsign"":""UT4XU""}]",,32,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UT5UGQ:2680debaadd58377,UT5UGQ,UT5UGQ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"3,234",3234,38,,,,11,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UT5UGQ"",""callsign"":""UT5UGQ""}]",,123,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UT8LL:6bef70b53278de4b,UT8LL,UT8LL,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"504,000",504000,460,,,,140,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UT8LL"",""callsign"":""UT8LL""}]",,9,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UU9JH:81129a6df74c9bfb,UU9JH,UU9JH,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"106,860",106860,204,,,,65,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UU9JH"",""callsign"":""UU9JH""}]",,19,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UX1IB:2680debaadd58377,UX1IB,UX1IB,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"1,404",1404,16,,,,9,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UX1IB"",""callsign"":""UX1IB""}]",,134,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UX5EF:c2da4492c0e67eca,UX5EF,UX5EF,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"162,162",162162,234,,,,77,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UX5EF"",""callsign"":""UX5EF""}]",,28,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UX7QD:2680debaadd58377,UX7QD,UX7QD,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"102,396",102396,374,,,,46,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UX7QD"",""callsign"":""UX7QD""}]",,38,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UY0ZG:6bef70b53278de4b,UY0ZG,UY0ZG,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour High Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"1,004,565",1004565,531,,,,193,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UY0ZG"",""callsign"":""UY0ZG""}]",,4,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UY2RZ:ef8275e4cbd6ed94,UY2RZ,UY2RZ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hourQRP) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"1,125",1125,55,,,,5,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UY2RZ"",""callsign"":""UY2RZ""}]",,5,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UY5LQ:c2da4492c0e67eca,UY5LQ,UY5LQ,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"209,583",209583,445,,,,73,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UY5LQ"",""callsign"":""UY5LQ""}]",,22,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UY5TE:2680debaadd58377,UY5TE,UY5TE,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"253,752",253752,340,,,,97,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UY5TE"",""callsign"":""UY5TE""}]",,11,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UY5WA:2680debaadd58377,UY5WA,UY5WA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"120,474",120474,186,,,,69,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UY5WA"",""callsign"":""UY5WA""}]",,35,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UY5YA:2680debaadd58377,UY5YA,UY5YA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"31,992",31992,124,,,,31,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UY5YA"",""callsign"":""UY5YA""}]",,80,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:UY5ZI:c2da4492c0e67eca,UY5ZI,UY5ZI,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"305,865",305865,343,,,,105,,,false,eligible,official_legacy_result_table,true,"[{""source"":""UY5ZI"",""callsign"":""UY5ZI""}]",,14,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:VA3XRZ:2680debaadd58377,VA3XRZ,VA3XRZ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"3,354",3354,30,,,,13,,,false,eligible,official_legacy_result_table,true,"[{""source"":""VA3XRZ"",""callsign"":""VA3XRZ""}]",,119,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:VE1RGB:c2da4492c0e67eca,VE1RGB,VE1RGB,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"178,470",178470,201,,,,90,,,false,eligible,official_legacy_result_table,true,"[{""source"":""VE1RGB"",""callsign"":""VE1RGB""}]",,26,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:VE1ZJ:64d4b73e071dddd4,VE1ZJ,VE1ZJ,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | NA-010",,,"401,436",401436,575,,,,108,,,false,eligible,official_legacy_result_table,true,"[{""source"":""VE1ZJ"",""callsign"":""VE1ZJ""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""NA-010"",""source_marker"":null}"
+iota:2003:cw:VE2EM/M:75e1b23ddce427d8,VE2EM/M,VE2EM/M,NA-128,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"37,926",37926,125,,,,42,,,false,eligible,official_legacy_result_table,true,"[{""source"":""VE2EM/M"",""callsign"":""VE2EM/M""}]",,30,,,,,,,"{""iota_reference"":""NA-128"",""island_name"":""Ile d'Orleans"",""section"":null,""source_marker"":null}"
+iota:2003:cw:VE3KP:2680debaadd58377,VE3KP,VE3KP,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"85,086",85086,181,,,,58,,,false,eligible,official_legacy_result_table,true,"[{""source"":""VE3KP"",""callsign"":""VE3KP""}]",,41,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:VE3NBJ:2680debaadd58377,VE3NBJ,VE3NBJ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"62,040",62040,124,,,,55,,,false,eligible,official_legacy_result_table,true,"[{""source"":""VE3NBJ"",""callsign"":""VE3NBJ""}]",,56,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:VK4TT:903c14a58eaa78ee,VK4TT,VK4TT,OC-001,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"36,618",36618,143,,,,34,,,false,eligible,official_legacy_result_table,true,"[{""source"":""VK4TT"",""callsign"":""VK4TT""}]",,32,,,,,,,"{""iota_reference"":""OC-001"",""island_name"":""Australia"",""section"":null,""source_marker"":null}"
+iota:2003:cw:VR2BG:81129a6df74c9bfb,VR2BG,VR2BG,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"54,096",54096,116,,,,46,,,false,eligible,official_legacy_result_table,true,"[{""source"":""VR2BG"",""callsign"":""VR2BG""}]",,27,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:W1AWB:2680debaadd58377,W1AWB,W1AWB,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"3,870",3870,22,,,,15,,,false,eligible,official_legacy_result_table,true,"[{""source"":""W1AWB"",""callsign"":""W1AWB""}]",,118,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:W1END:2680debaadd58377,W1END,W1END,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"3,276",3276,31,,,,12,,,false,eligible,official_legacy_result_table,true,"[{""source"":""W1END"",""callsign"":""W1END""}]",,122,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:W1TO:2680debaadd58377,W1TO,W1TO,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"3,120",3120,28,,,,13,,,false,eligible,official_legacy_result_table,true,"[{""source"":""W1TO"",""callsign"":""W1TO""}]",,124,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:W2WB:df767da8a7646e55,W2WB,W2WB,NA-111,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour High Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"191,061",191061,509,,,,71,,,false,eligible,official_legacy_result_table,true,"[{""source"":""W2WB"",""callsign"":""W2WB""}]",,10,,,,,,,"{""iota_reference"":""NA-111"",""island_name"":""Long Beach Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:W4NZ:2680debaadd58377,W4NZ,W4NZ,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"21,840",21840,60,,,,35,,,false,eligible,official_legacy_result_table,true,"[{""source"":""W4NZ"",""callsign"":""W4NZ""}]",,88,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:W4SAA/P:e8a2bac7d44e2ca5,W4SAA/P,W4SAA/P,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | NA-141",,,"378,009",378009,651,,,,97,,,false,eligible,official_legacy_result_table,true,"[{""source"":""W4SAA/P"",""callsign"":""W4SAA/P""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""NA-141"",""source_marker"":null}"
+iota:2003:cw:W5AC:2680debaadd58377,W5AC,W5AC,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"1,431",1431,17,,,,9,,,false,eligible,official_legacy_result_table,true,"[{""source"":""W5AC"",""callsign"":""W5AC""}]",,133,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:W6RKC:81129a6df74c9bfb,W6RKC,W6RKC,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"10,017",10017,35,,,,21,,,false,eligible,official_legacy_result_table,true,"[{""source"":""W6RKC"",""callsign"":""W6RKC""}]",,34,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:W9OA:2680debaadd58377,W9OA,W9OA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"13,050",13050,30,,,,29,,,false,eligible,official_legacy_result_table,true,"[{""source"":""W9OA"",""callsign"":""W9OA""}]",,99,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:WA1Z:81129a6df74c9bfb,WA1Z,WA1Z,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,375,375,5,,,,5,,,false,eligible,official_legacy_result_table,true,"[{""source"":""WA1Z"",""callsign"":""WA1Z""}]",,38,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:WA2VQV:2680debaadd58377,WA2VQV,WA2VQV,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"21,816",21816,46,,,,36,,,false,eligible,official_legacy_result_table,true,"[{""source"":""WA2VQV"",""callsign"":""WA2VQV""}]",,90,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:WB2AA:2680debaadd58377,WB2AA,WB2AA,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"162,336",162336,188,,,,89,,,false,eligible,official_legacy_result_table,true,"[{""source"":""WB2AA"",""callsign"":""WB2AA""}]",,22,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:WJ9B:2680debaadd58377,WJ9B,WJ9B,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"9,840",9840,80,,,,20,,,false,eligible,official_legacy_result_table,true,"[{""source"":""WJ9B"",""callsign"":""WJ9B""}]",,103,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:WO4O:2680debaadd58377,WO4O,WO4O,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,375,375,5,,,,5,,,false,eligible,official_legacy_result_table,true,"[{""source"":""WO4O"",""callsign"":""WO4O""}]",,137,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YB0DPO:d0db2680d0269ba2,YB0DPO,YB0DPO,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | OC-021",,,"105,765",105765,237,,,,55,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YB0DPO"",""callsign"":""YB0DPO""}]",,2,,,,,,,"{""iota_reference"":null,""section"":""OC-021"",""source_marker"":null}"
+iota:2003:cw:YB0ECT:d0db2680d0269ba2,YB0ECT,YB0ECT,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | OC-021",,,"145,008",145008,296,,,,57,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YB0ECT"",""callsign"":""YB0ECT""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""OC-021"",""source_marker"":null}"
+iota:2003:cw:YB2DGR:1de5bba1d47f1b6b,YB2DGR,YB2DGR,OC-021,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"24,090",24090,133,,,,22,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YB2DGR"",""callsign"":""YB2DGR""}]",,35,,,,,,,"{""iota_reference"":""OC-021"",""island_name"":""Java"",""section"":null,""source_marker"":null}"
+iota:2003:cw:YD3JMO:1de5bba1d47f1b6b,YD3JMO,YD3JMO,OC-021,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"3,201",3201,33,,,,11,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YD3JMO"",""callsign"":""YD3JMO""}]",,44,,,,,,,"{""iota_reference"":""OC-021"",""island_name"":""Java"",""section"":null,""source_marker"":null}"
+iota:2003:cw:YL2EC:2680debaadd58377,YL2EC,YL2EC,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"65,835",65835,115,,,,55,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YL2EC"",""callsign"":""YL2EC""}]",,53,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YL2GTD:c2da4492c0e67eca,YL2GTD,YL2GTD,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"29,568",29568,120,,,,32,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YL2GTD"",""callsign"":""YL2GTD""}]",,43,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YL2NK:2680debaadd58377,YL2NK,YL2NK,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"60,456",60456,166,,,,44,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YL2NK"",""callsign"":""YL2NK""}]",,58,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YO2CJX:ef8275e4cbd6ed94,YO2CJX,YO2CJX,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hourQRP) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"21,216",21216,73,,,,32,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YO2CJX"",""callsign"":""YO2CJX""}]",,2,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YO3BWK:2680debaadd58377,YO3BWK,YO3BWK,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"13,920",13920,36,,,,29,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YO3BWK"",""callsign"":""YO3BWK""}]",,97,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YO4CSL:2680debaadd58377,YO4CSL,YO4CSL,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"33,813",33813,117,,,,39,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YO4CSL"",""callsign"":""YO4CSL""}]",,76,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YO5CBX:c2da4492c0e67eca,YO5CBX,YO5CBX,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"413,586",413586,550,,,,111,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YO5CBX"",""callsign"":""YO5CBX""}]",,8,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YO6ADW:2680debaadd58377,YO6ADW,YO6ADW,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"39,312",39312,112,,,,42,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YO6ADW"",""callsign"":""YO6ADW""}]",,72,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YO6BHN:2680debaadd58377,YO6BHN,YO6BHN,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"392,955",392955,443,,,,115,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YO6BHN"",""callsign"":""YO6BHN""}]",,5,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YO9WF:81129a6df74c9bfb,YO9WF,YO9WF,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour High Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"128,013",128013,213,,,,71,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YO9WF"",""callsign"":""YO9WF""}]",,18,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YT1VM:c2da4492c0e67eca,YT1VM,YT1VM,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"155,472",155472,128,,,,82,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YT1VM"",""callsign"":""YT1VM""}]",,30,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YT7Z:2680debaadd58377,YT7Z,YT7Z,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"215,130",215130,450,,,,71,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YT7Z"",""callsign"":""YT7Z""}]",,16,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YU1KT:2680debaadd58377,YU1KT,YU1KT,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"152,352",152352,324,,,,69,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YU1KT"",""callsign"":""YU1KT""}]",,24,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YU1WC:c2da4492c0e67eca,YU1WC,YU1WC,,"24 
+                    hr CW | World - Single-Operator - CW 
+                          (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 24 CW",,,"545,490",545490,462,,,,145,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YU1WC"",""callsign"":""YU1WC""}]",,7,,,,,,,"{""iota_reference"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YU7LS:2680debaadd58377,YU7LS,YU7LS,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"59,670",59670,122,,,,51,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YU7LS"",""callsign"":""YU7LS""}]",,59,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YV7QP:0a5a53d990c373f3,YV7QP,YV7QP,SA-012,"12 
+                    hr CW | Island - Single-Operator - 
+                          CW (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 12 CW",,,"61,488",61488,240,,,,42,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YV7QP"",""callsign"":""YV7QP""}]",,26,,,,,,,"{""iota_reference"":""SA-012"",""island_name"":""Margarita Island"",""section"":null,""source_marker"":null}"
+iota:2003:cw:YZ1V:2680debaadd58377,YZ1V,YZ1V,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"541,161",541161,505,,,,131,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YZ1V"",""callsign"":""YZ1V""}]",,2,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:YZ7EM:2680debaadd58377,YZ7EM,YZ7EM,,"12 hr CW | World - Single-Operator - CW 
+                          (12 hour Low Power) | RSGB  Results - IOTA Contest 2003 World 12 CW",,,"19,728",19728,110,,,,24,,,false,eligible,official_legacy_result_table,true,"[{""source"":""YZ7EM"",""callsign"":""YZ7EM""}]",,91,,,,,,,"{""iota_reference"":null,""island_name"":null,""section"":null,""source_marker"":null}"
+iota:2003:cw:ZC4VG:4c4a17466ed14dd5,ZC4VG,ZC4VG,,"24 hr CW | Island - Single-Operator - 
+                          CW (24 hour Low Power) | RSGB  Results - IOTA Contest 2003 Island 24 CW | AS-004",,,"163,452",163452,620,,,,53,,,false,eligible,official_legacy_result_table,true,"[{""source"":""ZC4VG"",""callsign"":""ZC4VG""}]",,1,,,,,,,"{""iota_reference"":null,""section"":""AS-004"",""source_marker"":null}"
