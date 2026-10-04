@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate the compact score archive and rebuild its PostgreSQL database."""
+"""Validate the compact score archive and build or incrementally update PostgreSQL."""
 
 from __future__ import annotations
 
@@ -11,7 +11,7 @@ import json
 import os
 import re
 import sys
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from datetime import datetime, timezone
 from decimal import Decimal, InvalidOperation
 from pathlib import Path
@@ -140,6 +140,7 @@ class ArchiveStats:
     official_rank_values: int = 0
     latest_retrieved_at: str | None = None
     release_id: str = ""
+    partition_digests: dict[tuple[str, int, str], str] = field(default_factory=dict)
 
     def as_dict(self) -> dict[str, int | str]:
         return {
@@ -313,6 +314,26 @@ def _validate_score_row(row: dict[str, str], partition: Partition) -> tuple[int,
     return len(operators), rank_count
 
 
+def _partition_digest(partition: Partition) -> str:
+    digest = hashlib.sha256()
+    for path in (partition.scores_path, partition.scores_path.with_name("meta.json")):
+        digest.update(path.name.encode("utf-8") + b"\0")
+        with path.open("rb") as stream:
+            while chunk := stream.read(1024 * 1024):
+                digest.update(chunk)
+    return digest.hexdigest()
+
+
+def _partition_key(partition: Partition) -> tuple[str, int, str]:
+    return (partition.contest_id, partition.year, partition.mode)
+
+
+def _verify_archive_snapshot(data_root: Path, stats: ArchiveStats) -> None:
+    current = {_partition_key(p): _partition_digest(p) for p in _partitions(data_root)}
+    if current != stats.partition_digests:
+        raise ValueError("Archive changed after validation; rerun with a stable archive")
+
+
 def validate_archive(data_root: Path) -> ArchiveStats:
     stats = ArchiveStats()
     release_hash = hashlib.sha256()
@@ -320,6 +341,7 @@ def validate_archive(data_root: Path) -> ArchiveStats:
     latest: datetime | None = None
     for partition in _partitions(data_root):
         stats.partitions += 1
+        stats.partition_digests[_partition_key(partition)] = _partition_digest(partition)
         retrieved = _parse_datetime(
             partition.meta["retrieved_at_utc"],
             f"{partition.scores_path.parent / 'meta.json'} retrieved_at_utc",
@@ -511,12 +533,57 @@ def _operator_rows(row: dict[str, str]) -> Iterator[tuple[Any, ...]]:
         yield (row["entry_id"], order, operator["source"], operator["callsign"])
 
 
-def _copy_archive(connection: Any, data_root: Path, *, resume: bool = False) -> dict[str, int]:
+def _load_partition(connection: Any, partition: Partition, digest: str, builder_version: str) -> dict[str, int]:
+    partition_counts = {"entries": 0, "operators": 0}
+    with connection.cursor() as cursor:
+        cursor.execute(
+            "INSERT INTO contest_result_partition "
+            "(contest_id, edition_year, mode, retrieved_at_utc, source_url, archive_digest, builder_version) "
+            "VALUES (%s, %s, %s, %s, %s, %s, %s)",
+            (
+                partition.contest_id,
+                partition.year,
+                partition.mode,
+                partition.meta["retrieved_at_utc"],
+                partition.meta["source"],
+                digest,
+                builder_version,
+            ),
+        )
+        for table, fields, row_source in (
+            ("contest_result", RESULT_COPY_FIELDS, "entry"),
+            ("contest_result_operator", OPERATOR_COPY_FIELDS, "operator"),
+        ):
+            columns = ", ".join(fields)
+            output = io.StringIO(newline="")
+            writer = csv.writer(output, lineterminator="\n")
+            for row in _score_rows(partition):
+                if row_source == "entry":
+                    writer.writerow(_db_entry(row, partition))
+                    partition_counts["entries"] += 1
+                else:
+                    for operator_row in _operator_rows(row):
+                        writer.writerow(operator_row)
+                        partition_counts["operators"] += 1
+            payload = output.getvalue()
+            with cursor.copy(
+                f"COPY {table} ({columns}) FROM STDIN WITH (FORMAT CSV)"
+            ) as copy:
+                copy.write(payload)
+    return partition_counts
+
+
+def _copy_archive(connection: Any, data_root: Path, stats: ArchiveStats, builder_version: str, *, resume: bool = False) -> dict[str, int]:
     counts = {"partitions": 0, "entries": 0, "operators": 0}
     if resume:
         with connection.cursor() as cursor:
-            cursor.execute("SELECT contest_id, edition_year, mode FROM contest_result_partition")
-            completed = set(cursor.fetchall())
+            cursor.execute("SELECT contest_id, edition_year, mode, archive_digest, builder_version FROM contest_result_partition")
+            completed = set()
+            for contest, year, mode, digest, version in cursor.fetchall():
+                key = (contest, year, mode)
+                if stats.partition_digests.get(key) != digest or version != builder_version:
+                    raise ValueError("Cannot resume a changed archive or builder; use --incremental or rebuild")
+                completed.add(key)
             cursor.execute("SELECT count(*) FROM contest_result")
             counts["entries"] = int(cursor.fetchone()[0])
             cursor.execute("SELECT count(*) FROM contest_result_operator")
@@ -528,40 +595,9 @@ def _copy_archive(connection: Any, data_root: Path, *, resume: bool = False) -> 
         partition_key = (partition.contest_id, partition.year, partition.mode)
         if partition_key in completed:
             continue
-        partition_counts = {"entries": 0, "operators": 0}
-        with connection.cursor() as cursor:
-            cursor.execute(
-                "INSERT INTO contest_result_partition "
-                "(contest_id, edition_year, mode, retrieved_at_utc, source_url) "
-                "VALUES (%s, %s, %s, %s, %s)",
-                (
-                    partition.contest_id,
-                    partition.year,
-                    partition.mode,
-                    partition.meta["retrieved_at_utc"],
-                    partition.meta["source"],
-                ),
-            )
-            for table, fields, row_source in (
-                ("contest_result", RESULT_COPY_FIELDS, "entry"),
-                ("contest_result_operator", OPERATOR_COPY_FIELDS, "operator"),
-            ):
-                columns = ", ".join(fields)
-                output = io.StringIO(newline="")
-                writer = csv.writer(output, lineterminator="\n")
-                for row in _score_rows(partition):
-                    if row_source == "entry":
-                        writer.writerow(_db_entry(row, partition))
-                        partition_counts["entries"] += 1
-                    else:
-                        for operator_row in _operator_rows(row):
-                            writer.writerow(operator_row)
-                            partition_counts["operators"] += 1
-                payload = output.getvalue()
-                with cursor.copy(
-                    f"COPY {table} ({columns}) FROM STDIN WITH (FORMAT CSV)"
-                ) as copy:
-                    copy.write(payload)
+        partition_counts = _load_partition(
+            connection, partition, stats.partition_digests[partition_key], builder_version
+        )
         connection.commit()
         counts["partitions"] += 1
         counts["entries"] += partition_counts["entries"]
@@ -576,6 +612,51 @@ def _copy_archive(connection: Any, data_root: Path, *, resume: bool = False) -> 
     return counts
 
 
+def _sync_archive(
+    connection: Any, data_root: Path, stats: ArchiveStats, builder_version: str,
+    *, allow_removals: bool,
+) -> dict[str, int]:
+    changes = {"added": 0, "replaced": 0, "removed": 0, "unchanged": 0}
+    with connection.cursor() as cursor:
+        # Serialize writers; ordinary SELECT readers continue to use committed data.
+        cursor.execute("LOCK TABLE contest_result_partition, contest_result, "
+                       "contest_result_operator, testag_dataset_release IN SHARE ROW EXCLUSIVE MODE")
+        # Upgrade the previous schema without dropping its published data.
+        cursor.execute("SELECT attname FROM pg_attribute "
+                       "WHERE attrelid = 'contest_result_partition'::regclass "
+                       "AND attnum > 0 AND NOT attisdropped")
+        columns = {row[0] for row in cursor.fetchall()}
+        for name in ("archive_digest", "builder_version"):
+            if name not in columns:
+                cursor.execute(f"ALTER TABLE contest_result_partition ADD COLUMN {name} text")
+        cursor.execute("SELECT contest_id, edition_year, mode, archive_digest, builder_version "
+                       "FROM contest_result_partition")
+        existing = {(c, y, m): (d, v) for c, y, m, d, v in cursor.fetchall()}
+        removed = existing.keys() - stats.partition_digests.keys()
+        if removed and not allow_removals:
+            raise ValueError(f"Archive is missing database partitions: {sorted(removed)}; "
+                             "use --allow-removals with --incremental to explicitly remove them")
+        changed = {key for key, digest in stats.partition_digests.items()
+                   if existing.get(key) != (digest, builder_version)}
+        # Support cascading partition deletion even for entries with no calculated rank.
+        cursor.execute("CREATE INDEX IF NOT EXISTS contest_result_partition_idx "
+                       "ON contest_result (contest_id, edition_year, mode)")
+        # Delete all changed partitions before loading so entry IDs can move between partitions.
+        for key in sorted(removed | (changed & existing.keys())):
+            cursor.execute("DELETE FROM contest_result_partition "
+                           "WHERE contest_id = %s AND edition_year = %s AND mode = %s", key)
+        changes["removed"] = len(removed)
+    for partition in _partitions(data_root):
+        key = _partition_key(partition)
+        if key not in changed:
+            changes["unchanged"] += 1
+            continue
+        _load_partition(connection, partition, stats.partition_digests[key], builder_version)
+        changes["replaced" if key in existing else "added"] += 1
+    # No commit here: data changes, verification and release publication are atomic.
+    return changes
+
+
 def _sql_statements(sql: str) -> list[str]:
     return [statement.strip() for statement in sql.split(";") if statement.strip()]
 
@@ -587,7 +668,13 @@ def build_database(
     stats: ArchiveStats,
     *,
     resume: bool = False,
+    incremental: bool = False,
+    allow_removals: bool = False,
 ) -> dict[str, int | str]:
+    if resume and incremental:
+        raise ValueError("--resume and --incremental are mutually exclusive")
+    if allow_removals and not incremental:
+        raise ValueError("--allow-removals requires --incremental")
     try:
         import psycopg
     except ImportError as exc:
@@ -596,7 +683,10 @@ def build_database(
     schema_path = repository_root / "db" / "schema.sql"
     if not schema_path.is_file():
         raise ValueError(f"Missing canonical database schema: {schema_path}")
-    schema_statements = _sql_statements(schema_path.read_text(encoding="utf-8"))
+    schema_text = schema_path.read_text(encoding="utf-8")
+    # Bump the semantic version when conversion/ranking behavior changes.
+    builder_version = hashlib.sha256(("testag-builder-v1\0" + schema_text).encode("utf-8")).hexdigest()
+    schema_statements = _sql_statements(schema_text)
     table_statements = [
         statement for statement in schema_statements
         if not statement.lstrip().upper().startswith("CREATE INDEX ")
@@ -605,22 +695,31 @@ def build_database(
         statement for statement in schema_statements
         if statement.lstrip().upper().startswith("CREATE INDEX ")
     ]
-    with psycopg.connect(database_url) as connection:
-        if resume:
+    _verify_archive_snapshot(data_root, stats)
+    with psycopg.connect(database_url, client_encoding="UTF8") as connection:
+        if resume or incremental:
             with connection.cursor() as cursor:
                 cursor.execute(
                     "SELECT to_regclass('public.contest_result_partition'), "
                     "to_regclass('public.contest_result'), "
-                    "to_regclass('public.contest_result_operator')"
+                    "to_regclass('public.contest_result_operator'), "
+                    "to_regclass('public.testag_dataset_release')"
                 )
                 if any(value is None for value in cursor.fetchone()):
-                    raise ValueError("Cannot resume: TESTAG tables are missing; run a full rebuild first")
+                    raise ValueError("TESTAG tables are missing; run a full rebuild first")
         else:
             with connection.cursor() as cursor:
                 for statement in table_statements:
                     cursor.execute(statement)
             connection.commit()
-        loaded = _copy_archive(connection, data_root, resume=resume)
+        _verify_archive_snapshot(data_root, stats)
+        changes: dict[str, int] = {}
+        if incremental:
+            changes = _sync_archive(connection, data_root, stats, builder_version, allow_removals=allow_removals)
+            loaded = {"partitions": stats.partitions, "entries": stats.entries, "operators": stats.operators}
+        else:
+            loaded = _copy_archive(connection, data_root, stats, builder_version, resume=resume)
+        _verify_archive_snapshot(data_root, stats)
         with connection.cursor() as cursor:
             for statement in index_statements:
                 cursor.execute(statement)
@@ -643,6 +742,12 @@ def build_database(
                     f"{loaded_entry_count}/{loaded_operator_count}/{loaded_partition_count}, "
                     f"validated {stats.as_dict()}"
                 )
+            if incremental:
+                cursor.execute("SELECT release_id FROM testag_dataset_release")
+                published = cursor.fetchall()
+                if published == [(stats.release_id,)] and not any(changes[k] for k in ("added", "replaced", "removed")):
+                    return {**stats.as_dict(), **loaded, **changes}
+                cursor.execute("DELETE FROM testag_dataset_release")
             cursor.execute(
                 "INSERT INTO testag_dataset_release "
                 "(release_id, latest_retrieved_at_utc, dataset_license, attribution, "
@@ -663,25 +768,34 @@ def build_database(
                     stats.operators,
                 ),
             )
-    return {**stats.as_dict(), **loaded}
+    return {**stats.as_dict(), **loaded, **changes}
 
 
 def main(argv: list[str] | None = None) -> int:
-    parser = argparse.ArgumentParser(description="Validate score CSVs and rebuild the TESTAG PostgreSQL database")
+    parser = argparse.ArgumentParser(description="Validate score CSVs and build or update the TESTAG PostgreSQL database")
     parser.add_argument("--data-dir", type=Path, default=Path(__file__).resolve().parent / "data")
     parser.add_argument("--database-url", default=os.environ.get("TESTAG_DATABASE_URL"))
     parser.add_argument("--validate-only", action="store_true", help="Validate the archive without connecting to PostgreSQL")
-    parser.add_argument("--resume", action="store_true", help="Resume a partial rebuild without dropping already loaded tables")
+    modes = parser.add_mutually_exclusive_group()
+    modes.add_argument("--incremental", action="store_true", help="Atomically load new or changed partitions without rebuilding")
+    parser.add_argument("--allow-removals", action="store_true", help="Allow --incremental to delete partitions missing from the archive")
+    modes.add_argument("--resume", action="store_true", help="Resume a partial rebuild without dropping already loaded tables")
     args = parser.parse_args(argv)
     try:
+        if args.allow_removals and not args.incremental:
+            raise ValueError("--allow-removals requires --incremental")
         stats = validate_archive(args.data_dir)
         if args.validate_only:
             print(json.dumps({"status": "valid", **stats.as_dict()}, indent=2))
             return 0
         if not args.database_url:
             raise ValueError("Pass --database-url or set TESTAG_DATABASE_URL")
-        result = build_database(Path(__file__).resolve().parent, args.data_dir, args.database_url, stats, resume=args.resume)
-        print(json.dumps({"status": "database_resumed" if args.resume else "database_rebuilt", **result}, indent=2))
+        result = build_database(
+            Path(__file__).resolve().parent, args.data_dir, args.database_url, stats,
+            resume=args.resume, incremental=args.incremental, allow_removals=args.allow_removals,
+        )
+        status = "database_updated" if args.incremental else "database_resumed" if args.resume else "database_rebuilt"
+        print(json.dumps({"status": status, **result}, indent=2))
         return 0
     except Exception as exc:
         print(f"ERROR: {exc}", file=sys.stderr)

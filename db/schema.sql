@@ -25,6 +25,8 @@ CREATE TABLE contest_result_partition (
     mode text NOT NULL CHECK (mode IN ('ssb', 'cw', 'mixed')),
     retrieved_at_utc timestamptz NOT NULL,
     source_url text NOT NULL,
+    archive_digest text,
+    builder_version text,
     PRIMARY KEY (contest_id, edition_year, mode)
 );
 
@@ -113,6 +115,8 @@ CREATE TABLE contest_result_operator (
     UNIQUE (entry_id, operator_callsign)
 );
 
+CREATE INDEX IF NOT EXISTS contest_result_partition_idx
+    ON contest_result (contest_id, edition_year, mode);
 CREATE INDEX IF NOT EXISTS contest_result_station_lookup_idx
     ON contest_result (station_callsign, contest_id, edition_year DESC, mode);
 CREATE INDEX IF NOT EXISTS contest_result_category_world_rank_idx

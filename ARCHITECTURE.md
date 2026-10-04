@@ -40,12 +40,12 @@ The archive's parser-provided DXCC/entity value is retained in `dxcc_entity_sour
 
 `db/schema.sql` is the single canonical PostgreSQL schema. It defines four tables:
 
-- `contest_result_partition`: one row per contest/year/mode, including the `meta.json` source URL and retrieval timestamp;
+- `contest_result_partition`: one row per contest/year/mode, including the `meta.json` source URL and retrieval timestamp, plus nullable `archive_digest` and `builder_version` tracking columns;
 - `contest_result`: one row per station result, with score, eligibility, explicit entity/overlay labels, integer official and calculated ranks, and contest-specific metrics as JSONB;
 - `contest_result_operator`: one row per result/operator membership;
 - `testag_dataset_release`: the loaded archive digest, build time, latest source retrieval time, license, attribution, and row counts.
 
-`build_db.py` validates the compact archive, then drops and recreates these owned tables from `db/schema.sql`. It commits the empty schema, imports each contest/year/mode partition in its own transaction, creates indexes after loading, checks all row counts, and records the release last. If loading fails midway, rerun normally to reset the tables, or pass `--resume` to skip committed partitions in an existing partial build. Resume counts the committed tables, adds missing partitions, and performs the same final count checks. Absence of a release row marks the load as incomplete. Official rank strings in CSV are parsed as integers for PostgreSQL; the original display text remains in the archive. The schema deliberately uses the same `cw`, `ssb`, and `mixed` mode set as the archive builder.
+`build_db.py` validates the compact archive, then drops and recreates these owned tables from `db/schema.sql`. It commits the empty schema, imports each contest/year/mode partition in its own transaction, creates indexes after loading, checks all row counts, and records the release last. If loading fails midway, rerun normally to reset the tables, or pass `--resume` to skip committed partitions in an existing partial build. Resume verifies the digests and builder versions of committed partitions, rejects changed loaded partitions, adds missing partitions, and performs the same final count checks. Older partial builds without tracking columns must use incremental mode or a full rebuild. Absence of a release row marks the load as incomplete. Official rank strings in CSV are parsed as integers for PostgreSQL; the original display text remains in the archive. The schema deliberately uses the same `cw`, `ssb`, and `mixed` mode set as the archive builder.
 
 Rebuilding is destructive to the TESTAG tables in the selected database. Use a disposable or explicitly approved database.
 
@@ -56,6 +56,52 @@ python build_db.py --validate-only
 ```
 
 Validation checks the exact partition contents and metadata keys, CSV fields, score types, callsigns, eligibility, operator lists, and all calculated rank values. It recomputes the four calculated rank scopes in memory and compares them with the committed CSV fields. Database loading requires Psycopg 3 and a PostgreSQL URL.
+
+## Incremental publication
+
+`--incremental` requires the four existing TESTAG tables and a complete validated
+archive. Validation stores SHA-256 digests of each partition's score and metadata
+file bytes, delimited by filenames. These digests are separate from the existing
+whole-archive release digest, whose format is unchanged. `builder_version` is a
+SHA-256 digest of the canonical schema and an explicit semantic builder version
+(`testag-builder-v1`); bump that version for conversion/ranking behavior changes.
+A differing builder version forces partition replacement but does not migrate
+incompatible schemas. Such schemas require a full rebuild.
+
+The builder compares `(contest_id, edition_year, mode)` keys and tracking values,
+inserts new partitions, and replaces changed ones. All changed/removed partition
+rows are deleted before insertion so entry IDs may move between partitions.
+Existing cascading foreign keys remove station results and operator memberships.
+An unconditional contest/year/mode index supports these deletes even for entries
+without calculated ranks.
+The eight ranks remain validated against the complete partition; no individual
+score or rank is silently repaired. Missing archive partitions are rejected
+unless `--allow-removals` is supplied with `--incremental`.
+
+A single transaction serializes writers with SHARE ROW EXCLUSIVE locks on all
+four tables, applies changes, verifies counts and stable archive digests, then
+replaces the release row. Failed updates roll back all data and release changes.
+An unchanged run retains the existing release timestamp. Release records describe
+the current dataset; incremental publication removes older release rows so
+freshness and counts cannot select a stale release after returning to an older
+archive. Readers see committed data while ordinary incremental loading runs;
+separate web queries may span a publication, since web requests do not currently
+use a single database snapshot.
+
+For the previous canonical schema, incremental mode adds missing nullable
+`archive_digest` and `builder_version` columns in this transaction. Null tracking
+values force one replacement of each legacy partition. ALTER TABLE requires a
+stronger lock and may block readers until this first upgrade commits. Subsequent
+runs avoid ALTER TABLE entirely. No other schema migrations are implemented.
+Full builds store tracking values as they load each partition; resume checks them.
+
+Digest checks detect ordinary file changes between validation and publication;
+the archive must remain stable throughout the command. Skipped partitions are
+trusted as builder-owned database content; manual same-count row edits are not
+detected. Validation still scans the whole archive, so incremental loading saves
+database writes rather than eliminating validation work. Tests live under
+`tests/` and require an explicitly selected disposable database; `build_db.py`
+remains the only executable project script.
 
 ## Web consumer contract
 

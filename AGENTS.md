@@ -15,7 +15,7 @@ This repository is the compact contest-results archive and PostgreSQL builder fo
 ## Database builder
 
 - Use `python build_db.py --validate-only` for offline archive validation.
-- Build PostgreSQL only when explicitly requested and only with a disposable or approved database URL. The builder drops and recreates the TESTAG tables defined by `db/schema.sql` in the selected database.
+- Build PostgreSQL only when explicitly requested and only with a disposable or approved database URL. A normal build drops and recreates the TESTAG tables defined by `db/schema.sql`; `--incremental` atomically updates changed partitions without dropping tables. `--allow-removals` explicitly permits removal of partitions missing from the archive. Integration tests require an explicitly selected disposable database and reset its TESTAG tables.
 - Never point tests or ad hoc imports at production. This repository has no live source checks or scraping tests.
 
 ## Documentation and continuity
