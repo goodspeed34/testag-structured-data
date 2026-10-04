@@ -1,0 +1,30 @@
+{
+  "provider": "CQRLOG country files / Martin OK1RR",
+  "parser": "CQRLOG Python DXCC parser",
+  "repository": "https://github.com/ok2cqr/cqrlog-cnty-files",
+  "commit": "4adb0e70bf29faefc3b203bc355796cd0c6201fe",
+  "parser_license": "GPL-2.0",
+  "data_attribution": "Country tables by Martin OK1RR; upstream has no separate data license text; reference files are not redistributed here.",
+  "date_policy": "Entity must be constant throughout the edition year across matching record validity boundaries; no exact contest date is assumed.",
+  "ambiguous_prefix_policy": "Reject generic ambiguous-prefix matches unless a more specific area or exception resolves them.",
+  "files": {
+    "data/dxcc/Ambiguous.tbl": "a9c8feb3ddb446402bd75ff5b69e6253516719b69c29d56e6fc6619077c80096",
+    "data/dxcc/AreaOK1RR.tbl": "4445908380a74c90e91e1b5a5651da65aacb82ddab9ddd8ddb4cfc73cfaa93af",
+    "data/dxcc/CallResolution.tbl": "a980d9a604b67a1354b99f38ea8b6c97074b71cfab6d96bcec79e428b6f2825c",
+    "data/dxcc/Country.tab": "3a11279b6296da7f31d57c6e83b0f23b9a05ec281dbbdf198fbfb13a29d56821",
+    "data/dxcc/CountryDel.tab": "7a4bd962a148174eaa284288e37d18ad62f7a78402145d1d5b5bfbb26a9d18b6",
+    "data/dxcc/Exceptions.tab": "31763781eb7851195a5a5108454b4cb30937d5915fd40061df8637aaedd589e6",
+    "data/dxcc/us_states.tab": "51b38c2074ea1accc802a567daa786fc638c12a2f29114a812b39505c2f34275",
+    "parsers/python/dxcc/__init__.py": "d674ec28b0dff63bfc15ba917844e5b98a0f9f07619c9b0ea3955aa5fc9801c4",
+    "parsers/python/dxcc/cli.py": "d016094aa170006ee2e36a1948560f34909f5a90d6185d8b7c21a3d8d2f35ec2",
+    "parsers/python/dxcc/collation.py": "d6f2f7440137ed67c74c41a318349b62d9b65bd9f45eb3bdc82c2f760a4ec0be",
+    "parsers/python/dxcc/entry.py": "d3a2436d98d6706e91df4ec5cef4cb0d013ed2ebea7ac3901c7df54a5c9d7faf",
+    "parsers/python/dxcc/limits.py": "5b675f9a2ac9d08ceda69f1804187174d511c9a634641f1a7bab843182764620",
+    "parsers/python/dxcc/pattern.py": "b96fa9f8bd813109d1cb8b47d499f0e5ac744f67e9933ee9b93a83b0b70ce66a",
+    "parsers/python/dxcc/resolver.py": "f63fda17dc4919c110653ddf922d8e89ee334aafaed3a7e64062504c4e9542b2",
+    "parsers/python/dxcc/rtl.py": "5c414d6b65745457955a7a1032d286bcc05ac50536a58877a4ae4d44877f157c",
+    "parsers/python/dxcc/source.py": "a2712ca233282b96a434a21e1f2a3069b9fb3c7e86e3205160aac8ed2ed959aa",
+    "parsers/python/dxcc/suffix_rules.py": "0022ff44303143c3fed5924fa9d11c1944ebb4f92e588920e090826664fd58bd",
+    "parsers/python/dxcc/table.py": "c27270d30a1a029a83c5e12ffb094d26ee6fdd85f73dbf9e475e78c67c2c15d2"
+  }
+}

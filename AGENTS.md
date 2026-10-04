@@ -7,7 +7,7 @@ This repository is the compact contest-results archive and PostgreSQL builder fo
 - Keep the committed score archive under `data/` as the source of truth. PostgreSQL is derived.
 - Use the layout `data/<contest>/<year>/<mode>/{scores.csv,meta.json}`. Keep only score/result fields and the eight rank fields documented in `ARCHITECTURE.md`.
 - Each `meta.json` must contain only `retrieved_at_utc` and `source`.
-- Preserve source provenance, source and normalized callsigns, score details, eligibility, QSOs, multipliers, work time, operator memberships, and explicit DXCC/entity values. Do not guess at scores, categories, eligibility, corrections, omitted operators, or DXCC entities.
+- Preserve source provenance, source and normalized callsigns, score details, eligibility, QSOs, multipliers, work time, operator memberships, and explicit DXCC/entity values. Do not guess at scores, categories, eligibility, corrections, or omitted operators. The user has authorized callsign-derived DXCC fallback: keep contest entities unchanged, record inference separately, and leave ambiguous/unresolved cases blank using the pinned policy in `dxcc/README.md`.
 - Calculate category worldwide and in-DXCC ranks using eligible score rows. Calculate overlay ranks only for an explicit overlay label/category. Keep source-reported values separate from calculated ranks.
 - Preserve the data license and attribution: CC BY-NC-ND 4.0 International; Gong BI1XJT <BI1XJT@rad1o.cn>.
 - Do not add source collectors, scrapers, or refresh automation. The only executable project script is `build_db.py`.
